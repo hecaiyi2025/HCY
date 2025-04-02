@@ -159,9 +159,9 @@ export class BaseGameController extends Component {
         //super.onDisable();
     //}
 
-    start() {
+    start() {//注册了这么多事件，在什么时候off呢？
 
-        console.log("this.m_deadMonsterList=",this.m_deadMonsterList.length);
+        //console.log("this.m_deadMonsterList=",this.m_deadMonsterList.length);
         oops.message.on(MESSAGE_DEFINES.ROLE_ATTACK.toString(),(...arg:any) => {
             this.bulletController!.CreateBullet(arg[1].from, arg[1].target, arg[1].attack, arg[1].fetterInfo);
             
@@ -774,6 +774,7 @@ export class BaseGameController extends Component {
         this.m_deadMonsterNum = 0;
         this.m_deadMonsterList = [];
         this.m_dropList=[];
+        oops.message.off(MESSAGE_DEFINES.MONSTER_DEAD.toString(),(...arg:any)=>{},this);
         super.destroy();
         return true;
     }
