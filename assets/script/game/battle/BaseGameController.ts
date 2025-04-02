@@ -774,7 +774,58 @@ export class BaseGameController extends Component {
         this.m_deadMonsterNum = 0;
         this.m_deadMonsterList = [];
         this.m_dropList=[];
-        oops.message.off(MESSAGE_DEFINES.MONSTER_DEAD.toString(),(...arg:any)=>{},this);
+        oops.message.off(MESSAGE_DEFINES.MONSTER_DEAD.toString(),(...arg:any) => {
+            this.m_deadMonsterNum++;
+            let deadMonster = arg[1];
+            if (deadMonster) {
+                const deadMonsterScript = deadMonster.getComponent(BaseMonster);
+                const monsterInfo = deadMonsterScript.GetInfo();
+                if (monsterInfo) {
+                    let has = false;
+                    for (let i = 0; i < this.m_deadMonsterList.length; i++) {
+                        const item = this.m_deadMonsterList[i];
+                        if (item.id = monsterInfo.id) {
+                            has = true;
+                            item.num++;
+                            break;
+                        }
+                    }
+                    if (!has) {
+                        this.m_deadMonsterList.push({
+                            id: monsterInfo.id,
+                            num: 1,
+                        });
+                    }
+
+                    const str = monsterInfo.drop;
+                    const drops = JSON.parse(str);
+                    has = false;
+                    if (drops) {
+                        for (let i = 0; i < drops.length; i++) {
+                            const drop = drops[i];
+                            drop["fromPos"] = deadMonster.getWorldPosition();
+                            oops.message.dispatchEvent(MESSAGE_DEFINES.GAME_SHOW_DROP.toString(), drop)
+                            //postMessage(MESSAGE_DEFINES.GAME_SHOW_DROP, drop);
+                            for (let j = 0; j < this.m_dropList.length; j++) {
+                                const item = this.m_dropList[j];
+                                if (item.id == drop.id) {
+                                    item.num += Number(drop.num);
+                                    has = true;
+                                    break;
+                                }
+                            }
+                            if (!has) {
+                                this.m_dropList.push({
+                                    id: drop.id,
+                                    num: Number(drop.num),
+                                });
+                            }
+                        }
+                    }
+                }
+            }
+            
+        },this);
         super.destroy();
         return true;
     }
