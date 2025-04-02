@@ -160,15 +160,8 @@ export class BaseGameController extends Component {
     //}
 
     start() {
-        this.m_buffs =[];
-        this.m_buffId= null;
-        this.m_money = 0;
-    
-        //游戏统计
-        this.m_deadMonsterNum = 0;
-        this.m_deadMonsterList = [];
-        this.m_dropList=[];
 
+        console.log("this.m_deadMonsterList=",this.m_deadMonsterList.length);
         oops.message.on(MESSAGE_DEFINES.ROLE_ATTACK.toString(),(...arg:any) => {
             this.bulletController!.CreateBullet(arg[1].from, arg[1].target, arg[1].attack, arg[1].fetterInfo);
             
@@ -772,6 +765,7 @@ export class BaseGameController extends Component {
    
 
     destroy(): boolean {
+        
         this.m_buffs =[];
         this.m_buffId= null;
         this.m_money = 0;
@@ -780,7 +774,7 @@ export class BaseGameController extends Component {
         this.m_deadMonsterNum = 0;
         this.m_deadMonsterList = [];
         this.m_dropList=[];
-
+        super.destroy();
         return true;
     }
 
