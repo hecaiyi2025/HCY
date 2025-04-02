@@ -1,0 +1,146 @@
+
+302030_skill4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/4dunpai/dunpai_18
+  rotate: true
+  xy: 148, 920
+  size: 67, 134
+  orig: 1136, 640
+  offset: 579, 252
+  index: -1
+skill/4dunpai/dunpai_19
+  rotate: false
+  xy: 904, 839
+  size: 83, 148
+  orig: 1136, 640
+  offset: 567, 240
+  index: -1
+skill/4dunpai/dunpai_20
+  rotate: true
+  xy: 608, 732
+  size: 109, 180
+  orig: 1136, 640
+  offset: 548, 227
+  index: -1
+skill/4dunpai/dunpai_21
+  rotate: true
+  xy: 790, 727
+  size: 110, 180
+  orig: 1136, 640
+  offset: 547, 227
+  index: -1
+skill/4dunpai/dunpai_22
+  rotate: true
+  xy: 2, 660
+  size: 110, 180
+  orig: 1136, 640
+  offset: 547, 227
+  index: -1
+skill/4dunpai/dunpai_23
+  rotate: true
+  xy: 2, 847
+  size: 71, 150
+  orig: 1136, 640
+  offset: 571, 247
+  index: -1
+skill/4dunpai/dunpai_24
+  rotate: true
+  xy: 456, 769
+  size: 73, 150
+  orig: 1136, 640
+  offset: 570, 247
+  index: -1
+skill/4dunpai/dunpai_25
+  rotate: true
+  xy: 753, 843
+  size: 72, 149
+  orig: 1136, 640
+  offset: 571, 247
+  index: -1
+skill/4dunpai/dunpai_26
+  rotate: true
+  xy: 2, 773
+  size: 72, 149
+  orig: 1136, 640
+  offset: 571, 247
+  index: -1
+skill/4dunpai/dunpai_27
+  rotate: true
+  xy: 304, 771
+  size: 72, 150
+  orig: 1136, 640
+  offset: 571, 246
+  index: -1
+skill/4dunpai/dunpai_28
+  rotate: true
+  xy: 153, 772
+  size: 73, 149
+  orig: 1136, 640
+  offset: 570, 246
+  index: -1
+skill/4dunpai/dunpai_29
+  rotate: true
+  xy: 154, 847
+  size: 71, 148
+  orig: 1136, 640
+  offset: 571, 246
+  index: -1
+skill/4dunpai/dunpai_30
+  rotate: true
+  xy: 304, 845
+  size: 71, 148
+  orig: 1136, 640
+  offset: 571, 246
+  index: -1
+skill/4dunpai/dunpai_31
+  rotate: true
+  xy: 454, 845
+  size: 71, 148
+  orig: 1136, 640
+  offset: 571, 246
+  index: -1
+skill/4dunpai/dunpai_32
+  rotate: true
+  xy: 604, 844
+  size: 71, 147
+  orig: 1136, 640
+  offset: 571, 246
+  index: -1
+skill/4dunpai/dunpai_33
+  rotate: true
+  xy: 727, 917
+  size: 70, 147
+  orig: 1136, 640
+  offset: 571, 246
+  index: -1
+skill/4dunpai/dunpai_34
+  rotate: true
+  xy: 431, 918
+  size: 69, 147
+  orig: 1136, 640
+  offset: 572, 246
+  index: -1
+skill/4dunpai/dunpai_35
+  rotate: true
+  xy: 580, 918
+  size: 69, 145
+  orig: 1136, 640
+  offset: 572, 247
+  index: -1
+skill/4dunpai/dunpai_36
+  rotate: true
+  xy: 284, 920
+  size: 67, 145
+  orig: 1136, 640
+  offset: 573, 247
+  index: -1
+skill/4dunpai/dunpai_37
+  rotate: true
+  xy: 2, 920
+  size: 67, 144
+  orig: 1136, 640
+  offset: 573, 247
+  index: -1

@@ -13,14 +13,26 @@ export enum UIID {
     Alert,
     /** 确认弹出窗口 */
     Confirm,
+    Reward,
     /** DEMO */
-    Demo
+    Demo,
+    Game,
+    GameBuffView,
+    success,
+    fail,
+    Loading2,
 }
 
 /** 打开界面方式的配置数据 */
 export var UIConfigData: { [key: number]: UIConfig } = {
-    [UIID.Loading]: { layer: LayerType.UI, prefab: "gui/loading/loading" },
+    [UIID.Loading]: { layer: LayerType.UI, prefab: "login/prefab/LoadingViewComp"},
     [UIID.Alert]: { layer: LayerType.Dialog, prefab: "common/prefab/alert" },
     [UIID.Confirm]: { layer: LayerType.Dialog, prefab: "common/prefab/confirm" },
-    [UIID.Demo]: { layer: LayerType.UI, prefab: "gui/demo/demo" },
+    [UIID.Reward]: { layer: LayerType.Dialog, prefab: "common/prefab/confirm" },
+    [UIID.Demo]: { layer: LayerType.UI, prefab: "Hall/background/prefab/HallView" },
+    [UIID.Game]: { layer: LayerType.UI, prefab: "game/battle/prefab/root" },
+    [UIID.GameBuffView]: { layer: LayerType.UI, prefab: "gui/gameBuff/prefab/gameBuff" },
+    [UIID.success]: { layer: LayerType.UI, prefab: "gui/end/gameSuccess" },
+    [UIID.fail]: { layer: LayerType.UI, prefab: "gui/end/gameFailed" },
+    [UIID.Loading2]: { layer: LayerType.UI, prefab: "gui/loading/loading"},
 }

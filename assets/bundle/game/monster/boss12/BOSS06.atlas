@@ -1,0 +1,139 @@
+
+BOSS06.png
+size: 800,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boos6_0
+  rotate: false
+  xy: 577, 10
+  size: 144, 38
+  orig: 215, 56
+  offset: 36, 10
+  index: -1
+boos6_1
+  rotate: 180
+  xy: 597, 197
+  size: 139, 172
+  orig: 209, 255
+  offset: 35, 42
+  index: -1
+boos6_10
+  rotate: true
+  xy: 719, 5
+  size: 91, 79
+  orig: 284, 122
+  offset: 94, 43
+  index: -1
+boos6_11
+  rotate: true
+  xy: 358, 17
+  size: 113, 88
+  orig: 162, 131
+  offset: 21, 22
+  index: -1
+boos6_12
+  rotate: false
+  xy: 286, 43
+  size: 98, 151
+  orig: 147, 207
+  offset: 24, 29
+  index: -1
+boos6_13
+  rotate: false
+  xy: 2, 14
+  size: 295, 355
+  orig: 435, 524
+  offset: 68, 86
+  index: -1
+boos6_14
+  rotate: 180
+  xy: 2, 10
+  size: 75, 143
+  orig: 110, 194
+  offset: 17, 23
+  index: -1
+boos6_15
+  rotate: false
+  xy: 444, 187
+  size: 152, 182
+  orig: 219, 266
+  offset: 30, 44
+  index: -1
+boos6_16
+  rotate: false
+  xy: 589, 156
+  size: 66, 65
+  orig: 92, 93
+  offset: 14, 14
+  index: -1
+boos6_17
+  rotate: false
+  xy: 568, 325
+  size: 51, 44
+  orig: 75, 66
+  offset: 11, 11
+  index: -1
+boos6_18
+  rotate: false
+  xy: 658, 74
+  size: 140, 146
+  orig: 204, 218
+  offset: 33, 37
+  index: -1
+boos6_2
+  rotate: 180
+  xy: 85, 3
+  size: 115, 42
+  orig: 171, 60
+  offset: 27, 9
+  index: -1
+boos6_3
+  rotate: true
+  xy: 729, 238
+  size: 130, 56
+  orig: 194, 81
+  offset: 32, 13
+  index: -1
+boos6_4
+  rotate: false
+  xy: 2, 309
+  size: 50, 59
+  orig: 63, 75
+  offset: 2, 11
+  index: -1
+boos6_5
+  rotate: false
+  xy: 228, 10
+  size: 56, 73
+  orig: 81, 93
+  offset: 13, 6
+  index: -1
+boos6_6
+  rotate: 270
+  xy: 427, 94
+  size: 128, 164
+  orig: 185, 239
+  offset: 30, 38
+  index: -1
+boos6_7
+  rotate: true
+  xy: 257, 172
+  size: 196, 203
+  orig: 263, 294
+  offset: 25, 48
+  index: -1
+boos6_8
+  rotate: 180
+  xy: 474, 15
+  size: 94, 82
+  orig: 284, 126
+  offset: 94, 44
+  index: -1
+boos6_9
+  rotate: true
+  xy: 565, 42
+  size: 121, 93
+  orig: 164, 132
+  offset: 18, 21
+  index: -1

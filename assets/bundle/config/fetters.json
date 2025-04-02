@@ -1,0 +1,62 @@
+[
+    {
+        "id": "8001",
+        "name": "%E4%B8%80%E7%BA%A7%E7%BE%81%E7%BB%8A",
+        "level": "1",
+        "condition": "[{\"same\":2},{\"diff\":3}]",
+        "amplification": "0.05",
+        "triggerProbability": "0.1",
+        "param": "[{\"element\":\"gold\",\"debuff\":\"37008\"},{\"element\":\"wood\",\"buff\":\"8015\"},{\"element\":\"water\",\"debuff\":\"37009\"},{\"element\":\"fire\",\"debuff\":\"37010\"},{\"element\":\"earth\",\"debuff\":\"37011\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "8002",
+        "name": "%E4%BA%8C%E7%BA%A7%E7%BE%81%E7%BB%8A",
+        "level": "2",
+        "condition": "[{\"same\":2},{\"same\":2},{\"diff\":1}]",
+        "amplification": "0.1",
+        "triggerProbability": "0.15",
+        "param": "[{\"element\":\"gold\",\"debuff\":\"37008\"},{\"element\":\"wood\",\"buff\":\"8015\"},{\"element\":\"water\",\"debuff\":\"37009\"},{\"element\":\"fire\",\"debuff\":\"37010\"},{\"element\":\"earth\",\"debuff\":\"37011\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "8003",
+        "name": "%E4%B8%89%E7%BA%A7%E7%BE%81%E7%BB%8A",
+        "level": "3",
+        "condition": "[{\"same\":3},{\"diff\":2}]",
+        "amplification": "0.15",
+        "triggerProbability": "0.2",
+        "param": "[{\"element\":\"gold\",\"debuff\":\"37008\"},{\"element\":\"wood\",\"buff\":\"8015\"},{\"element\":\"water\",\"debuff\":\"37009\"},{\"element\":\"fire\",\"debuff\":\"37010\"},{\"element\":\"earth\",\"debuff\":\"37011\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "8004",
+        "name": "%E5%9B%9B%E7%BA%A7%E7%BE%81%E7%BB%8A",
+        "level": "4",
+        "condition": "[{\"same\":3},{\"same\":2}]",
+        "amplification": "0.15",
+        "triggerProbability": "0.25",
+        "param": "[{\"element\":\"gold\",\"debuff\":\"37008\"},{\"element\":\"wood\",\"buff\":\"8015\"},{\"element\":\"water\",\"debuff\":\"37009\"},{\"element\":\"fire\",\"debuff\":\"37010\"},{\"element\":\"earth\",\"debuff\":\"37011\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "8005",
+        "name": "%E4%BA%94%E7%BA%A7%E7%BE%81%E7%BB%8A",
+        "level": "5",
+        "condition": "[{\"same\":4},{\"diff\":1}]",
+        "amplification": "0.2",
+        "triggerProbability": "0.3",
+        "param": "[{\"element\":\"gold\",\"debuff\":\"37008\"},{\"element\":\"wood\",\"buff\":\"8015\"},{\"element\":\"water\",\"debuff\":\"37009\"},{\"element\":\"fire\",\"debuff\":\"37010\"},{\"element\":\"earth\",\"debuff\":\"37011\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "8006",
+        "name": "%E5%85%AD%E7%BA%A7%E7%BE%81%E7%BB%8A",
+        "level": "6",
+        "condition": "[{\"same\":5}]",
+        "amplification": "0.25",
+        "triggerProbability": "0.4",
+        "param": "[{\"element\":\"gold\",\"debuff\":\"37008\"},{\"element\":\"wood\",\"buff\":\"8015\"},{\"element\":\"water\",\"debuff\":\"37009\"},{\"element\":\"fire\",\"debuff\":\"37010\"},{\"element\":\"earth\",\"debuff\":\"37011\"}]",
+        "remarks": ""
+    }
+]

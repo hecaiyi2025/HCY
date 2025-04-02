@@ -1,0 +1,62 @@
+
+qinlong.png
+size: 157,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gebo
+  rotate: false
+  xy: 2, 2
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+jianb
+  rotate: false
+  xy: 69, 6
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+longzhu
+  rotate: false
+  xy: 83, 39
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 115, 7
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+sti
+  rotate: false
+  xy: 2, 39
+  size: 79, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 83, 66
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 37, 3
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+xiab
+  rotate: true
+  xy: 23, 2
+  size: 35, 12
+  orig: 35, 12
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+guihuoyao2.png
+size: 156,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guihuo2_2
+  rotate: 180
+  xy: 72, 3
+  size: 50, 41
+  orig: 65, 53
+  offset: 7, 6
+  index: -1
+guihuo2_3
+  rotate: false
+  xy: 2, 27
+  size: 22, 18
+  orig: 29, 22
+  offset: 3, 2
+  index: -1
+guihuo2_4
+  rotate: false
+  xy: 123, 64
+  size: 26, 16
+  orig: 34, 21
+  offset: 4, 3
+  index: -1
+guihuo2_5
+  rotate: 270
+  xy: 78, 44
+  size: 46, 45
+  orig: 60, 59
+  offset: 7, 7
+  index: -1
+guihuo2_6
+  rotate: false
+  xy: 2, 16
+  size: 84, 74
+  orig: 108, 96
+  offset: 11, 11
+  index: -1
+guihuo2_7
+  rotate: true
+  xy: 112, 16
+  size: 50, 40
+  orig: 65, 52
+  offset: 7, 6
+  index: -1

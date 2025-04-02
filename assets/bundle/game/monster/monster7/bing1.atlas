@@ -1,0 +1,20 @@
+
+bing1.png
+size: 84,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bin1_1
+  rotate: false
+  xy: 2, 33
+  size: 78, 99
+  orig: 98, 124
+  offset: 9, 13
+  index: -1
+bin1_2
+  rotate: true
+  xy: 2, 4
+  size: 31, 49
+  orig: 36, 59
+  offset: 3, 5
+  index: -1

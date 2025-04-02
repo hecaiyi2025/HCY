@@ -1,0 +1,153 @@
+
+pig.png
+size: 1690,650
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 694, 37
+  size: 43, 45
+  orig: 45, 47
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 1490, 402
+  size: 246, 183
+  orig: 246, 189
+  offset: 0, 6
+  index: -1
+diban
+  rotate: true
+  xy: 1675, 498
+  size: 150, 13
+  orig: 152, 15
+  offset: 1, 1
+  index: -1
+d刀光横斩/00010
+  rotate: false
+  xy: 560, 84
+  size: 85, 48
+  orig: 800, 600
+  offset: 122, 257
+  index: -1
+d刀光横斩/00011
+  rotate: false
+  xy: 560, 134
+  size: 150, 52
+  orig: 800, 600
+  offset: 60, 251
+  index: -1
+d刀光横斩/00012
+  rotate: false
+  xy: 1377, 184
+  size: 256, 90
+  orig: 800, 600
+  offset: 77, 231
+  index: -1
+d刀光横斩/00013
+  rotate: false
+  xy: 1377, 276
+  size: 293, 124
+  orig: 800, 600
+  offset: 59, 232
+  index: -1
+d刀光横斩/00014
+  rotate: false
+  xy: 1232, 29
+  size: 418, 153
+  orig: 800, 600
+  offset: 57, 230
+  index: -1
+d刀光横斩/00015
+  rotate: false
+  xy: 743, 33
+  size: 487, 165
+  orig: 800, 600
+  offset: 57, 220
+  index: -1
+d刀光横斩/00016
+  rotate: false
+  xy: 2, 6
+  size: 556, 180
+  orig: 800, 600
+  offset: 56, 210
+  index: -1
+d刀光横斩/00017
+  rotate: false
+  xy: 750, 224
+  size: 625, 195
+  orig: 800, 600
+  offset: 56, 200
+  index: -1
+d刀光横斩/00018
+  rotate: false
+  xy: 2, 419
+  size: 746, 229
+  orig: 800, 600
+  offset: 54, 180
+  index: -1
+d刀光横斩/00019
+  rotate: false
+  xy: 2, 188
+  size: 739, 229
+  orig: 800, 600
+  offset: 61, 180
+  index: -1
+d刀光横斩/00020
+  rotate: false
+  xy: 750, 421
+  size: 738, 227
+  orig: 800, 600
+  offset: 62, 181
+  index: -1
+d刀光横斩/00021
+  rotate: false
+  xy: 743, 200
+  size: 563, 22
+  orig: 800, 600
+  offset: 237, 285
+  index: -1
+eyes
+  rotate: true
+  xy: 694, 2
+  size: 33, 35
+  orig: 35, 37
+  offset: 1, 1
+  index: -1
+weiba
+  rotate: true
+  xy: 1635, 185
+  size: 35, 41
+  orig: 39, 42
+  offset: 2, 1
+  index: -1
+youhou
+  rotate: true
+  xy: 647, 84
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+youqian
+  rotate: true
+  xy: 617, 31
+  size: 51, 75
+  orig: 53, 75
+  offset: 2, 0
+  index: -1
+zuohou
+  rotate: false
+  xy: 560, 8
+  size: 55, 74
+  orig: 55, 75
+  offset: 0, 1
+  index: -1
+zuoqian
+  rotate: true
+  xy: 1635, 222
+  size: 52, 50
+  orig: 55, 53
+  offset: 0, 1
+  index: -1

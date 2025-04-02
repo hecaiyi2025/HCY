@@ -1,0 +1,42 @@
+[
+    {
+        "id": "35001",
+        "type": "1",
+        "system": "1",
+        "algorithm": "[attack:10,defence:5,blood:1]",
+        "magnification": "1",
+        "remarks": ""
+    },
+    {
+        "id": "35002",
+        "type": "1",
+        "system": "2",
+        "algorithm": "[attack:10,defence:5,blood:1]",
+        "magnification": "1",
+        "remarks": ""
+    },
+    {
+        "id": "35003",
+        "type": "1",
+        "system": "3",
+        "algorithm": "[attack:10,defence:5,blood:1]",
+        "magnification": "1",
+        "remarks": ""
+    },
+    {
+        "id": "35004",
+        "type": "2",
+        "system": "4",
+        "algorithm": "[attack:10,defence:5,blood:1]",
+        "magnification": "1",
+        "remarks": ""
+    },
+    {
+        "id": "35005",
+        "type": "3",
+        "system": "5",
+        "algorithm": "[attack:10,defence:5,blood:1]",
+        "magnification": "1",
+        "remarks": ""
+    }
+]

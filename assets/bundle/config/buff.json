@@ -1,0 +1,155 @@
+[
+    {
+        "id": "8001",
+        "name": "%E6%94%BB%E5%87%BB%E5%A2%9E%E7%9B%8A",
+        "type": "1",
+        "target": "-1",
+        "desc": "%E5%85%A8%E9%83%A8%E8%A7%92%E8%89%B2%E6%94%BB%E5%87%BB%E5%A2%9E%E5%8A%A010%25",
+        "param": "{\"attack\":\"0.1\"}",
+        "remarks": ""
+    },
+    {
+        "id": "8002",
+        "name": "%E9%98%B2%E5%BE%A1%E5%A2%9E%E7%9B%8A",
+        "type": "1",
+        "target": "-1",
+        "desc": "%E5%85%A8%E9%83%A8%E8%A7%92%E8%89%B2%E9%98%B2%E5%BE%A1%E5%A2%9E%E5%8A%A02%E7%82%B9",
+        "param": "{\"defence\":\"2\"}",
+        "remarks": ""
+    },
+    {
+        "id": "8003",
+        "name": "%E8%A1%80%E9%87%8F%E5%A2%9E%E7%9B%8A",
+        "type": "1",
+        "target": "-1",
+        "desc": "%E5%85%A8%E9%83%A8%E8%A7%92%E8%89%B2%E8%A1%80%E9%87%8F%E5%A2%9E%E5%8A%A030%25",
+        "param": "{\"blood\":\"0.3\"}",
+        "remarks": ""
+    },
+    {
+        "id": "8004",
+        "name": "%E8%8E%B7%E5%BE%97%E6%8A%A4%E7%9B%BE",
+        "type": "1",
+        "target": "-1",
+        "desc": "%E5%85%A8%E9%83%A8%E8%A7%92%E8%89%B2%E8%8E%B7%E5%BE%971000%E7%82%B9%E6%8A%A4%E7%9B%BE",
+        "param": "{\"shield\":\"1000\"}",
+        "remarks": ""
+    },
+    {
+        "id": "8005",
+        "name": "%E6%8A%80%E8%83%BD%E5%A2%9E%E7%9B%8A",
+        "type": "1",
+        "target": "-1",
+        "desc": "%E5%85%A8%E9%83%A8%E4%B8%BB%E5%8A%A8%E6%8A%80%E8%83%BD%E4%BC%A4%E5%AE%B3%E5%A2%9E%E5%8A%A030%25",
+        "param": "{\"skill\":\"1.3\"}",
+        "remarks": ""
+    },
+    {
+        "id": "8006",
+        "name": "%E8%8E%B7%E5%BE%97%E8%83%BD%E9%87%8F",
+        "type": "2",
+        "target": "-1",
+        "desc": "%E7%AB%8B%E5%8D%B3%E8%8E%B7%E5%BE%9720%E7%82%B9%E8%83%BD%E9%87%8F%E5%80%BC",
+        "param": "{\"energy\":\"20\"}",
+        "remarks": ""
+    },
+    {
+        "id": "8007",
+        "name": "%E8%83%BD%E9%87%8F%E5%8A%A0%E9%80%9F",
+        "type": "1",
+        "target": "-1",
+        "desc": "%E8%83%BD%E9%87%8F%E8%8E%B7%E5%8F%96%E9%80%9F%E5%BA%A6%E5%A2%9E%E5%8A%A0100%25",
+        "param": "{\"energyspeed\":\"2\"}",
+        "remarks": ""
+    },
+    {
+        "id": "8008",
+        "name": "%E5%87%8F%E4%BC%A4",
+        "type": "1",
+        "target": "-1",
+        "desc": "%E5%85%A8%E9%83%A8%E8%A7%92%E8%89%B2%E5%8F%97%E5%88%B0%E7%9A%84%E4%BC%A4%E5%AE%B3%E5%87%8F%E5%B0%9150%25",
+        "param": "{\"reduction\":\"0.5\"}",
+        "remarks": ""
+    },
+    {
+        "id": "8009",
+        "name": "%E6%94%BB%E9%80%9F%E5%A2%9E%E7%9B%8A",
+        "type": "1",
+        "target": "-1",
+        "desc": "%E5%85%A8%E9%83%A8%E8%A7%92%E8%89%B2%E6%94%BB%E5%87%BB%E9%80%9F%E5%BA%A6%E5%A2%9E%E5%8A%A030%25",
+        "param": "{\"attackspeed\":\"0.3\"}",
+        "remarks": ""
+    },
+    {
+        "id": "8010",
+        "name": "%E8%A1%80%E9%87%8F%E5%9B%9E%E5%A4%8D",
+        "type": "2",
+        "target": "-1",
+        "desc": "%E5%85%A8%E9%83%A8%E8%A7%92%E8%89%B2%E8%A1%80%E9%87%8F%E5%9B%9E%E5%A4%8D%E6%9C%80%E5%A4%A7%E8%A1%80%E9%87%8F%E7%9A%8450%25",
+        "param": "{\"health\":\"0.5\"}",
+        "remarks": ""
+    },
+    {
+        "id": "8011",
+        "name": "%E6%94%BB%E5%87%BB%E5%A2%9E%E7%9B%8A",
+        "type": "1",
+        "target": "-2",
+        "desc": "%E4%B8%BB%E8%A7%92%E6%94%BB%E5%87%BB%E5%8A%9B+30%25",
+        "param": "{\"attack\":\"0.3\"}",
+        "remarks": ""
+    },
+    {
+        "id": "8012",
+        "name": "%E9%98%B2%E5%BE%A1%E5%A2%9E%E7%9B%8A",
+        "type": "1",
+        "target": "-2",
+        "desc": "%E4%B8%BB%E8%A7%92%E9%98%B2%E5%BE%A1%E5%8A%9B+5",
+        "param": "{\"defence\":\"5\"}",
+        "remarks": ""
+    },
+    {
+        "id": "8013",
+        "name": "%E6%94%BB%E5%87%BB%E5%A2%9E%E7%9B%8A",
+        "type": "1",
+        "target": "-3",
+        "desc": "%E9%81%93%E5%8F%8B%E6%94%BB%E5%87%BB%E5%8A%9B+20%25",
+        "param": "{\"attack\":\"0.2\"}",
+        "remarks": ""
+    },
+    {
+        "id": "8014",
+        "name": "%E9%98%B2%E5%BE%A1%E5%A2%9E%E7%9B%8A",
+        "type": "1",
+        "target": "-3",
+        "desc": "%E9%81%93%E5%8F%8B%E9%98%B2%E5%BE%A1%E5%8A%9B+5",
+        "param": "{\"defence\":\"5\"}",
+        "remarks": ""
+    },
+    {
+        "id": "8015",
+        "name": "%E6%81%A2%E5%A4%8D",
+        "type": "3",
+        "target": "-4",
+        "desc": "%E4%BA%94%E8%A1%8Cbuff%EF%BC%8C%E6%94%BB%E5%87%BB%E6%9C%89%E6%A6%82%E7%8E%87%E8%A7%A6%E5%8F%91%E6%94%BB%E5%87%BB%E5%8A%9B%E7%9A%8410%25%E4%BC%A4%E5%AE%B3%E5%9B%9E%E5%A4%8D",
+        "param": "{\"fetter_health\":\"0.1\"}",
+        "remarks": ""
+    },
+    {
+        "id": "8016",
+        "name": "%E8%A1%80%E9%87%8F%E5%9B%9E%E5%A4%8D",
+        "type": "5",
+        "target": "-1",
+        "desc": "%E5%85%A8%E9%83%A8%E8%A7%92%E8%89%B2%E8%A1%80%E9%87%8F%E5%9B%9E%E5%A4%8D(%E5%9B%9E%E5%A4%8D%E9%87%8F%E6%A0%B9%E6%8D%AE%E8%A7%92%E8%89%B2%E6%94%BB%E5%87%BB*%E6%8A%80%E8%83%BD%E5%80%8D%E7%8E%87)",
+        "param": "{\"skill_health\":\"1\"}",
+        "remarks": ""
+    },
+    {
+        "id": "8017",
+        "name": "%E6%97%A5%E7%82%8E%E7%9B%BE",
+        "type": "5",
+        "target": "-1",
+        "desc": "%E5%85%A8%E9%83%A8%E8%A7%92%E8%89%B2%E8%8E%B7%E5%BE%97%E6%8A%A4%E7%9B%BE(%E7%9B%BE%E9%87%8F%E6%A0%B9%E6%8D%AE%E8%A7%92%E8%89%B2%E6%94%BB%E5%87%BB*%E6%8A%80%E8%83%BD%E5%80%8D%E7%8E%87)",
+        "param": "{\"skill_shield\":\"1\"}",
+        "remarks": ""
+    }
+]

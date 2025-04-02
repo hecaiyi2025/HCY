@@ -1,0 +1,83 @@
+
+302620_skill2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/3龙卷风/龙卷风_02
+  rotate: false
+  xy: 2, 918
+  size: 68, 24
+  orig: 1300, 800
+  offset: 411, 275
+  index: -1
+skill/3龙卷风/龙卷风_03
+  rotate: false
+  xy: 72, 803
+  size: 142, 139
+  orig: 1300, 800
+  offset: 337, 277
+  index: -1
+skill/3龙卷风/龙卷风_04
+  rotate: false
+  xy: 216, 756
+  size: 204, 186
+  orig: 1300, 800
+  offset: 317, 275
+  index: -1
+skill/3龙卷风/龙卷风_05
+  rotate: true
+  xy: 690, 697
+  size: 245, 252
+  orig: 1300, 800
+  offset: 288, 275
+  index: -1
+skill/3龙卷风/龙卷风_06
+  rotate: false
+  xy: 2, 242
+  size: 270, 260
+  orig: 1300, 800
+  offset: 273, 300
+  index: -1
+skill/3龙卷风/龙卷风_07
+  rotate: false
+  xy: 2, 504
+  size: 282, 250
+  orig: 1300, 800
+  offset: 273, 294
+  index: -1
+skill/3龙卷风/龙卷风_08
+  rotate: false
+  xy: 567, 165
+  size: 284, 270
+  orig: 1300, 800
+  offset: 275, 279
+  index: -1
+skill/3龙卷风/龙卷风_09
+  rotate: true
+  xy: 576, 437
+  size: 258, 289
+  orig: 1300, 800
+  offset: 301, 272
+  index: -1
+skill/3龙卷风/龙卷风_10
+  rotate: true
+  xy: 274, 179
+  size: 268, 291
+  orig: 1300, 800
+  offset: 290, 273
+  index: -1
+skill/3龙卷风/龙卷风_11
+  rotate: true
+  xy: 286, 449
+  size: 252, 288
+  orig: 1300, 800
+  offset: 305, 275
+  index: -1
+skill/3龙卷风/龙卷风_12
+  rotate: true
+  xy: 422, 703
+  size: 239, 266
+  orig: 1300, 800
+  offset: 289, 279
+  index: -1

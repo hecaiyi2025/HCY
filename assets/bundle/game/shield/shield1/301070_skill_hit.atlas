@@ -1,0 +1,76 @@
+
+301070_skill_hit.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/mofa/0000
+  rotate: true
+  xy: 328, 12
+  size: 323, 210
+  orig: 340, 300
+  offset: 10, 32
+  index: -1
+effect/mofa/0002
+  rotate: false
+  xy: 2, 337
+  size: 326, 212
+  orig: 340, 300
+  offset: 8, 30
+  index: -1
+effect/mofa/0004
+  rotate: true
+  xy: 540, 2
+  size: 327, 207
+  orig: 340, 300
+  offset: 8, 35
+  index: -1
+effect/mofa/0006
+  rotate: true
+  xy: 542, 659
+  size: 326, 208
+  orig: 340, 300
+  offset: 9, 35
+  index: -1
+effect/mofa/0008
+  rotate: true
+  xy: 544, 331
+  size: 326, 208
+  orig: 340, 300
+  offset: 9, 35
+  index: -1
+effect/mofa/0010
+  rotate: false
+  xy: 2, 122
+  size: 324, 213
+  orig: 340, 300
+  offset: 10, 31
+  index: -1
+effect/mofa/0012
+  rotate: true
+  xy: 326, 666
+  size: 322, 214
+  orig: 340, 300
+  offset: 11, 31
+  index: -1
+effect/mofa/0014
+  rotate: true
+  xy: 330, 337
+  size: 320, 212
+  orig: 340, 300
+  offset: 12, 33
+  index: -1
+effect/mofa/0016
+  rotate: false
+  xy: 2, 768
+  size: 321, 220
+  orig: 340, 300
+  offset: 11, 24
+  index: -1
+effect/mofa/0018
+  rotate: false
+  xy: 2, 551
+  size: 322, 215
+  orig: 340, 300
+  offset: 10, 28
+  index: -1

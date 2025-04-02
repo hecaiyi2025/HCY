@@ -1,0 +1,69 @@
+
+shitouguai4.png
+size: 560,584
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boos6_0
+  rotate: true
+  xy: 469, 56
+  size: 217, 86
+  orig: 273, 101
+  offset: 24, 9
+  index: -1
+boos6_1
+  rotate: 270
+  xy: 435, 252
+  size: 215, 87
+  orig: 268, 112
+  offset: 28, 13
+  index: -1
+boos6_2
+  rotate: false
+  xy: 159, 25
+  size: 236, 135
+  orig: 294, 173
+  offset: 26, 17
+  index: -1
+boos6_3
+  rotate: false
+  xy: 2, 542
+  size: 146, 41
+  orig: 183, 51
+  offset: 21, 4
+  index: -1
+boos6_4
+  rotate: false
+  xy: 296, 525
+  size: 84, 58
+  orig: 105, 65
+  offset: 12, 2
+  index: -1
+boos6_5
+  rotate: 180
+  xy: 346, 435
+  size: 151, 148
+  orig: 181, 189
+  offset: 19, 19
+  index: -1
+boos6_6
+  rotate: 180
+  xy: 2, 4
+  size: 158, 217
+  orig: 677, 573
+  offset: 73, 181
+  index: -1
+boos6_6_1
+  rotate: false
+  xy: 2, 134
+  size: 449, 448
+  orig: 677, 573
+  offset: 157, 61
+  index: -1
+boos6_7
+  rotate: false
+  xy: 364, 116
+  size: 125, 147
+  orig: 160, 179
+  offset: 18, 16
+  index: -1

@@ -1,0 +1,20 @@
+
+301020_skill_hit1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+导出/5地裂正常/地裂_47
+  rotate: false
+  xy: 2, 176
+  size: 493, 455
+  orig: 514, 464
+  offset: 10, 0
+  index: -1
+导出/6地裂相加/地裂_47
+  rotate: true
+  xy: 497, 415
+  size: 216, 134
+  orig: 536, 185
+  offset: 160, 24
+  index: -1

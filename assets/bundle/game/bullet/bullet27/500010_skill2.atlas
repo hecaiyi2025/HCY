@@ -1,0 +1,265 @@
+
+500010_skill2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/kq_00064
+  rotate: false
+  xy: 1599, 187
+  size: 325, 132
+  orig: 336, 157
+  offset: 6, 15
+  index: -1
+skill/lizi2/1_00090
+  rotate: false
+  xy: 1911, 798
+  size: 38, 99
+  orig: 261, 185
+  offset: 66, 48
+  index: -1
+skill/lizi2/1_00092
+  rotate: false
+  xy: 1351, 21
+  size: 211, 142
+  orig: 261, 185
+  offset: 42, 13
+  index: -1
+skill/lizi2/1_00094
+  rotate: false
+  xy: 1809, 341
+  size: 217, 161
+  orig: 261, 185
+  offset: 40, 0
+  index: -1
+skill/lizi2/1_00096
+  rotate: false
+  xy: 1599, 22
+  size: 243, 163
+  orig: 261, 185
+  offset: 13, 0
+  index: -1
+skill/lizi2/1_00098
+  rotate: false
+  xy: 862, 38
+  size: 246, 166
+  orig: 261, 185
+  offset: 9, 0
+  index: -1
+skill/lizi2/1_00100
+  rotate: false
+  xy: 612, 39
+  size: 248, 165
+  orig: 261, 185
+  offset: 5, 4
+  index: -1
+skill/lizi2/1_00102
+  rotate: false
+  xy: 2, 2
+  size: 243, 162
+  orig: 261, 185
+  offset: 7, 9
+  index: -1
+skill/lizi2/1_00104
+  rotate: false
+  xy: 247, 5
+  size: 241, 159
+  orig: 261, 185
+  offset: 8, 15
+  index: -1
+skill/lizi2/1_00106
+  rotate: false
+  xy: 1110, 8
+  size: 239, 155
+  orig: 261, 185
+  offset: 9, 22
+  index: -1
+skill/lizi2/1_00108
+  rotate: false
+  xy: 1844, 108
+  size: 160, 77
+  orig: 261, 185
+  offset: 10, 29
+  index: -1
+skill/lizi2/1_00110
+  rotate: true
+  xy: 490, 11
+  size: 153, 71
+  orig: 261, 185
+  offset: 12, 36
+  index: -1
+skill/yan/1_00056
+  rotate: true
+  xy: 1978, 598
+  size: 153, 39
+  orig: 209, 77
+  offset: 26, 23
+  index: -1
+skill/yan/1_00057
+  rotate: false
+  xy: 1844, 46
+  size: 185, 60
+  orig: 209, 77
+  offset: 11, 10
+  index: -1
+skill/yan/1_00059
+  rotate: true
+  xy: 1911, 557
+  size: 194, 65
+  orig: 209, 77
+  offset: 7, 7
+  index: -1
+skill/yan/1_00061
+  rotate: true
+  xy: 1960, 753
+  size: 201, 69
+  orig: 209, 77
+  offset: 3, 3
+  index: -1
+skill/yan/1_00063
+  rotate: true
+  xy: 1961, 956
+  size: 205, 70
+  orig: 209, 77
+  offset: 1, 2
+  index: -1
+skill/yan/1_00065
+  rotate: true
+  xy: 1961, 1163
+  size: 208, 71
+  orig: 209, 77
+  offset: 0, 0
+  index: -1
+skill/zuan_2/zuan_2_100
+  rotate: false
+  xy: 1926, 228
+  size: 98, 111
+  orig: 711, 341
+  offset: 510, 96
+  index: -1
+skill/zuan_2/zuan_2_56
+  rotate: false
+  xy: 616, 206
+  size: 571, 117
+  orig: 711, 341
+  offset: 75, 63
+  index: -1
+skill/zuan_2/zuan_2_57
+  rotate: false
+  xy: 2, 166
+  size: 608, 155
+  orig: 711, 341
+  offset: 55, 59
+  index: -1
+skill/zuan_2/zuan_2_58
+  rotate: false
+  xy: 673, 917
+  size: 644, 206
+  orig: 711, 341
+  offset: 37, 54
+  index: -1
+skill/zuan_2/zuan_2_59
+  rotate: false
+  xy: 2, 1122
+  size: 669, 249
+  orig: 711, 341
+  offset: 19, 50
+  index: -1
+skill/zuan_2/zuan_2_60
+  rotate: false
+  xy: 673, 1125
+  size: 645, 246
+  orig: 711, 341
+  offset: 49, 57
+  index: -1
+skill/zuan_2/zuan_2_61
+  rotate: false
+  xy: 1320, 1131
+  size: 639, 240
+  orig: 711, 341
+  offset: 49, 57
+  index: -1
+skill/zuan_2/zuan_2_88
+  rotate: false
+  xy: 1320, 899
+  size: 638, 230
+  orig: 711, 341
+  offset: 50, 57
+  index: -1
+skill/zuan_2/zuan_2_89
+  rotate: false
+  xy: 2, 914
+  size: 638, 206
+  orig: 711, 341
+  offset: 50, 57
+  index: -1
+skill/zuan_2/zuan_2_90
+  rotate: false
+  xy: 642, 709
+  size: 635, 206
+  orig: 711, 341
+  offset: 50, 57
+  index: -1
+skill/zuan_2/zuan_2_91
+  rotate: false
+  xy: 2, 708
+  size: 634, 204
+  orig: 711, 341
+  offset: 51, 59
+  index: -1
+skill/zuan_2/zuan_2_92
+  rotate: false
+  xy: 1279, 699
+  size: 630, 198
+  orig: 711, 341
+  offset: 51, 59
+  index: -1
+skill/zuan_2/zuan_2_93
+  rotate: false
+  xy: 638, 511
+  size: 627, 196
+  orig: 711, 341
+  offset: 54, 60
+  index: -1
+skill/zuan_2/zuan_2_94
+  rotate: false
+  xy: 2, 511
+  size: 623, 195
+  orig: 711, 341
+  offset: 55, 61
+  index: -1
+skill/zuan_2/zuan_2_95
+  rotate: false
+  xy: 1267, 504
+  size: 618, 193
+  orig: 711, 341
+  offset: 56, 61
+  index: -1
+skill/zuan_2/zuan_2_96
+  rotate: false
+  xy: 2, 323
+  size: 612, 186
+  orig: 711, 341
+  offset: 59, 62
+  index: -1
+skill/zuan_2/zuan_2_97
+  rotate: false
+  xy: 616, 325
+  size: 599, 184
+  orig: 711, 341
+  offset: 63, 64
+  index: -1
+skill/zuan_2/zuan_2_98
+  rotate: false
+  xy: 1217, 321
+  size: 590, 181
+  orig: 711, 341
+  offset: 70, 67
+  index: -1
+skill/zuan_2/zuan_2_99
+  rotate: false
+  xy: 1189, 165
+  size: 408, 154
+  orig: 711, 341
+  offset: 228, 94
+  index: -1

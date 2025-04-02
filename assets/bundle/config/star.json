@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name": "%E7%82%BC%E6%B0%94",
+        "Star rating restrictions": "{\"min\":\"1\",\"max\":\"5\"}",
+        "remarks": ""
+    },
+    {
+        "id": "2",
+        "name": "%E7%AD%91%E5%9F%BA",
+        "Star rating restrictions": "{\"min\":\"6\",\"max\":\"10\"}",
+        "remarks": ""
+    },
+    {
+        "id": "3",
+        "name": "%E7%BB%93%E4%B8%B9",
+        "Star rating restrictions": "{\"min\":\"11\",\"max\":\"15\"}",
+        "remarks": ""
+    },
+    {
+        "id": "4",
+        "name": "%E9%87%91%E4%B8%B9",
+        "Star rating restrictions": "{\"min\":\"16\",\"max\":\"20\"}",
+        "remarks": ""
+    },
+    {
+        "id": "5",
+        "name": "%E5%85%83%E5%A9%B4",
+        "Star rating restrictions": "{\"min\":\"21\",\"max\":\"25\"}",
+        "remarks": ""
+    },
+    {
+        "id": "6",
+        "name": "%E5%8C%96%E7%A5%9E",
+        "Star rating restrictions": "{\"min\":\"26\",\"max\":\"30\"}",
+        "remarks": ""
+    },
+    {
+        "id": "7",
+        "name": "%E7%82%BC%E8%99%9A",
+        "Star rating restrictions": "{\"min\":\"31\",\"max\":\"35\"}",
+        "remarks": ""
+    },
+    {
+        "id": "8",
+        "name": "%E6%B8%A1%E5%8A%AB",
+        "Star rating restrictions": "{\"min\":\"36\",\"max\":\"40\"}",
+        "remarks": ""
+    },
+    {
+        "id": "9",
+        "name": "%E5%90%88%E4%BD%93",
+        "Star rating restrictions": "{\"min\":\"41\",\"max\":\"45\"}",
+        "remarks": ""
+    },
+    {
+        "id": "10",
+        "name": "%E5%A4%A7%E4%B9%98",
+        "Star rating restrictions": "{\"min\":\"46\",\"max\":\"50\"}",
+        "remarks": ""
+    }
+]

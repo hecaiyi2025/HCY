@@ -1,0 +1,76 @@
+
+BOSS05_1.png
+size: 756,740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boos5_1_0
+  rotate: 180
+  xy: 295, 260
+  size: 440, 250
+  orig: 645, 342
+  offset: 99, 48
+  index: -1
+boos5_1_1
+  rotate: false
+  xy: 2, 462
+  size: 449, 277
+  orig: 656, 393
+  offset: 103, 51
+  index: -1
+boos5_1_2
+  rotate: false
+  xy: 2, 3
+  size: 144, 118
+  orig: 216, 162
+  offset: 36, 22
+  index: -1
+boos5_1_3
+  rotate: 180
+  xy: 325, 27
+  size: 201, 159
+  orig: 279, 225
+  offset: 33, 36
+  index: -1
+boos5_1_4
+  rotate: 270
+  xy: 481, 133
+  size: 186, 265
+  orig: 276, 393
+  offset: 44, 65
+  index: -1
+boos5_1_5
+  rotate: 180
+  xy: 525, 24
+  size: 217, 132
+  orig: 311, 156
+  offset: 46, 6
+  index: -1
+boos5_1_6
+  rotate: 180
+  xy: 424, 473
+  size: 329, 265
+  orig: 486, 398
+  offset: 79, 67
+  index: -1
+boos5_1_7
+  rotate: true
+  xy: 2, 137
+  size: 204, 121
+  orig: 287, 164
+  offset: 39, 24
+  index: -1
+boos5_1_8
+  rotate: 180
+  xy: 109, 116
+  size: 265, 182
+  orig: 380, 261
+  offset: 63, 41
+  index: -1
+boos5_1_9
+  rotate: true
+  xy: 2, 282
+  size: 191, 275
+  orig: 284, 384
+  offset: 45, 55
+  index: -1

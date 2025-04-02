@@ -1,0 +1,55 @@
+
+xuanwu.png
+size: 147,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sti
+  rotate: false
+  xy: 2, 52
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 99, 71
+  size: 45, 64
+  orig: 47, 66
+  offset: 1, 1
+  index: -1
+weiba
+  rotate: true
+  xy: 99, 8
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+youhou
+  rotate: false
+  xy: 68, 2
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+youqian
+  rotate: false
+  xy: 2, 15
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+zuohou
+  rotate: false
+  xy: 68, 27
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+zuoqian
+  rotate: false
+  xy: 35, 15
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1

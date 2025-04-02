@@ -1,0 +1,76 @@
+
+400050_bullet.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/dandao/dandao_00000
+  rotate: true
+  xy: 700, 521
+  size: 347, 168
+  orig: 354, 193
+  offset: 1, 16
+  index: -1
+effect/dandao/dandao_00002
+  rotate: false
+  xy: 2, 702
+  size: 347, 166
+  orig: 354, 193
+  offset: 1, 16
+  index: -1
+effect/dandao/dandao_00004
+  rotate: false
+  xy: 351, 533
+  size: 347, 167
+  orig: 354, 193
+  offset: 1, 14
+  index: -1
+effect/dandao/dandao_00006
+  rotate: false
+  xy: 2, 364
+  size: 347, 167
+  orig: 354, 193
+  offset: 1, 13
+  index: -1
+effect/dandao/dandao_00008
+  rotate: false
+  xy: 351, 702
+  size: 347, 166
+  orig: 354, 193
+  offset: 1, 12
+  index: -1
+effect/dandao/dandao_00010
+  rotate: true
+  xy: 700, 172
+  size: 347, 168
+  orig: 354, 193
+  offset: 1, 10
+  index: -1
+effect/dandao/dandao_00012
+  rotate: false
+  xy: 351, 364
+  size: 347, 167
+  orig: 354, 193
+  offset: 1, 11
+  index: -1
+effect/dandao/dandao_00014
+  rotate: false
+  xy: 2, 195
+  size: 347, 167
+  orig: 354, 193
+  offset: 1, 13
+  index: -1
+effect/dandao/dandao_00016
+  rotate: false
+  xy: 351, 195
+  size: 347, 167
+  orig: 354, 193
+  offset: 1, 14
+  index: -1
+effect/dandao/dandao_00018
+  rotate: false
+  xy: 2, 533
+  size: 347, 167
+  orig: 354, 193
+  offset: 1, 15
+  index: -1

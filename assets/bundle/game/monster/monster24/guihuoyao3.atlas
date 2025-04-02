@@ -1,0 +1,62 @@
+
+guihuoyao3.png
+size: 136,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guihuo3_1
+  rotate: 180
+  xy: 94, 7
+  size: 37, 36
+  orig: 48, 47
+  offset: 5, 6
+  index: -1
+guihuo3_2
+  rotate: true
+  xy: 2, 125
+  size: 17, 34
+  orig: 21, 44
+  offset: 1, 5
+  index: -1
+guihuo3_3
+  rotate: false
+  xy: 102, 90
+  size: 29, 19
+  orig: 38, 23
+  offset: 4, 3
+  index: -1
+guihuo3_4
+  rotate: true
+  xy: 2, 15
+  size: 50, 50
+  orig: 65, 65
+  offset: 7, 8
+  index: -1
+guihuo3_5
+  rotate: true
+  xy: 28, 3
+  size: 38, 70
+  orig: 48, 90
+  offset: 5, 10
+  index: -1
+guihuo3_6
+  rotate: false
+  xy: 2, 44
+  size: 100, 97
+  orig: 130, 125
+  offset: 15, 14
+  index: -1
+guihuo3_7
+  rotate: 180
+  xy: 79, 39
+  size: 49, 56
+  orig: 64, 74
+  offset: 7, 10
+  index: -1
+guihuo3_8
+  rotate: true
+  xy: 80, 109
+  size: 33, 42
+  orig: 43, 55
+  offset: 5, 7
+  index: -1

@@ -1,0 +1,139 @@
+
+302510_bullet.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/zidan_58
+  rotate: false
+  xy: 616, 222
+  size: 301, 107
+  orig: 348, 135
+  offset: 29, 16
+  index: -1
+effect/zidan_59
+  rotate: false
+  xy: 2, 118
+  size: 302, 109
+  orig: 348, 135
+  offset: 28, 15
+  index: -1
+effect/zidan_60
+  rotate: false
+  xy: 619, 111
+  size: 301, 109
+  orig: 348, 135
+  offset: 29, 15
+  index: -1
+effect/zidan_61
+  rotate: false
+  xy: 2, 229
+  size: 306, 106
+  orig: 348, 135
+  offset: 24, 15
+  index: -1
+effect/zidan_62
+  rotate: false
+  xy: 2, 337
+  size: 309, 104
+  orig: 348, 135
+  offset: 21, 15
+  index: -1
+effect/zidan_63
+  rotate: false
+  xy: 299, 443
+  size: 312, 102
+  orig: 348, 135
+  offset: 21, 16
+  index: -1
+effect/zidan_64
+  rotate: false
+  xy: 613, 437
+  size: 313, 102
+  orig: 348, 135
+  offset: 21, 16
+  index: -1
+effect/zidan_65
+  rotate: false
+  xy: 2, 647
+  size: 314, 90
+  orig: 348, 135
+  offset: 19, 18
+  index: -1
+effect/zidan_66
+  rotate: false
+  xy: 318, 647
+  size: 314, 90
+  orig: 348, 135
+  offset: 19, 20
+  index: -1
+effect/zidan_67
+  rotate: false
+  xy: 634, 644
+  size: 315, 93
+  orig: 348, 135
+  offset: 19, 19
+  index: -1
+effect/zidan_68
+  rotate: false
+  xy: 2, 549
+  size: 307, 96
+  orig: 348, 135
+  offset: 28, 17
+  index: -1
+effect/zidan_69
+  rotate: false
+  xy: 311, 547
+  size: 300, 98
+  orig: 348, 135
+  offset: 35, 18
+  index: -1
+effect/zidan_70
+  rotate: false
+  xy: 613, 541
+  size: 297, 101
+  orig: 348, 135
+  offset: 37, 19
+  index: -1
+effect/zidan_71
+  rotate: false
+  xy: 2, 444
+  size: 295, 103
+  orig: 348, 135
+  offset: 37, 18
+  index: -1
+effect/zidan_72
+  rotate: false
+  xy: 310, 223
+  size: 304, 106
+  orig: 348, 135
+  offset: 28, 17
+  index: -1
+effect/zidan_73
+  rotate: false
+  xy: 2, 2
+  size: 310, 109
+  orig: 348, 135
+  offset: 23, 15
+  index: -1
+effect/zidan_74
+  rotate: false
+  xy: 313, 331
+  size: 314, 104
+  orig: 348, 135
+  offset: 21, 17
+  index: -1
+effect/zidan_75
+  rotate: false
+  xy: 629, 331
+  size: 314, 104
+  orig: 348, 135
+  offset: 21, 16
+  index: -1
+effect/zidan_76
+  rotate: false
+  xy: 306, 113
+  size: 311, 107
+  orig: 348, 135
+  offset: 22, 16
+  index: -1

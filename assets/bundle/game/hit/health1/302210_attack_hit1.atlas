@@ -1,0 +1,202 @@
+
+302210_attack_hit1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atkjia_22
+  rotate: false
+  xy: 762, 285
+  size: 107, 57
+  orig: 221, 286
+  offset: 60, 43
+  index: -1
+effect/atkjia_24
+  rotate: true
+  xy: 635, 2
+  size: 107, 130
+  orig: 221, 286
+  offset: 60, 44
+  index: -1
+effect/atkjia_26
+  rotate: true
+  xy: 767, 2
+  size: 107, 142
+  orig: 221, 286
+  offset: 60, 44
+  index: -1
+effect/atkjia_28
+  rotate: false
+  xy: 635, 111
+  size: 107, 147
+  orig: 221, 286
+  offset: 60, 44
+  index: -1
+effect/atkjia_30
+  rotate: false
+  xy: 744, 111
+  size: 107, 147
+  orig: 221, 286
+  offset: 60, 44
+  index: -1
+effect/atkjia_32
+  rotate: false
+  xy: 762, 344
+  size: 107, 147
+  orig: 221, 286
+  offset: 60, 44
+  index: -1
+effect/atkjia_34
+  rotate: true
+  xy: 786, 649
+  size: 107, 147
+  orig: 221, 286
+  offset: 60, 44
+  index: -1
+effect/atkjia_36
+  rotate: false
+  xy: 779, 500
+  size: 107, 147
+  orig: 221, 286
+  offset: 60, 44
+  index: -1
+effect/atkjia_38
+  rotate: false
+  xy: 888, 504
+  size: 107, 143
+  orig: 221, 286
+  offset: 60, 45
+  index: -1
+effect/atkjia_40
+  rotate: false
+  xy: 871, 355
+  size: 107, 143
+  orig: 221, 286
+  offset: 60, 45
+  index: -1
+effect/atkshang_22
+  rotate: true
+  xy: 451, 48
+  size: 187, 182
+  orig: 221, 286
+  offset: 19, 16
+  index: -1
+effect/atkshang_23
+  rotate: false
+  xy: 262, 12
+  size: 187, 211
+  orig: 221, 286
+  offset: 19, 16
+  index: -1
+effect/atkshang_24
+  rotate: false
+  xy: 394, 237
+  size: 194, 246
+  orig: 221, 286
+  offset: 15, 15
+  index: -1
+effect/atkshang_25
+  rotate: false
+  xy: 2, 745
+  size: 194, 258
+  orig: 221, 286
+  offset: 15, 15
+  index: -1
+effect/atkshang_26
+  rotate: false
+  xy: 2, 485
+  size: 194, 258
+  orig: 221, 286
+  offset: 15, 15
+  index: -1
+effect/atkshang_27
+  rotate: false
+  xy: 198, 745
+  size: 194, 258
+  orig: 221, 286
+  offset: 15, 15
+  index: -1
+effect/atkshang_28
+  rotate: false
+  xy: 2, 225
+  size: 194, 258
+  orig: 221, 286
+  offset: 15, 15
+  index: -1
+effect/atkshang_29
+  rotate: false
+  xy: 198, 485
+  size: 194, 258
+  orig: 221, 286
+  offset: 15, 15
+  index: -1
+effect/atkshang_30
+  rotate: false
+  xy: 394, 745
+  size: 194, 258
+  orig: 221, 286
+  offset: 15, 15
+  index: -1
+effect/atkshang_31
+  rotate: false
+  xy: 198, 225
+  size: 194, 258
+  orig: 221, 286
+  offset: 15, 15
+  index: -1
+effect/atkshang_32
+  rotate: true
+  xy: 2, 29
+  size: 194, 258
+  orig: 221, 286
+  offset: 15, 15
+  index: -1
+effect/atkshang_33
+  rotate: false
+  xy: 394, 485
+  size: 194, 258
+  orig: 221, 286
+  offset: 15, 15
+  index: -1
+effect/atkshang_34
+  rotate: false
+  xy: 590, 745
+  size: 194, 258
+  orig: 221, 286
+  offset: 15, 15
+  index: -1
+effect/atkshang_35
+  rotate: false
+  xy: 590, 493
+  size: 187, 250
+  orig: 221, 286
+  offset: 19, 16
+  index: -1
+effect/atkshang_36
+  rotate: false
+  xy: 786, 758
+  size: 182, 245
+  orig: 221, 286
+  offset: 21, 18
+  index: -1
+effect/atkshang_37
+  rotate: false
+  xy: 590, 260
+  size: 170, 231
+  orig: 221, 286
+  offset: 27, 22
+  index: -1
+effect/atkshang_38
+  rotate: false
+  xy: 871, 240
+  size: 113, 113
+  orig: 221, 286
+  offset: 58, 57
+  index: -1
+effect/atkshang_40
+  rotate: false
+  xy: 853, 117
+  size: 113, 121
+  orig: 221, 286
+  offset: 62, 66
+  index: -1

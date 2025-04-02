@@ -1,0 +1,153 @@
+
+daoyou3.png
+size: 100,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoyou3_0
+  rotate: 270
+  xy: 50, 4
+  size: 20, 21
+  orig: 30, 32
+  offset: 5, 6
+  index: -1
+daoyou3_1
+  rotate: true
+  xy: 63, 16
+  size: 20, 34
+  orig: 30, 51
+  offset: 5, 9
+  index: -1
+daoyou3_10
+  rotate: false
+  xy: 46, 72
+  size: 45, 32
+  orig: 66, 77
+  offset: 11, 13
+  index: -1
+daoyou3_10_1
+  rotate: false
+  xy: 70, 153
+  size: 27, 30
+  orig: 66, 77
+  offset: 23, 14
+  index: -1
+daoyou3_10_2
+  rotate: 180
+  xy: 2, 39
+  size: 30, 28
+  orig: 66, 77
+  offset: 22, 36
+  index: -1
+daoyou3_11
+  rotate: false
+  xy: 2, 189
+  size: 15, 17
+  orig: 23, 26
+  offset: 4, 5
+  index: -1
+daoyou3_12
+  rotate: false
+  xy: 77, 3
+  size: 13, 15
+  orig: 20, 23
+  offset: 3, 4
+  index: -1
+daoyou3_13
+  rotate: true
+  xy: 2, 5
+  size: 20, 35
+  orig: 30, 48
+  offset: 3, 7
+  index: -1
+daoyou3_14
+  rotate: true
+  xy: 35, 47
+  size: 24, 57
+  orig: 39, 86
+  offset: 6, 15
+  index: -1
+daoyou3_15
+  rotate: true
+  xy: 19, 176
+  size: 44, 65
+  orig: 54, 98
+  offset: 1, 17
+  index: -1
+daoyou3_2
+  rotate: 180
+  xy: 2, 206
+  size: 85, 56
+  orig: 128, 84
+  offset: 21, 14
+  index: -1
+daoyou3_3
+  rotate: 270
+  xy: 10, 21
+  size: 34, 36
+  orig: 53, 56
+  offset: 10, 11
+  index: -1
+daoyou3_4
+  rotate: 270
+  xy: 62, 232
+  size: 35, 31
+  orig: 53, 44
+  offset: 9, 6
+  index: -1
+daoyou3_5
+  rotate: 180
+  xy: 2, 68
+  size: 48, 72
+  orig: 72, 108
+  offset: 12, 18
+  index: -1
+daoyou3_6
+  rotate: 180
+  xy: 2, 138
+  size: 58, 41
+  orig: 132, 96
+  offset: 37, 15
+  index: -1
+daoyou3_6_1
+  rotate: 270
+  xy: 84, 183
+  size: 40, 14
+  orig: 132, 96
+  offset: 53, 26
+  index: -1
+daoyou3_6_2
+  rotate: true
+  xy: 85, 267
+  size: 40, 12
+  orig: 132, 96
+  offset: 53, 30
+  index: -1
+daoyou3_6_3
+  rotate: false
+  xy: 2, 255
+  size: 88, 53
+  orig: 132, 96
+  offset: 22, 27
+  index: -1
+daoyou3_7
+  rotate: 180
+  xy: 42, 105
+  size: 49, 48
+  orig: 72, 71
+  offset: 12, 12
+  index: -1
+daoyou3_8
+  rotate: false
+  xy: 44, 289
+  size: 18, 19
+  orig: 27, 29
+  offset: 4, 5
+  index: -1
+daoyou3_9
+  rotate: false
+  xy: 42, 23
+  size: 32, 26
+  orig: 48, 39
+  offset: 8, 7
+  index: -1

@@ -1,0 +1,41 @@
+
+shitouguai2.png
+size: 180,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shitouguai_3
+  rotate: true
+  xy: 99, 40
+  size: 49, 41
+  orig: 64, 53
+  offset: 7, 6
+  index: -1
+shitouguai_4
+  rotate: 180
+  xy: 153, 58
+  size: 24, 32
+  orig: 29, 43
+  offset: 2, 5
+  index: -1
+shitouguai_6_2
+  rotate: true
+  xy: 137, 31
+  size: 56, 19
+  orig: 72, 25
+  offset: 7, 3
+  index: -1
+shitouguai_7_2
+  rotate: false
+  xy: 96, 9
+  size: 55, 30
+  orig: 68, 38
+  offset: 8, 4
+  index: -1
+shitouguai_8_2
+  rotate: false
+  xy: 2, 3
+  size: 97, 87
+  orig: 125, 112
+  offset: 13, 12
+  index: -1

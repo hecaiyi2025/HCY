@@ -1,0 +1,97 @@
+
+BOSS05.png
+size: 692,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boos5_0
+  rotate: 270
+  xy: 123, 37
+  size: 138, 144
+  orig: 194, 216
+  offset: 24, 36
+  index: -1
+boos5_1
+  rotate: 270
+  xy: 568, 28
+  size: 157, 94
+  orig: 207, 134
+  offset: 27, 19
+  index: -1
+boos5_10
+  rotate: true
+  xy: 511, 4
+  size: 64, 65
+  orig: 96, 98
+  offset: 16, 17
+  index: -1
+boos5_11
+  rotate: 180
+  xy: 613, 297
+  size: 76, 120
+  orig: 105, 179
+  offset: 15, 29
+  index: -1
+boos5_12
+  rotate: false
+  xy: 2, 337
+  size: 563, 185
+  orig: 779, 269
+  offset: 103, 45
+  index: -1
+boos5_2
+  rotate: false
+  xy: 177, 148
+  size: 86, 22
+  orig: 126, 33
+  offset: 21, 6
+  index: -1
+boos5_3
+  rotate: false
+  xy: 96, 10
+  size: 78, 55
+  orig: 117, 80
+  offset: 19, 14
+  index: -1
+boos5_4
+  rotate: false
+  xy: 320, 38
+  size: 253, 159
+  orig: 378, 230
+  offset: 63, 38
+  index: -1
+boos5_5
+  rotate: true
+  xy: 550, 303
+  size: 218, 98
+  orig: 324, 141
+  offset: 54, 23
+  index: -1
+boos5_6
+  rotate: 270
+  xy: 248, 4
+  size: 105, 97
+  orig: 153, 132
+  offset: 25, 17
+  index: -1
+boos5_7
+  rotate: false
+  xy: 2, 44
+  size: 127, 144
+  orig: 176, 201
+  offset: 26, 30
+  index: -1
+boos5_8
+  rotate: 180
+  xy: 2, 171
+  size: 349, 223
+  orig: 524, 333
+  offset: 87, 55
+  index: -1
+boos5_9
+  rotate: false
+  xy: 330, 169
+  size: 337, 175
+  orig: 491, 242
+  offset: 76, 34
+  index: -1

@@ -1,0 +1,27 @@
+
+mogu1.png
+size: 56,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mogu1_1
+  rotate: true
+  xy: 3, 3
+  size: 75, 37
+  orig: 94, 48
+  offset: 9, 6
+  index: -1
+mogu1_2
+  rotate: 270
+  xy: 37, 60
+  size: 22, 16
+  orig: 26, 17
+  offset: 2, 0
+  index: -1
+mogu1_3
+  rotate: false
+  xy: 2, 77
+  size: 47, 55
+  orig: 59, 69
+  offset: 5, 8
+  index: -1

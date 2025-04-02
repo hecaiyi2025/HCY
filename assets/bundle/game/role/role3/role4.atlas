@@ -1,0 +1,97 @@
+
+role4.png
+size: 228,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q_12
+  rotate: 270
+  xy: 147, 25
+  size: 51, 46
+  orig: 72, 68
+  offset: 12, 13
+  index: -1
+q_13
+  rotate: 180
+  xy: 26, 11
+  size: 68, 27
+  orig: 99, 36
+  offset: 15, 4
+  index: -1
+q_14
+  rotate: false
+  xy: 56, 3
+  size: 55, 15
+  orig: 83, 20
+  offset: 14, 3
+  index: -1
+q_15
+  rotate: 270
+  xy: 182, 59
+  size: 55, 20
+  orig: 83, 30
+  offset: 14, 5
+  index: -1
+q_16
+  rotate: false
+  xy: 2, 31
+  size: 111, 111
+  orig: 168, 165
+  offset: 26, 27
+  index: -1
+q_17
+  rotate: 270
+  xy: 107, 45
+  size: 92, 48
+  orig: 137, 72
+  offset: 23, 11
+  index: -1
+q_18
+  rotate: true
+  xy: 163, 4
+  size: 32, 38
+  orig: 48, 57
+  offset: 8, 10
+  index: -1
+q_19
+  rotate: true
+  xy: 2, 113
+  size: 30, 23
+  orig: 44, 35
+  offset: 7, 6
+  index: -1
+q_20
+  rotate: false
+  xy: 98, 15
+  size: 51, 31
+  orig: 74, 47
+  offset: 11, 8
+  index: -1
+q_21
+  rotate: false
+  xy: 197, 110
+  size: 25, 30
+  orig: 38, 45
+  offset: 6, 8
+  index: -1
+q_22
+  rotate: true
+  xy: 149, 77
+  size: 61, 35
+  orig: 95, 50
+  offset: 17, 8
+  index: -1
+q_23
+  rotate: true
+  xy: 2, 6
+  size: 51, 18
+  orig: 78, 23
+  offset: 13, 5
+  index: -1
+q_24
+  rotate: 180
+  xy: 191, 29
+  size: 31, 40
+  orig: 47, 62
+  offset: 8, 11
+  index: -1

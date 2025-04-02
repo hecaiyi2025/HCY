@@ -1,0 +1,55 @@
+
+qilin.png
+size: 83,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 59
+  size: 89, 47
+  orig: 100, 89
+  offset: 0, 31
+  index: -1
+tou
+  rotate: false
+  xy: 2, 150
+  size: 76, 94
+  orig: 82, 94
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 2, 2
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+youhou
+  rotate: true
+  xy: 51, 45
+  size: 24, 26
+  orig: 24, 27
+  offset: 0, 1
+  index: -1
+youqian
+  rotate: false
+  xy: 51, 71
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+zuohou
+  rotate: true
+  xy: 36, 4
+  size: 39, 41
+  orig: 43, 43
+  offset: 0, 2
+  index: -1
+zuoqian
+  rotate: false
+  xy: 51, 105
+  size: 30, 43
+  orig: 38, 43
+  offset: 8, 0
+  index: -1

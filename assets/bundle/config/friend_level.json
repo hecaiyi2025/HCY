@@ -1,0 +1,6752 @@
+[
+    {
+        "id": "13001",
+        "type": "2",
+        "level": "1",
+        "attack": "100",
+        "defence": "0",
+        "price": "[{\"id\":\"1\",\"num\":\"500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13002",
+        "type": "2",
+        "level": "2",
+        "attack": "110",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13003",
+        "type": "2",
+        "level": "3",
+        "attack": "120",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13004",
+        "type": "2",
+        "level": "4",
+        "attack": "130",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13005",
+        "type": "2",
+        "level": "5",
+        "attack": "140",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13006",
+        "type": "2",
+        "level": "6",
+        "attack": "150",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13007",
+        "type": "2",
+        "level": "7",
+        "attack": "160",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13008",
+        "type": "2",
+        "level": "8",
+        "attack": "170",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13009",
+        "type": "2",
+        "level": "9",
+        "attack": "180",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13010",
+        "type": "2",
+        "level": "10",
+        "attack": "190",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"5000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13011",
+        "type": "2",
+        "level": "11",
+        "attack": "200",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"5500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13012",
+        "type": "2",
+        "level": "12",
+        "attack": "210",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13013",
+        "type": "2",
+        "level": "13",
+        "attack": "220",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13014",
+        "type": "2",
+        "level": "14",
+        "attack": "230",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13015",
+        "type": "2",
+        "level": "15",
+        "attack": "240",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13016",
+        "type": "2",
+        "level": "16",
+        "attack": "250",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13017",
+        "type": "2",
+        "level": "17",
+        "attack": "260",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13018",
+        "type": "2",
+        "level": "18",
+        "attack": "270",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13019",
+        "type": "2",
+        "level": "19",
+        "attack": "280",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13020",
+        "type": "2",
+        "level": "20",
+        "attack": "290",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"10000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13021",
+        "type": "2",
+        "level": "21",
+        "attack": "300",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"10500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13022",
+        "type": "2",
+        "level": "22",
+        "attack": "310",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13023",
+        "type": "2",
+        "level": "23",
+        "attack": "320",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13024",
+        "type": "2",
+        "level": "24",
+        "attack": "330",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13025",
+        "type": "2",
+        "level": "25",
+        "attack": "340",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13026",
+        "type": "2",
+        "level": "26",
+        "attack": "350",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13027",
+        "type": "2",
+        "level": "27",
+        "attack": "360",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13028",
+        "type": "2",
+        "level": "28",
+        "attack": "370",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13029",
+        "type": "2",
+        "level": "29",
+        "attack": "380",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13030",
+        "type": "2",
+        "level": "30",
+        "attack": "390",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"15000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13031",
+        "type": "2",
+        "level": "31",
+        "attack": "400",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"15500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13032",
+        "type": "2",
+        "level": "32",
+        "attack": "410",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13033",
+        "type": "2",
+        "level": "33",
+        "attack": "420",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13034",
+        "type": "2",
+        "level": "34",
+        "attack": "430",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13035",
+        "type": "2",
+        "level": "35",
+        "attack": "440",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13036",
+        "type": "2",
+        "level": "36",
+        "attack": "450",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13037",
+        "type": "2",
+        "level": "37",
+        "attack": "460",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13038",
+        "type": "2",
+        "level": "38",
+        "attack": "470",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13039",
+        "type": "2",
+        "level": "39",
+        "attack": "480",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13040",
+        "type": "2",
+        "level": "40",
+        "attack": "490",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"20000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13041",
+        "type": "2",
+        "level": "41",
+        "attack": "500",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"20500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13042",
+        "type": "2",
+        "level": "42",
+        "attack": "510",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13043",
+        "type": "2",
+        "level": "43",
+        "attack": "520",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13044",
+        "type": "2",
+        "level": "44",
+        "attack": "530",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13045",
+        "type": "2",
+        "level": "45",
+        "attack": "540",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13046",
+        "type": "2",
+        "level": "46",
+        "attack": "550",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13047",
+        "type": "2",
+        "level": "47",
+        "attack": "560",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13048",
+        "type": "2",
+        "level": "48",
+        "attack": "570",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13049",
+        "type": "2",
+        "level": "49",
+        "attack": "580",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13050",
+        "type": "2",
+        "level": "50",
+        "attack": "590",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"25000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13051",
+        "type": "3",
+        "level": "1",
+        "attack": "80",
+        "defence": "0",
+        "price": "[{\"id\":\"1\",\"num\":\"500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13052",
+        "type": "3",
+        "level": "2",
+        "attack": "90",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13053",
+        "type": "3",
+        "level": "3",
+        "attack": "100",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13054",
+        "type": "3",
+        "level": "4",
+        "attack": "110",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13055",
+        "type": "3",
+        "level": "5",
+        "attack": "120",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13056",
+        "type": "3",
+        "level": "6",
+        "attack": "130",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13057",
+        "type": "3",
+        "level": "7",
+        "attack": "140",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13058",
+        "type": "3",
+        "level": "8",
+        "attack": "150",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13059",
+        "type": "3",
+        "level": "9",
+        "attack": "160",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13060",
+        "type": "3",
+        "level": "10",
+        "attack": "170",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"5000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13061",
+        "type": "3",
+        "level": "11",
+        "attack": "200",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"5500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13062",
+        "type": "3",
+        "level": "12",
+        "attack": "210",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13063",
+        "type": "3",
+        "level": "13",
+        "attack": "220",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13064",
+        "type": "3",
+        "level": "14",
+        "attack": "230",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13065",
+        "type": "3",
+        "level": "15",
+        "attack": "240",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13066",
+        "type": "3",
+        "level": "16",
+        "attack": "250",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13067",
+        "type": "3",
+        "level": "17",
+        "attack": "260",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13068",
+        "type": "3",
+        "level": "18",
+        "attack": "270",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13069",
+        "type": "3",
+        "level": "19",
+        "attack": "280",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13070",
+        "type": "3",
+        "level": "20",
+        "attack": "290",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"10000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13071",
+        "type": "3",
+        "level": "21",
+        "attack": "300",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"10500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13072",
+        "type": "3",
+        "level": "22",
+        "attack": "310",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13073",
+        "type": "3",
+        "level": "23",
+        "attack": "320",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13074",
+        "type": "3",
+        "level": "24",
+        "attack": "330",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13075",
+        "type": "3",
+        "level": "25",
+        "attack": "340",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13076",
+        "type": "3",
+        "level": "26",
+        "attack": "350",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13077",
+        "type": "3",
+        "level": "27",
+        "attack": "360",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13078",
+        "type": "3",
+        "level": "28",
+        "attack": "370",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13079",
+        "type": "3",
+        "level": "29",
+        "attack": "380",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13080",
+        "type": "3",
+        "level": "30",
+        "attack": "390",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"15000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13081",
+        "type": "3",
+        "level": "31",
+        "attack": "400",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"15500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13082",
+        "type": "3",
+        "level": "32",
+        "attack": "410",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13083",
+        "type": "3",
+        "level": "33",
+        "attack": "420",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13084",
+        "type": "3",
+        "level": "34",
+        "attack": "430",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13085",
+        "type": "3",
+        "level": "35",
+        "attack": "440",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13086",
+        "type": "3",
+        "level": "36",
+        "attack": "450",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13087",
+        "type": "3",
+        "level": "37",
+        "attack": "460",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13088",
+        "type": "3",
+        "level": "38",
+        "attack": "470",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13089",
+        "type": "3",
+        "level": "39",
+        "attack": "480",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13090",
+        "type": "3",
+        "level": "40",
+        "attack": "490",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"20000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13091",
+        "type": "3",
+        "level": "41",
+        "attack": "500",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"20500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13092",
+        "type": "3",
+        "level": "42",
+        "attack": "510",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13093",
+        "type": "3",
+        "level": "43",
+        "attack": "520",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13094",
+        "type": "3",
+        "level": "44",
+        "attack": "530",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13095",
+        "type": "3",
+        "level": "45",
+        "attack": "540",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13096",
+        "type": "3",
+        "level": "46",
+        "attack": "550",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13097",
+        "type": "3",
+        "level": "47",
+        "attack": "560",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13098",
+        "type": "3",
+        "level": "48",
+        "attack": "570",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13099",
+        "type": "3",
+        "level": "49",
+        "attack": "580",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13100",
+        "type": "3",
+        "level": "50",
+        "attack": "590",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"25000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13101",
+        "type": "4",
+        "level": "1",
+        "attack": "100",
+        "defence": "0",
+        "price": "[{\"id\":\"1\",\"num\":\"500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13102",
+        "type": "4",
+        "level": "2",
+        "attack": "110",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13103",
+        "type": "4",
+        "level": "3",
+        "attack": "120",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13104",
+        "type": "4",
+        "level": "4",
+        "attack": "130",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13105",
+        "type": "4",
+        "level": "5",
+        "attack": "140",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13106",
+        "type": "4",
+        "level": "6",
+        "attack": "150",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13107",
+        "type": "4",
+        "level": "7",
+        "attack": "160",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13108",
+        "type": "4",
+        "level": "8",
+        "attack": "170",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13109",
+        "type": "4",
+        "level": "9",
+        "attack": "180",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13110",
+        "type": "4",
+        "level": "10",
+        "attack": "190",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"5000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13111",
+        "type": "4",
+        "level": "11",
+        "attack": "200",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"5500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13112",
+        "type": "4",
+        "level": "12",
+        "attack": "210",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13113",
+        "type": "4",
+        "level": "13",
+        "attack": "220",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13114",
+        "type": "4",
+        "level": "14",
+        "attack": "230",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13115",
+        "type": "4",
+        "level": "15",
+        "attack": "240",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13116",
+        "type": "4",
+        "level": "16",
+        "attack": "250",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13117",
+        "type": "4",
+        "level": "17",
+        "attack": "260",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13118",
+        "type": "4",
+        "level": "18",
+        "attack": "270",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13119",
+        "type": "4",
+        "level": "19",
+        "attack": "280",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13120",
+        "type": "4",
+        "level": "20",
+        "attack": "290",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"10000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13121",
+        "type": "4",
+        "level": "21",
+        "attack": "300",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"10500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13122",
+        "type": "4",
+        "level": "22",
+        "attack": "310",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13123",
+        "type": "4",
+        "level": "23",
+        "attack": "320",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13124",
+        "type": "4",
+        "level": "24",
+        "attack": "330",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13125",
+        "type": "4",
+        "level": "25",
+        "attack": "340",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13126",
+        "type": "4",
+        "level": "26",
+        "attack": "350",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13127",
+        "type": "4",
+        "level": "27",
+        "attack": "360",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13128",
+        "type": "4",
+        "level": "28",
+        "attack": "370",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13129",
+        "type": "4",
+        "level": "29",
+        "attack": "380",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13130",
+        "type": "4",
+        "level": "30",
+        "attack": "390",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"15000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13131",
+        "type": "4",
+        "level": "31",
+        "attack": "400",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"15500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13132",
+        "type": "4",
+        "level": "32",
+        "attack": "410",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13133",
+        "type": "4",
+        "level": "33",
+        "attack": "420",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13134",
+        "type": "4",
+        "level": "34",
+        "attack": "430",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13135",
+        "type": "4",
+        "level": "35",
+        "attack": "440",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13136",
+        "type": "4",
+        "level": "36",
+        "attack": "450",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13137",
+        "type": "4",
+        "level": "37",
+        "attack": "460",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13138",
+        "type": "4",
+        "level": "38",
+        "attack": "470",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13139",
+        "type": "4",
+        "level": "39",
+        "attack": "480",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13140",
+        "type": "4",
+        "level": "40",
+        "attack": "490",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"20000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13141",
+        "type": "4",
+        "level": "41",
+        "attack": "500",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"20500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13142",
+        "type": "4",
+        "level": "42",
+        "attack": "510",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13143",
+        "type": "4",
+        "level": "43",
+        "attack": "520",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13144",
+        "type": "4",
+        "level": "44",
+        "attack": "530",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13145",
+        "type": "4",
+        "level": "45",
+        "attack": "540",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13146",
+        "type": "4",
+        "level": "46",
+        "attack": "550",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13147",
+        "type": "4",
+        "level": "47",
+        "attack": "560",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13148",
+        "type": "4",
+        "level": "48",
+        "attack": "570",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13149",
+        "type": "4",
+        "level": "49",
+        "attack": "580",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13150",
+        "type": "4",
+        "level": "50",
+        "attack": "590",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"25000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13151",
+        "type": "5",
+        "level": "1",
+        "attack": "100",
+        "defence": "0",
+        "price": "[{\"id\":\"1\",\"num\":\"500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13152",
+        "type": "5",
+        "level": "2",
+        "attack": "110",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13153",
+        "type": "5",
+        "level": "3",
+        "attack": "120",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13154",
+        "type": "5",
+        "level": "4",
+        "attack": "130",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13155",
+        "type": "5",
+        "level": "5",
+        "attack": "140",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13156",
+        "type": "5",
+        "level": "6",
+        "attack": "150",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13157",
+        "type": "5",
+        "level": "7",
+        "attack": "160",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13158",
+        "type": "5",
+        "level": "8",
+        "attack": "170",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13159",
+        "type": "5",
+        "level": "9",
+        "attack": "180",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13160",
+        "type": "5",
+        "level": "10",
+        "attack": "190",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"5000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13161",
+        "type": "5",
+        "level": "11",
+        "attack": "200",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"5500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13162",
+        "type": "5",
+        "level": "12",
+        "attack": "210",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13163",
+        "type": "5",
+        "level": "13",
+        "attack": "220",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13164",
+        "type": "5",
+        "level": "14",
+        "attack": "230",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13165",
+        "type": "5",
+        "level": "15",
+        "attack": "240",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13166",
+        "type": "5",
+        "level": "16",
+        "attack": "250",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13167",
+        "type": "5",
+        "level": "17",
+        "attack": "260",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13168",
+        "type": "5",
+        "level": "18",
+        "attack": "270",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13169",
+        "type": "5",
+        "level": "19",
+        "attack": "280",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13170",
+        "type": "5",
+        "level": "20",
+        "attack": "290",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"10000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13171",
+        "type": "5",
+        "level": "21",
+        "attack": "300",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"10500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13172",
+        "type": "5",
+        "level": "22",
+        "attack": "310",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13173",
+        "type": "5",
+        "level": "23",
+        "attack": "320",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13174",
+        "type": "5",
+        "level": "24",
+        "attack": "330",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13175",
+        "type": "5",
+        "level": "25",
+        "attack": "340",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13176",
+        "type": "5",
+        "level": "26",
+        "attack": "350",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13177",
+        "type": "5",
+        "level": "27",
+        "attack": "360",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13178",
+        "type": "5",
+        "level": "28",
+        "attack": "370",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13179",
+        "type": "5",
+        "level": "29",
+        "attack": "380",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13180",
+        "type": "5",
+        "level": "30",
+        "attack": "390",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"15000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13181",
+        "type": "5",
+        "level": "31",
+        "attack": "400",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"15500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13182",
+        "type": "5",
+        "level": "32",
+        "attack": "410",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13183",
+        "type": "5",
+        "level": "33",
+        "attack": "420",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13184",
+        "type": "5",
+        "level": "34",
+        "attack": "430",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13185",
+        "type": "5",
+        "level": "35",
+        "attack": "440",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13186",
+        "type": "5",
+        "level": "36",
+        "attack": "450",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13187",
+        "type": "5",
+        "level": "37",
+        "attack": "460",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13188",
+        "type": "5",
+        "level": "38",
+        "attack": "470",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13189",
+        "type": "5",
+        "level": "39",
+        "attack": "480",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13190",
+        "type": "5",
+        "level": "40",
+        "attack": "490",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"20000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13191",
+        "type": "5",
+        "level": "41",
+        "attack": "500",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"20500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13192",
+        "type": "5",
+        "level": "42",
+        "attack": "510",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13193",
+        "type": "5",
+        "level": "43",
+        "attack": "520",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13194",
+        "type": "5",
+        "level": "44",
+        "attack": "530",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13195",
+        "type": "5",
+        "level": "45",
+        "attack": "540",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13196",
+        "type": "5",
+        "level": "46",
+        "attack": "550",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13197",
+        "type": "5",
+        "level": "47",
+        "attack": "560",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13198",
+        "type": "5",
+        "level": "48",
+        "attack": "570",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13199",
+        "type": "5",
+        "level": "49",
+        "attack": "580",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13200",
+        "type": "5",
+        "level": "50",
+        "attack": "590",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"25000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13201",
+        "type": "6",
+        "level": "1",
+        "attack": "50",
+        "defence": "11",
+        "price": "[{\"id\":\"1\",\"num\":\"500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13202",
+        "type": "6",
+        "level": "2",
+        "attack": "55",
+        "defence": "12",
+        "price": "[{\"id\":\"1\",\"num\":\"1000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13203",
+        "type": "6",
+        "level": "3",
+        "attack": "60",
+        "defence": "13",
+        "price": "[{\"id\":\"1\",\"num\":\"1500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13204",
+        "type": "6",
+        "level": "4",
+        "attack": "65",
+        "defence": "14",
+        "price": "[{\"id\":\"1\",\"num\":\"2000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13205",
+        "type": "6",
+        "level": "5",
+        "attack": "70",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"2500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13206",
+        "type": "6",
+        "level": "6",
+        "attack": "75",
+        "defence": "16",
+        "price": "[{\"id\":\"1\",\"num\":\"3000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13207",
+        "type": "6",
+        "level": "7",
+        "attack": "80",
+        "defence": "17",
+        "price": "[{\"id\":\"1\",\"num\":\"3500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13208",
+        "type": "6",
+        "level": "8",
+        "attack": "85",
+        "defence": "18",
+        "price": "[{\"id\":\"1\",\"num\":\"4000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13209",
+        "type": "6",
+        "level": "9",
+        "attack": "90",
+        "defence": "19",
+        "price": "[{\"id\":\"1\",\"num\":\"4500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13210",
+        "type": "6",
+        "level": "10",
+        "attack": "95",
+        "defence": "20",
+        "price": "[{\"id\":\"1\",\"num\":\"5000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13211",
+        "type": "6",
+        "level": "11",
+        "attack": "100",
+        "defence": "22",
+        "price": "[{\"id\":\"1\",\"num\":\"5500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13212",
+        "type": "6",
+        "level": "12",
+        "attack": "105",
+        "defence": "24",
+        "price": "[{\"id\":\"1\",\"num\":\"6000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13213",
+        "type": "6",
+        "level": "13",
+        "attack": "110",
+        "defence": "26",
+        "price": "[{\"id\":\"1\",\"num\":\"6500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13214",
+        "type": "6",
+        "level": "14",
+        "attack": "115",
+        "defence": "28",
+        "price": "[{\"id\":\"1\",\"num\":\"7000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13215",
+        "type": "6",
+        "level": "15",
+        "attack": "120",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"7500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13216",
+        "type": "6",
+        "level": "16",
+        "attack": "125",
+        "defence": "32",
+        "price": "[{\"id\":\"1\",\"num\":\"8000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13217",
+        "type": "6",
+        "level": "17",
+        "attack": "130",
+        "defence": "34",
+        "price": "[{\"id\":\"1\",\"num\":\"8500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13218",
+        "type": "6",
+        "level": "18",
+        "attack": "135",
+        "defence": "36",
+        "price": "[{\"id\":\"1\",\"num\":\"9000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13219",
+        "type": "6",
+        "level": "19",
+        "attack": "140",
+        "defence": "38",
+        "price": "[{\"id\":\"1\",\"num\":\"9500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13220",
+        "type": "6",
+        "level": "20",
+        "attack": "145",
+        "defence": "40",
+        "price": "[{\"id\":\"1\",\"num\":\"10000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13221",
+        "type": "6",
+        "level": "21",
+        "attack": "150",
+        "defence": "44",
+        "price": "[{\"id\":\"1\",\"num\":\"10500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13222",
+        "type": "6",
+        "level": "22",
+        "attack": "155",
+        "defence": "48",
+        "price": "[{\"id\":\"1\",\"num\":\"11000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13223",
+        "type": "6",
+        "level": "23",
+        "attack": "160",
+        "defence": "52",
+        "price": "[{\"id\":\"1\",\"num\":\"11500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13224",
+        "type": "6",
+        "level": "24",
+        "attack": "165",
+        "defence": "56",
+        "price": "[{\"id\":\"1\",\"num\":\"12000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13225",
+        "type": "6",
+        "level": "25",
+        "attack": "170",
+        "defence": "60",
+        "price": "[{\"id\":\"1\",\"num\":\"12500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13226",
+        "type": "6",
+        "level": "26",
+        "attack": "175",
+        "defence": "64",
+        "price": "[{\"id\":\"1\",\"num\":\"13000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13227",
+        "type": "6",
+        "level": "27",
+        "attack": "180",
+        "defence": "68",
+        "price": "[{\"id\":\"1\",\"num\":\"13500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13228",
+        "type": "6",
+        "level": "28",
+        "attack": "185",
+        "defence": "72",
+        "price": "[{\"id\":\"1\",\"num\":\"14000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13229",
+        "type": "6",
+        "level": "29",
+        "attack": "190",
+        "defence": "76",
+        "price": "[{\"id\":\"1\",\"num\":\"14500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13230",
+        "type": "6",
+        "level": "30",
+        "attack": "195",
+        "defence": "80",
+        "price": "[{\"id\":\"1\",\"num\":\"15000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13231",
+        "type": "6",
+        "level": "31",
+        "attack": "200",
+        "defence": "90",
+        "price": "[{\"id\":\"1\",\"num\":\"15500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13232",
+        "type": "6",
+        "level": "32",
+        "attack": "205",
+        "defence": "100",
+        "price": "[{\"id\":\"1\",\"num\":\"16000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13233",
+        "type": "6",
+        "level": "33",
+        "attack": "210",
+        "defence": "110",
+        "price": "[{\"id\":\"1\",\"num\":\"16500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13234",
+        "type": "6",
+        "level": "34",
+        "attack": "215",
+        "defence": "120",
+        "price": "[{\"id\":\"1\",\"num\":\"17000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13235",
+        "type": "6",
+        "level": "35",
+        "attack": "220",
+        "defence": "130",
+        "price": "[{\"id\":\"1\",\"num\":\"17500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13236",
+        "type": "6",
+        "level": "36",
+        "attack": "225",
+        "defence": "140",
+        "price": "[{\"id\":\"1\",\"num\":\"18000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13237",
+        "type": "6",
+        "level": "37",
+        "attack": "230",
+        "defence": "150",
+        "price": "[{\"id\":\"1\",\"num\":\"18500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13238",
+        "type": "6",
+        "level": "38",
+        "attack": "235",
+        "defence": "160",
+        "price": "[{\"id\":\"1\",\"num\":\"19000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13239",
+        "type": "6",
+        "level": "39",
+        "attack": "240",
+        "defence": "170",
+        "price": "[{\"id\":\"1\",\"num\":\"19500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13240",
+        "type": "6",
+        "level": "40",
+        "attack": "245",
+        "defence": "180",
+        "price": "[{\"id\":\"1\",\"num\":\"20000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13241",
+        "type": "6",
+        "level": "41",
+        "attack": "250",
+        "defence": "190",
+        "price": "[{\"id\":\"1\",\"num\":\"20500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13242",
+        "type": "6",
+        "level": "42",
+        "attack": "255",
+        "defence": "200",
+        "price": "[{\"id\":\"1\",\"num\":\"21000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13243",
+        "type": "6",
+        "level": "43",
+        "attack": "260",
+        "defence": "220",
+        "price": "[{\"id\":\"1\",\"num\":\"21500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13244",
+        "type": "6",
+        "level": "44",
+        "attack": "265",
+        "defence": "240",
+        "price": "[{\"id\":\"1\",\"num\":\"22000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13245",
+        "type": "6",
+        "level": "45",
+        "attack": "270",
+        "defence": "260",
+        "price": "[{\"id\":\"1\",\"num\":\"22500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13246",
+        "type": "6",
+        "level": "46",
+        "attack": "275",
+        "defence": "280",
+        "price": "[{\"id\":\"1\",\"num\":\"23000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13247",
+        "type": "6",
+        "level": "47",
+        "attack": "280",
+        "defence": "300",
+        "price": "[{\"id\":\"1\",\"num\":\"23500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13248",
+        "type": "6",
+        "level": "48",
+        "attack": "285",
+        "defence": "320",
+        "price": "[{\"id\":\"1\",\"num\":\"24000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13249",
+        "type": "6",
+        "level": "49",
+        "attack": "290",
+        "defence": "340",
+        "price": "[{\"id\":\"1\",\"num\":\"24500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13250",
+        "type": "6",
+        "level": "50",
+        "attack": "295",
+        "defence": "360",
+        "price": "[{\"id\":\"1\",\"num\":\"25000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13251",
+        "type": "7",
+        "level": "1",
+        "attack": "100",
+        "defence": "0",
+        "price": "[{\"id\":\"1\",\"num\":\"500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13252",
+        "type": "7",
+        "level": "2",
+        "attack": "110",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13253",
+        "type": "7",
+        "level": "3",
+        "attack": "120",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13254",
+        "type": "7",
+        "level": "4",
+        "attack": "130",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13255",
+        "type": "7",
+        "level": "5",
+        "attack": "140",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13256",
+        "type": "7",
+        "level": "6",
+        "attack": "150",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13257",
+        "type": "7",
+        "level": "7",
+        "attack": "160",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13258",
+        "type": "7",
+        "level": "8",
+        "attack": "170",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13259",
+        "type": "7",
+        "level": "9",
+        "attack": "180",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13260",
+        "type": "7",
+        "level": "10",
+        "attack": "190",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"5000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13261",
+        "type": "7",
+        "level": "11",
+        "attack": "200",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"5500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13262",
+        "type": "7",
+        "level": "12",
+        "attack": "210",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13263",
+        "type": "7",
+        "level": "13",
+        "attack": "220",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13264",
+        "type": "7",
+        "level": "14",
+        "attack": "230",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13265",
+        "type": "7",
+        "level": "15",
+        "attack": "240",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13266",
+        "type": "7",
+        "level": "16",
+        "attack": "250",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13267",
+        "type": "7",
+        "level": "17",
+        "attack": "260",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13268",
+        "type": "7",
+        "level": "18",
+        "attack": "270",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13269",
+        "type": "7",
+        "level": "19",
+        "attack": "280",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13270",
+        "type": "7",
+        "level": "20",
+        "attack": "290",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"10000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13271",
+        "type": "7",
+        "level": "21",
+        "attack": "300",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"10500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13272",
+        "type": "7",
+        "level": "22",
+        "attack": "310",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13273",
+        "type": "7",
+        "level": "23",
+        "attack": "320",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13274",
+        "type": "7",
+        "level": "24",
+        "attack": "330",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13275",
+        "type": "7",
+        "level": "25",
+        "attack": "340",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13276",
+        "type": "7",
+        "level": "26",
+        "attack": "350",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13277",
+        "type": "7",
+        "level": "27",
+        "attack": "360",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13278",
+        "type": "7",
+        "level": "28",
+        "attack": "370",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13279",
+        "type": "7",
+        "level": "29",
+        "attack": "380",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13280",
+        "type": "7",
+        "level": "30",
+        "attack": "390",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"15000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13281",
+        "type": "7",
+        "level": "31",
+        "attack": "400",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"15500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13282",
+        "type": "7",
+        "level": "32",
+        "attack": "410",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13283",
+        "type": "7",
+        "level": "33",
+        "attack": "420",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13284",
+        "type": "7",
+        "level": "34",
+        "attack": "430",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13285",
+        "type": "7",
+        "level": "35",
+        "attack": "440",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13286",
+        "type": "7",
+        "level": "36",
+        "attack": "450",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13287",
+        "type": "7",
+        "level": "37",
+        "attack": "460",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13288",
+        "type": "7",
+        "level": "38",
+        "attack": "470",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13289",
+        "type": "7",
+        "level": "39",
+        "attack": "480",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13290",
+        "type": "7",
+        "level": "40",
+        "attack": "490",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"20000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13291",
+        "type": "7",
+        "level": "41",
+        "attack": "500",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"20500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13292",
+        "type": "7",
+        "level": "42",
+        "attack": "510",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13293",
+        "type": "7",
+        "level": "43",
+        "attack": "520",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13294",
+        "type": "7",
+        "level": "44",
+        "attack": "530",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13295",
+        "type": "7",
+        "level": "45",
+        "attack": "540",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13296",
+        "type": "7",
+        "level": "46",
+        "attack": "550",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13297",
+        "type": "7",
+        "level": "47",
+        "attack": "560",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13298",
+        "type": "7",
+        "level": "48",
+        "attack": "570",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13299",
+        "type": "7",
+        "level": "49",
+        "attack": "580",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13300",
+        "type": "7",
+        "level": "50",
+        "attack": "590",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"25000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13301",
+        "type": "8",
+        "level": "1",
+        "attack": "100",
+        "defence": "0",
+        "price": "[{\"id\":\"1\",\"num\":\"500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13302",
+        "type": "8",
+        "level": "2",
+        "attack": "110",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13303",
+        "type": "8",
+        "level": "3",
+        "attack": "120",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13304",
+        "type": "8",
+        "level": "4",
+        "attack": "130",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13305",
+        "type": "8",
+        "level": "5",
+        "attack": "140",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13306",
+        "type": "8",
+        "level": "6",
+        "attack": "150",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13307",
+        "type": "8",
+        "level": "7",
+        "attack": "160",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13308",
+        "type": "8",
+        "level": "8",
+        "attack": "170",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13309",
+        "type": "8",
+        "level": "9",
+        "attack": "180",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13310",
+        "type": "8",
+        "level": "10",
+        "attack": "190",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"5000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13311",
+        "type": "8",
+        "level": "11",
+        "attack": "200",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"5500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13312",
+        "type": "8",
+        "level": "12",
+        "attack": "210",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13313",
+        "type": "8",
+        "level": "13",
+        "attack": "220",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13314",
+        "type": "8",
+        "level": "14",
+        "attack": "230",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13315",
+        "type": "8",
+        "level": "15",
+        "attack": "240",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13316",
+        "type": "8",
+        "level": "16",
+        "attack": "250",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13317",
+        "type": "8",
+        "level": "17",
+        "attack": "260",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13318",
+        "type": "8",
+        "level": "18",
+        "attack": "270",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13319",
+        "type": "8",
+        "level": "19",
+        "attack": "280",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13320",
+        "type": "8",
+        "level": "20",
+        "attack": "290",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"10000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13321",
+        "type": "8",
+        "level": "21",
+        "attack": "300",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"10500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13322",
+        "type": "8",
+        "level": "22",
+        "attack": "310",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13323",
+        "type": "8",
+        "level": "23",
+        "attack": "320",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13324",
+        "type": "8",
+        "level": "24",
+        "attack": "330",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13325",
+        "type": "8",
+        "level": "25",
+        "attack": "340",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13326",
+        "type": "8",
+        "level": "26",
+        "attack": "350",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13327",
+        "type": "8",
+        "level": "27",
+        "attack": "360",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13328",
+        "type": "8",
+        "level": "28",
+        "attack": "370",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13329",
+        "type": "8",
+        "level": "29",
+        "attack": "380",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13330",
+        "type": "8",
+        "level": "30",
+        "attack": "390",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"15000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13331",
+        "type": "8",
+        "level": "31",
+        "attack": "400",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"15500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13332",
+        "type": "8",
+        "level": "32",
+        "attack": "410",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13333",
+        "type": "8",
+        "level": "33",
+        "attack": "420",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13334",
+        "type": "8",
+        "level": "34",
+        "attack": "430",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13335",
+        "type": "8",
+        "level": "35",
+        "attack": "440",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13336",
+        "type": "8",
+        "level": "36",
+        "attack": "450",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13337",
+        "type": "8",
+        "level": "37",
+        "attack": "460",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13338",
+        "type": "8",
+        "level": "38",
+        "attack": "470",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13339",
+        "type": "8",
+        "level": "39",
+        "attack": "480",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13340",
+        "type": "8",
+        "level": "40",
+        "attack": "490",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"20000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13341",
+        "type": "8",
+        "level": "41",
+        "attack": "500",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"20500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13342",
+        "type": "8",
+        "level": "42",
+        "attack": "510",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13343",
+        "type": "8",
+        "level": "43",
+        "attack": "520",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13344",
+        "type": "8",
+        "level": "44",
+        "attack": "530",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13345",
+        "type": "8",
+        "level": "45",
+        "attack": "540",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13346",
+        "type": "8",
+        "level": "46",
+        "attack": "550",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13347",
+        "type": "8",
+        "level": "47",
+        "attack": "560",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13348",
+        "type": "8",
+        "level": "48",
+        "attack": "570",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13349",
+        "type": "8",
+        "level": "49",
+        "attack": "580",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13350",
+        "type": "8",
+        "level": "50",
+        "attack": "590",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"25000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13351",
+        "type": "9",
+        "level": "1",
+        "attack": "100",
+        "defence": "0",
+        "price": "[{\"id\":\"1\",\"num\":\"500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13352",
+        "type": "9",
+        "level": "2",
+        "attack": "110",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13353",
+        "type": "9",
+        "level": "3",
+        "attack": "120",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13354",
+        "type": "9",
+        "level": "4",
+        "attack": "130",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13355",
+        "type": "9",
+        "level": "5",
+        "attack": "140",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13356",
+        "type": "9",
+        "level": "6",
+        "attack": "150",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13357",
+        "type": "9",
+        "level": "7",
+        "attack": "160",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13358",
+        "type": "9",
+        "level": "8",
+        "attack": "170",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13359",
+        "type": "9",
+        "level": "9",
+        "attack": "180",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13360",
+        "type": "9",
+        "level": "10",
+        "attack": "190",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"5000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13361",
+        "type": "9",
+        "level": "11",
+        "attack": "200",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"5500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13362",
+        "type": "9",
+        "level": "12",
+        "attack": "210",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13363",
+        "type": "9",
+        "level": "13",
+        "attack": "220",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13364",
+        "type": "9",
+        "level": "14",
+        "attack": "230",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13365",
+        "type": "9",
+        "level": "15",
+        "attack": "240",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13366",
+        "type": "9",
+        "level": "16",
+        "attack": "250",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13367",
+        "type": "9",
+        "level": "17",
+        "attack": "260",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13368",
+        "type": "9",
+        "level": "18",
+        "attack": "270",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13369",
+        "type": "9",
+        "level": "19",
+        "attack": "280",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13370",
+        "type": "9",
+        "level": "20",
+        "attack": "290",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"10000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13371",
+        "type": "9",
+        "level": "21",
+        "attack": "300",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"10500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13372",
+        "type": "9",
+        "level": "22",
+        "attack": "310",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13373",
+        "type": "9",
+        "level": "23",
+        "attack": "320",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13374",
+        "type": "9",
+        "level": "24",
+        "attack": "330",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13375",
+        "type": "9",
+        "level": "25",
+        "attack": "340",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13376",
+        "type": "9",
+        "level": "26",
+        "attack": "350",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13377",
+        "type": "9",
+        "level": "27",
+        "attack": "360",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13378",
+        "type": "9",
+        "level": "28",
+        "attack": "370",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13379",
+        "type": "9",
+        "level": "29",
+        "attack": "380",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13380",
+        "type": "9",
+        "level": "30",
+        "attack": "390",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"15000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13381",
+        "type": "9",
+        "level": "31",
+        "attack": "400",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"15500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13382",
+        "type": "9",
+        "level": "32",
+        "attack": "410",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13383",
+        "type": "9",
+        "level": "33",
+        "attack": "420",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13384",
+        "type": "9",
+        "level": "34",
+        "attack": "430",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13385",
+        "type": "9",
+        "level": "35",
+        "attack": "440",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13386",
+        "type": "9",
+        "level": "36",
+        "attack": "450",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13387",
+        "type": "9",
+        "level": "37",
+        "attack": "460",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13388",
+        "type": "9",
+        "level": "38",
+        "attack": "470",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13389",
+        "type": "9",
+        "level": "39",
+        "attack": "480",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13390",
+        "type": "9",
+        "level": "40",
+        "attack": "490",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"20000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13391",
+        "type": "9",
+        "level": "41",
+        "attack": "500",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"20500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13392",
+        "type": "9",
+        "level": "42",
+        "attack": "510",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13393",
+        "type": "9",
+        "level": "43",
+        "attack": "520",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13394",
+        "type": "9",
+        "level": "44",
+        "attack": "530",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13395",
+        "type": "9",
+        "level": "45",
+        "attack": "540",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13396",
+        "type": "9",
+        "level": "46",
+        "attack": "550",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13397",
+        "type": "9",
+        "level": "47",
+        "attack": "560",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13398",
+        "type": "9",
+        "level": "48",
+        "attack": "570",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13399",
+        "type": "9",
+        "level": "49",
+        "attack": "580",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13400",
+        "type": "9",
+        "level": "50",
+        "attack": "590",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"25000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13401",
+        "type": "10",
+        "level": "1",
+        "attack": "100",
+        "defence": "0",
+        "price": "[{\"id\":\"1\",\"num\":\"500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13402",
+        "type": "10",
+        "level": "2",
+        "attack": "110",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13403",
+        "type": "10",
+        "level": "3",
+        "attack": "120",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13404",
+        "type": "10",
+        "level": "4",
+        "attack": "130",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13405",
+        "type": "10",
+        "level": "5",
+        "attack": "140",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13406",
+        "type": "10",
+        "level": "6",
+        "attack": "150",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13407",
+        "type": "10",
+        "level": "7",
+        "attack": "160",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13408",
+        "type": "10",
+        "level": "8",
+        "attack": "170",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13409",
+        "type": "10",
+        "level": "9",
+        "attack": "180",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13410",
+        "type": "10",
+        "level": "10",
+        "attack": "190",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"5000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13411",
+        "type": "10",
+        "level": "11",
+        "attack": "200",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"5500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13412",
+        "type": "10",
+        "level": "12",
+        "attack": "210",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13413",
+        "type": "10",
+        "level": "13",
+        "attack": "220",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13414",
+        "type": "10",
+        "level": "14",
+        "attack": "230",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13415",
+        "type": "10",
+        "level": "15",
+        "attack": "240",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13416",
+        "type": "10",
+        "level": "16",
+        "attack": "250",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13417",
+        "type": "10",
+        "level": "17",
+        "attack": "260",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13418",
+        "type": "10",
+        "level": "18",
+        "attack": "270",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13419",
+        "type": "10",
+        "level": "19",
+        "attack": "280",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13420",
+        "type": "10",
+        "level": "20",
+        "attack": "290",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"10000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13421",
+        "type": "10",
+        "level": "21",
+        "attack": "300",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"10500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13422",
+        "type": "10",
+        "level": "22",
+        "attack": "310",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13423",
+        "type": "10",
+        "level": "23",
+        "attack": "320",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13424",
+        "type": "10",
+        "level": "24",
+        "attack": "330",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13425",
+        "type": "10",
+        "level": "25",
+        "attack": "340",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13426",
+        "type": "10",
+        "level": "26",
+        "attack": "350",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13427",
+        "type": "10",
+        "level": "27",
+        "attack": "360",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13428",
+        "type": "10",
+        "level": "28",
+        "attack": "370",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13429",
+        "type": "10",
+        "level": "29",
+        "attack": "380",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13430",
+        "type": "10",
+        "level": "30",
+        "attack": "390",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"15000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13431",
+        "type": "10",
+        "level": "31",
+        "attack": "400",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"15500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13432",
+        "type": "10",
+        "level": "32",
+        "attack": "410",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13433",
+        "type": "10",
+        "level": "33",
+        "attack": "420",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13434",
+        "type": "10",
+        "level": "34",
+        "attack": "430",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13435",
+        "type": "10",
+        "level": "35",
+        "attack": "440",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13436",
+        "type": "10",
+        "level": "36",
+        "attack": "450",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13437",
+        "type": "10",
+        "level": "37",
+        "attack": "460",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13438",
+        "type": "10",
+        "level": "38",
+        "attack": "470",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13439",
+        "type": "10",
+        "level": "39",
+        "attack": "480",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13440",
+        "type": "10",
+        "level": "40",
+        "attack": "490",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"20000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13441",
+        "type": "10",
+        "level": "41",
+        "attack": "500",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"20500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13442",
+        "type": "10",
+        "level": "42",
+        "attack": "510",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13443",
+        "type": "10",
+        "level": "43",
+        "attack": "520",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13444",
+        "type": "10",
+        "level": "44",
+        "attack": "530",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13445",
+        "type": "10",
+        "level": "45",
+        "attack": "540",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13446",
+        "type": "10",
+        "level": "46",
+        "attack": "550",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13447",
+        "type": "10",
+        "level": "47",
+        "attack": "560",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13448",
+        "type": "10",
+        "level": "48",
+        "attack": "570",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13449",
+        "type": "10",
+        "level": "49",
+        "attack": "580",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13450",
+        "type": "10",
+        "level": "50",
+        "attack": "590",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"25000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13451",
+        "type": "11",
+        "level": "1",
+        "attack": "50",
+        "defence": "11",
+        "price": "[{\"id\":\"1\",\"num\":\"500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13452",
+        "type": "11",
+        "level": "2",
+        "attack": "55",
+        "defence": "12",
+        "price": "[{\"id\":\"1\",\"num\":\"1000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13453",
+        "type": "11",
+        "level": "3",
+        "attack": "60",
+        "defence": "13",
+        "price": "[{\"id\":\"1\",\"num\":\"1500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13454",
+        "type": "11",
+        "level": "4",
+        "attack": "65",
+        "defence": "14",
+        "price": "[{\"id\":\"1\",\"num\":\"2000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13455",
+        "type": "11",
+        "level": "5",
+        "attack": "70",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"2500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13456",
+        "type": "11",
+        "level": "6",
+        "attack": "75",
+        "defence": "16",
+        "price": "[{\"id\":\"1\",\"num\":\"3000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13457",
+        "type": "11",
+        "level": "7",
+        "attack": "80",
+        "defence": "17",
+        "price": "[{\"id\":\"1\",\"num\":\"3500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13458",
+        "type": "11",
+        "level": "8",
+        "attack": "85",
+        "defence": "18",
+        "price": "[{\"id\":\"1\",\"num\":\"4000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13459",
+        "type": "11",
+        "level": "9",
+        "attack": "90",
+        "defence": "19",
+        "price": "[{\"id\":\"1\",\"num\":\"4500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13460",
+        "type": "11",
+        "level": "10",
+        "attack": "95",
+        "defence": "20",
+        "price": "[{\"id\":\"1\",\"num\":\"5000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13461",
+        "type": "11",
+        "level": "11",
+        "attack": "100",
+        "defence": "22",
+        "price": "[{\"id\":\"1\",\"num\":\"5500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13462",
+        "type": "11",
+        "level": "12",
+        "attack": "105",
+        "defence": "24",
+        "price": "[{\"id\":\"1\",\"num\":\"6000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13463",
+        "type": "11",
+        "level": "13",
+        "attack": "110",
+        "defence": "26",
+        "price": "[{\"id\":\"1\",\"num\":\"6500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13464",
+        "type": "11",
+        "level": "14",
+        "attack": "115",
+        "defence": "28",
+        "price": "[{\"id\":\"1\",\"num\":\"7000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13465",
+        "type": "11",
+        "level": "15",
+        "attack": "120",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"7500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13466",
+        "type": "11",
+        "level": "16",
+        "attack": "125",
+        "defence": "32",
+        "price": "[{\"id\":\"1\",\"num\":\"8000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13467",
+        "type": "11",
+        "level": "17",
+        "attack": "130",
+        "defence": "34",
+        "price": "[{\"id\":\"1\",\"num\":\"8500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13468",
+        "type": "11",
+        "level": "18",
+        "attack": "135",
+        "defence": "36",
+        "price": "[{\"id\":\"1\",\"num\":\"9000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13469",
+        "type": "11",
+        "level": "19",
+        "attack": "140",
+        "defence": "38",
+        "price": "[{\"id\":\"1\",\"num\":\"9500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13470",
+        "type": "11",
+        "level": "20",
+        "attack": "145",
+        "defence": "40",
+        "price": "[{\"id\":\"1\",\"num\":\"10000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13471",
+        "type": "11",
+        "level": "21",
+        "attack": "150",
+        "defence": "44",
+        "price": "[{\"id\":\"1\",\"num\":\"10500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13472",
+        "type": "11",
+        "level": "22",
+        "attack": "155",
+        "defence": "48",
+        "price": "[{\"id\":\"1\",\"num\":\"11000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13473",
+        "type": "11",
+        "level": "23",
+        "attack": "160",
+        "defence": "52",
+        "price": "[{\"id\":\"1\",\"num\":\"11500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13474",
+        "type": "11",
+        "level": "24",
+        "attack": "165",
+        "defence": "56",
+        "price": "[{\"id\":\"1\",\"num\":\"12000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13475",
+        "type": "11",
+        "level": "25",
+        "attack": "170",
+        "defence": "60",
+        "price": "[{\"id\":\"1\",\"num\":\"12500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13476",
+        "type": "11",
+        "level": "26",
+        "attack": "175",
+        "defence": "64",
+        "price": "[{\"id\":\"1\",\"num\":\"13000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13477",
+        "type": "11",
+        "level": "27",
+        "attack": "180",
+        "defence": "68",
+        "price": "[{\"id\":\"1\",\"num\":\"13500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13478",
+        "type": "11",
+        "level": "28",
+        "attack": "185",
+        "defence": "72",
+        "price": "[{\"id\":\"1\",\"num\":\"14000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13479",
+        "type": "11",
+        "level": "29",
+        "attack": "190",
+        "defence": "76",
+        "price": "[{\"id\":\"1\",\"num\":\"14500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13480",
+        "type": "11",
+        "level": "30",
+        "attack": "195",
+        "defence": "80",
+        "price": "[{\"id\":\"1\",\"num\":\"15000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13481",
+        "type": "11",
+        "level": "31",
+        "attack": "200",
+        "defence": "90",
+        "price": "[{\"id\":\"1\",\"num\":\"15500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13482",
+        "type": "11",
+        "level": "32",
+        "attack": "205",
+        "defence": "100",
+        "price": "[{\"id\":\"1\",\"num\":\"16000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13483",
+        "type": "11",
+        "level": "33",
+        "attack": "210",
+        "defence": "110",
+        "price": "[{\"id\":\"1\",\"num\":\"16500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13484",
+        "type": "11",
+        "level": "34",
+        "attack": "215",
+        "defence": "120",
+        "price": "[{\"id\":\"1\",\"num\":\"17000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13485",
+        "type": "11",
+        "level": "35",
+        "attack": "220",
+        "defence": "130",
+        "price": "[{\"id\":\"1\",\"num\":\"17500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13486",
+        "type": "11",
+        "level": "36",
+        "attack": "225",
+        "defence": "140",
+        "price": "[{\"id\":\"1\",\"num\":\"18000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13487",
+        "type": "11",
+        "level": "37",
+        "attack": "230",
+        "defence": "150",
+        "price": "[{\"id\":\"1\",\"num\":\"18500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13488",
+        "type": "11",
+        "level": "38",
+        "attack": "235",
+        "defence": "160",
+        "price": "[{\"id\":\"1\",\"num\":\"19000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13489",
+        "type": "11",
+        "level": "39",
+        "attack": "240",
+        "defence": "170",
+        "price": "[{\"id\":\"1\",\"num\":\"19500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13490",
+        "type": "11",
+        "level": "40",
+        "attack": "245",
+        "defence": "180",
+        "price": "[{\"id\":\"1\",\"num\":\"20000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13491",
+        "type": "11",
+        "level": "41",
+        "attack": "250",
+        "defence": "190",
+        "price": "[{\"id\":\"1\",\"num\":\"20500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13492",
+        "type": "11",
+        "level": "42",
+        "attack": "255",
+        "defence": "200",
+        "price": "[{\"id\":\"1\",\"num\":\"21000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13493",
+        "type": "11",
+        "level": "43",
+        "attack": "260",
+        "defence": "220",
+        "price": "[{\"id\":\"1\",\"num\":\"21500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13494",
+        "type": "11",
+        "level": "44",
+        "attack": "265",
+        "defence": "240",
+        "price": "[{\"id\":\"1\",\"num\":\"22000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13495",
+        "type": "11",
+        "level": "45",
+        "attack": "270",
+        "defence": "260",
+        "price": "[{\"id\":\"1\",\"num\":\"22500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13496",
+        "type": "11",
+        "level": "46",
+        "attack": "275",
+        "defence": "280",
+        "price": "[{\"id\":\"1\",\"num\":\"23000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13497",
+        "type": "11",
+        "level": "47",
+        "attack": "280",
+        "defence": "300",
+        "price": "[{\"id\":\"1\",\"num\":\"23500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13498",
+        "type": "11",
+        "level": "48",
+        "attack": "285",
+        "defence": "320",
+        "price": "[{\"id\":\"1\",\"num\":\"24000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13499",
+        "type": "11",
+        "level": "49",
+        "attack": "290",
+        "defence": "340",
+        "price": "[{\"id\":\"1\",\"num\":\"24500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13500",
+        "type": "11",
+        "level": "50",
+        "attack": "295",
+        "defence": "360",
+        "price": "[{\"id\":\"1\",\"num\":\"25000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13501",
+        "type": "12",
+        "level": "1",
+        "attack": "100",
+        "defence": "0",
+        "price": "[{\"id\":\"1\",\"num\":\"500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13502",
+        "type": "12",
+        "level": "2",
+        "attack": "110",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13503",
+        "type": "12",
+        "level": "3",
+        "attack": "120",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13504",
+        "type": "12",
+        "level": "4",
+        "attack": "130",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13505",
+        "type": "12",
+        "level": "5",
+        "attack": "140",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13506",
+        "type": "12",
+        "level": "6",
+        "attack": "150",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13507",
+        "type": "12",
+        "level": "7",
+        "attack": "160",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13508",
+        "type": "12",
+        "level": "8",
+        "attack": "170",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13509",
+        "type": "12",
+        "level": "9",
+        "attack": "180",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13510",
+        "type": "12",
+        "level": "10",
+        "attack": "190",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"5000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13511",
+        "type": "12",
+        "level": "11",
+        "attack": "200",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"5500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13512",
+        "type": "12",
+        "level": "12",
+        "attack": "210",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13513",
+        "type": "12",
+        "level": "13",
+        "attack": "220",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13514",
+        "type": "12",
+        "level": "14",
+        "attack": "230",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13515",
+        "type": "12",
+        "level": "15",
+        "attack": "240",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13516",
+        "type": "12",
+        "level": "16",
+        "attack": "250",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13517",
+        "type": "12",
+        "level": "17",
+        "attack": "260",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13518",
+        "type": "12",
+        "level": "18",
+        "attack": "270",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13519",
+        "type": "12",
+        "level": "19",
+        "attack": "280",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13520",
+        "type": "12",
+        "level": "20",
+        "attack": "290",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"10000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13521",
+        "type": "12",
+        "level": "21",
+        "attack": "300",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"10500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13522",
+        "type": "12",
+        "level": "22",
+        "attack": "310",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13523",
+        "type": "12",
+        "level": "23",
+        "attack": "320",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13524",
+        "type": "12",
+        "level": "24",
+        "attack": "330",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13525",
+        "type": "12",
+        "level": "25",
+        "attack": "340",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13526",
+        "type": "12",
+        "level": "26",
+        "attack": "350",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13527",
+        "type": "12",
+        "level": "27",
+        "attack": "360",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13528",
+        "type": "12",
+        "level": "28",
+        "attack": "370",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13529",
+        "type": "12",
+        "level": "29",
+        "attack": "380",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13530",
+        "type": "12",
+        "level": "30",
+        "attack": "390",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"15000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13531",
+        "type": "12",
+        "level": "31",
+        "attack": "400",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"15500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13532",
+        "type": "12",
+        "level": "32",
+        "attack": "410",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13533",
+        "type": "12",
+        "level": "33",
+        "attack": "420",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13534",
+        "type": "12",
+        "level": "34",
+        "attack": "430",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13535",
+        "type": "12",
+        "level": "35",
+        "attack": "440",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13536",
+        "type": "12",
+        "level": "36",
+        "attack": "450",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13537",
+        "type": "12",
+        "level": "37",
+        "attack": "460",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13538",
+        "type": "12",
+        "level": "38",
+        "attack": "470",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13539",
+        "type": "12",
+        "level": "39",
+        "attack": "480",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13540",
+        "type": "12",
+        "level": "40",
+        "attack": "490",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"20000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13541",
+        "type": "12",
+        "level": "41",
+        "attack": "500",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"20500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13542",
+        "type": "12",
+        "level": "42",
+        "attack": "510",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13543",
+        "type": "12",
+        "level": "43",
+        "attack": "520",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13544",
+        "type": "12",
+        "level": "44",
+        "attack": "530",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13545",
+        "type": "12",
+        "level": "45",
+        "attack": "540",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13546",
+        "type": "12",
+        "level": "46",
+        "attack": "550",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13547",
+        "type": "12",
+        "level": "47",
+        "attack": "560",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13548",
+        "type": "12",
+        "level": "48",
+        "attack": "570",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13549",
+        "type": "12",
+        "level": "49",
+        "attack": "580",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13550",
+        "type": "12",
+        "level": "50",
+        "attack": "590",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"25000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13551",
+        "type": "13",
+        "level": "1",
+        "attack": "100",
+        "defence": "0",
+        "price": "[{\"id\":\"1\",\"num\":\"500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13552",
+        "type": "13",
+        "level": "2",
+        "attack": "110",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13553",
+        "type": "13",
+        "level": "3",
+        "attack": "120",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13554",
+        "type": "13",
+        "level": "4",
+        "attack": "130",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13555",
+        "type": "13",
+        "level": "5",
+        "attack": "140",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13556",
+        "type": "13",
+        "level": "6",
+        "attack": "150",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13557",
+        "type": "13",
+        "level": "7",
+        "attack": "160",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13558",
+        "type": "13",
+        "level": "8",
+        "attack": "170",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13559",
+        "type": "13",
+        "level": "9",
+        "attack": "180",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13560",
+        "type": "13",
+        "level": "10",
+        "attack": "190",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"5000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13561",
+        "type": "13",
+        "level": "11",
+        "attack": "200",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"5500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13562",
+        "type": "13",
+        "level": "12",
+        "attack": "210",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13563",
+        "type": "13",
+        "level": "13",
+        "attack": "220",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13564",
+        "type": "13",
+        "level": "14",
+        "attack": "230",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13565",
+        "type": "13",
+        "level": "15",
+        "attack": "240",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13566",
+        "type": "13",
+        "level": "16",
+        "attack": "250",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13567",
+        "type": "13",
+        "level": "17",
+        "attack": "260",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13568",
+        "type": "13",
+        "level": "18",
+        "attack": "270",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13569",
+        "type": "13",
+        "level": "19",
+        "attack": "280",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13570",
+        "type": "13",
+        "level": "20",
+        "attack": "290",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"10000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13571",
+        "type": "13",
+        "level": "21",
+        "attack": "300",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"10500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13572",
+        "type": "13",
+        "level": "22",
+        "attack": "310",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13573",
+        "type": "13",
+        "level": "23",
+        "attack": "320",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13574",
+        "type": "13",
+        "level": "24",
+        "attack": "330",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13575",
+        "type": "13",
+        "level": "25",
+        "attack": "340",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13576",
+        "type": "13",
+        "level": "26",
+        "attack": "350",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13577",
+        "type": "13",
+        "level": "27",
+        "attack": "360",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13578",
+        "type": "13",
+        "level": "28",
+        "attack": "370",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13579",
+        "type": "13",
+        "level": "29",
+        "attack": "380",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13580",
+        "type": "13",
+        "level": "30",
+        "attack": "390",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"15000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13581",
+        "type": "13",
+        "level": "31",
+        "attack": "400",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"15500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13582",
+        "type": "13",
+        "level": "32",
+        "attack": "410",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13583",
+        "type": "13",
+        "level": "33",
+        "attack": "420",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13584",
+        "type": "13",
+        "level": "34",
+        "attack": "430",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13585",
+        "type": "13",
+        "level": "35",
+        "attack": "440",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13586",
+        "type": "13",
+        "level": "36",
+        "attack": "450",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13587",
+        "type": "13",
+        "level": "37",
+        "attack": "460",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13588",
+        "type": "13",
+        "level": "38",
+        "attack": "470",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13589",
+        "type": "13",
+        "level": "39",
+        "attack": "480",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13590",
+        "type": "13",
+        "level": "40",
+        "attack": "490",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"20000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13591",
+        "type": "13",
+        "level": "41",
+        "attack": "500",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"20500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13592",
+        "type": "13",
+        "level": "42",
+        "attack": "510",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13593",
+        "type": "13",
+        "level": "43",
+        "attack": "520",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13594",
+        "type": "13",
+        "level": "44",
+        "attack": "530",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13595",
+        "type": "13",
+        "level": "45",
+        "attack": "540",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13596",
+        "type": "13",
+        "level": "46",
+        "attack": "550",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13597",
+        "type": "13",
+        "level": "47",
+        "attack": "560",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13598",
+        "type": "13",
+        "level": "48",
+        "attack": "570",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13599",
+        "type": "13",
+        "level": "49",
+        "attack": "580",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13600",
+        "type": "13",
+        "level": "50",
+        "attack": "590",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"25000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13601",
+        "type": "14",
+        "level": "1",
+        "attack": "100",
+        "defence": "0",
+        "price": "[{\"id\":\"1\",\"num\":\"500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13602",
+        "type": "14",
+        "level": "2",
+        "attack": "110",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13603",
+        "type": "14",
+        "level": "3",
+        "attack": "120",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13604",
+        "type": "14",
+        "level": "4",
+        "attack": "130",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13605",
+        "type": "14",
+        "level": "5",
+        "attack": "140",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13606",
+        "type": "14",
+        "level": "6",
+        "attack": "150",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13607",
+        "type": "14",
+        "level": "7",
+        "attack": "160",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13608",
+        "type": "14",
+        "level": "8",
+        "attack": "170",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13609",
+        "type": "14",
+        "level": "9",
+        "attack": "180",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13610",
+        "type": "14",
+        "level": "10",
+        "attack": "190",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"5000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13611",
+        "type": "14",
+        "level": "11",
+        "attack": "200",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"5500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13612",
+        "type": "14",
+        "level": "12",
+        "attack": "210",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13613",
+        "type": "14",
+        "level": "13",
+        "attack": "220",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13614",
+        "type": "14",
+        "level": "14",
+        "attack": "230",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13615",
+        "type": "14",
+        "level": "15",
+        "attack": "240",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13616",
+        "type": "14",
+        "level": "16",
+        "attack": "250",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13617",
+        "type": "14",
+        "level": "17",
+        "attack": "260",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13618",
+        "type": "14",
+        "level": "18",
+        "attack": "270",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13619",
+        "type": "14",
+        "level": "19",
+        "attack": "280",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13620",
+        "type": "14",
+        "level": "20",
+        "attack": "290",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"10000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13621",
+        "type": "14",
+        "level": "21",
+        "attack": "300",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"10500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13622",
+        "type": "14",
+        "level": "22",
+        "attack": "310",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13623",
+        "type": "14",
+        "level": "23",
+        "attack": "320",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13624",
+        "type": "14",
+        "level": "24",
+        "attack": "330",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13625",
+        "type": "14",
+        "level": "25",
+        "attack": "340",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13626",
+        "type": "14",
+        "level": "26",
+        "attack": "350",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13627",
+        "type": "14",
+        "level": "27",
+        "attack": "360",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13628",
+        "type": "14",
+        "level": "28",
+        "attack": "370",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13629",
+        "type": "14",
+        "level": "29",
+        "attack": "380",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13630",
+        "type": "14",
+        "level": "30",
+        "attack": "390",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"15000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13631",
+        "type": "14",
+        "level": "31",
+        "attack": "400",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"15500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13632",
+        "type": "14",
+        "level": "32",
+        "attack": "410",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13633",
+        "type": "14",
+        "level": "33",
+        "attack": "420",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13634",
+        "type": "14",
+        "level": "34",
+        "attack": "430",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13635",
+        "type": "14",
+        "level": "35",
+        "attack": "440",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13636",
+        "type": "14",
+        "level": "36",
+        "attack": "450",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13637",
+        "type": "14",
+        "level": "37",
+        "attack": "460",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13638",
+        "type": "14",
+        "level": "38",
+        "attack": "470",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13639",
+        "type": "14",
+        "level": "39",
+        "attack": "480",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13640",
+        "type": "14",
+        "level": "40",
+        "attack": "490",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"20000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13641",
+        "type": "14",
+        "level": "41",
+        "attack": "500",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"20500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13642",
+        "type": "14",
+        "level": "42",
+        "attack": "510",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13643",
+        "type": "14",
+        "level": "43",
+        "attack": "520",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13644",
+        "type": "14",
+        "level": "44",
+        "attack": "530",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13645",
+        "type": "14",
+        "level": "45",
+        "attack": "540",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13646",
+        "type": "14",
+        "level": "46",
+        "attack": "550",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13647",
+        "type": "14",
+        "level": "47",
+        "attack": "560",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13648",
+        "type": "14",
+        "level": "48",
+        "attack": "570",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13649",
+        "type": "14",
+        "level": "49",
+        "attack": "580",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13650",
+        "type": "14",
+        "level": "50",
+        "attack": "590",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"25000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13651",
+        "type": "15",
+        "level": "1",
+        "attack": "100",
+        "defence": "0",
+        "price": "[{\"id\":\"1\",\"num\":\"500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13652",
+        "type": "15",
+        "level": "2",
+        "attack": "110",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13653",
+        "type": "15",
+        "level": "3",
+        "attack": "120",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"1500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13654",
+        "type": "15",
+        "level": "4",
+        "attack": "130",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13655",
+        "type": "15",
+        "level": "5",
+        "attack": "140",
+        "defence": "1",
+        "price": "[{\"id\":\"1\",\"num\":\"2500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13656",
+        "type": "15",
+        "level": "6",
+        "attack": "150",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13657",
+        "type": "15",
+        "level": "7",
+        "attack": "160",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"3500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13658",
+        "type": "15",
+        "level": "8",
+        "attack": "170",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13659",
+        "type": "15",
+        "level": "9",
+        "attack": "180",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"4500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13660",
+        "type": "15",
+        "level": "10",
+        "attack": "190",
+        "defence": "2",
+        "price": "[{\"id\":\"1\",\"num\":\"5000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13661",
+        "type": "15",
+        "level": "11",
+        "attack": "200",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"5500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13662",
+        "type": "15",
+        "level": "12",
+        "attack": "210",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13663",
+        "type": "15",
+        "level": "13",
+        "attack": "220",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"6500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13664",
+        "type": "15",
+        "level": "14",
+        "attack": "230",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13665",
+        "type": "15",
+        "level": "15",
+        "attack": "240",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"7500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13666",
+        "type": "15",
+        "level": "16",
+        "attack": "250",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13667",
+        "type": "15",
+        "level": "17",
+        "attack": "260",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"8500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13668",
+        "type": "15",
+        "level": "18",
+        "attack": "270",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13669",
+        "type": "15",
+        "level": "19",
+        "attack": "280",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"9500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13670",
+        "type": "15",
+        "level": "20",
+        "attack": "290",
+        "defence": "4",
+        "price": "[{\"id\":\"1\",\"num\":\"10000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13671",
+        "type": "15",
+        "level": "21",
+        "attack": "300",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"10500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13672",
+        "type": "15",
+        "level": "22",
+        "attack": "310",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13673",
+        "type": "15",
+        "level": "23",
+        "attack": "320",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"11500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13674",
+        "type": "15",
+        "level": "24",
+        "attack": "330",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13675",
+        "type": "15",
+        "level": "25",
+        "attack": "340",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"12500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13676",
+        "type": "15",
+        "level": "26",
+        "attack": "350",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13677",
+        "type": "15",
+        "level": "27",
+        "attack": "360",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"13500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13678",
+        "type": "15",
+        "level": "28",
+        "attack": "370",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13679",
+        "type": "15",
+        "level": "29",
+        "attack": "380",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"14500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13680",
+        "type": "15",
+        "level": "30",
+        "attack": "390",
+        "defence": "8",
+        "price": "[{\"id\":\"1\",\"num\":\"15000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13681",
+        "type": "15",
+        "level": "31",
+        "attack": "400",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"15500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13682",
+        "type": "15",
+        "level": "32",
+        "attack": "410",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13683",
+        "type": "15",
+        "level": "33",
+        "attack": "420",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"16500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13684",
+        "type": "15",
+        "level": "34",
+        "attack": "430",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13685",
+        "type": "15",
+        "level": "35",
+        "attack": "440",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"17500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13686",
+        "type": "15",
+        "level": "36",
+        "attack": "450",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13687",
+        "type": "15",
+        "level": "37",
+        "attack": "460",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"18500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13688",
+        "type": "15",
+        "level": "38",
+        "attack": "470",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13689",
+        "type": "15",
+        "level": "39",
+        "attack": "480",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"19500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13690",
+        "type": "15",
+        "level": "40",
+        "attack": "490",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"20000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13691",
+        "type": "15",
+        "level": "41",
+        "attack": "500",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"20500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13692",
+        "type": "15",
+        "level": "42",
+        "attack": "510",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13693",
+        "type": "15",
+        "level": "43",
+        "attack": "520",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"21500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13694",
+        "type": "15",
+        "level": "44",
+        "attack": "530",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13695",
+        "type": "15",
+        "level": "45",
+        "attack": "540",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"22500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13696",
+        "type": "15",
+        "level": "46",
+        "attack": "550",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13697",
+        "type": "15",
+        "level": "47",
+        "attack": "560",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"23500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13698",
+        "type": "15",
+        "level": "48",
+        "attack": "570",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13699",
+        "type": "15",
+        "level": "49",
+        "attack": "580",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"24500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13700",
+        "type": "15",
+        "level": "50",
+        "attack": "590",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"25000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13701",
+        "type": "16",
+        "level": "1",
+        "attack": "50",
+        "defence": "11",
+        "price": "[{\"id\":\"1\",\"num\":\"500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13702",
+        "type": "16",
+        "level": "2",
+        "attack": "55",
+        "defence": "12",
+        "price": "[{\"id\":\"1\",\"num\":\"1000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13703",
+        "type": "16",
+        "level": "3",
+        "attack": "60",
+        "defence": "13",
+        "price": "[{\"id\":\"1\",\"num\":\"1500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13704",
+        "type": "16",
+        "level": "4",
+        "attack": "65",
+        "defence": "14",
+        "price": "[{\"id\":\"1\",\"num\":\"2000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13705",
+        "type": "16",
+        "level": "5",
+        "attack": "70",
+        "defence": "15",
+        "price": "[{\"id\":\"1\",\"num\":\"2500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13706",
+        "type": "16",
+        "level": "6",
+        "attack": "75",
+        "defence": "16",
+        "price": "[{\"id\":\"1\",\"num\":\"3000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13707",
+        "type": "16",
+        "level": "7",
+        "attack": "80",
+        "defence": "17",
+        "price": "[{\"id\":\"1\",\"num\":\"3500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13708",
+        "type": "16",
+        "level": "8",
+        "attack": "85",
+        "defence": "18",
+        "price": "[{\"id\":\"1\",\"num\":\"4000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13709",
+        "type": "16",
+        "level": "9",
+        "attack": "90",
+        "defence": "19",
+        "price": "[{\"id\":\"1\",\"num\":\"4500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13710",
+        "type": "16",
+        "level": "10",
+        "attack": "95",
+        "defence": "20",
+        "price": "[{\"id\":\"1\",\"num\":\"5000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13711",
+        "type": "16",
+        "level": "11",
+        "attack": "100",
+        "defence": "22",
+        "price": "[{\"id\":\"1\",\"num\":\"5500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13712",
+        "type": "16",
+        "level": "12",
+        "attack": "105",
+        "defence": "24",
+        "price": "[{\"id\":\"1\",\"num\":\"6000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13713",
+        "type": "16",
+        "level": "13",
+        "attack": "110",
+        "defence": "26",
+        "price": "[{\"id\":\"1\",\"num\":\"6500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13714",
+        "type": "16",
+        "level": "14",
+        "attack": "115",
+        "defence": "28",
+        "price": "[{\"id\":\"1\",\"num\":\"7000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13715",
+        "type": "16",
+        "level": "15",
+        "attack": "120",
+        "defence": "30",
+        "price": "[{\"id\":\"1\",\"num\":\"7500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13716",
+        "type": "16",
+        "level": "16",
+        "attack": "125",
+        "defence": "32",
+        "price": "[{\"id\":\"1\",\"num\":\"8000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13717",
+        "type": "16",
+        "level": "17",
+        "attack": "130",
+        "defence": "34",
+        "price": "[{\"id\":\"1\",\"num\":\"8500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13718",
+        "type": "16",
+        "level": "18",
+        "attack": "135",
+        "defence": "36",
+        "price": "[{\"id\":\"1\",\"num\":\"9000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13719",
+        "type": "16",
+        "level": "19",
+        "attack": "140",
+        "defence": "38",
+        "price": "[{\"id\":\"1\",\"num\":\"9500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13720",
+        "type": "16",
+        "level": "20",
+        "attack": "145",
+        "defence": "40",
+        "price": "[{\"id\":\"1\",\"num\":\"10000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13721",
+        "type": "16",
+        "level": "21",
+        "attack": "150",
+        "defence": "44",
+        "price": "[{\"id\":\"1\",\"num\":\"10500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13722",
+        "type": "16",
+        "level": "22",
+        "attack": "155",
+        "defence": "48",
+        "price": "[{\"id\":\"1\",\"num\":\"11000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13723",
+        "type": "16",
+        "level": "23",
+        "attack": "160",
+        "defence": "52",
+        "price": "[{\"id\":\"1\",\"num\":\"11500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13724",
+        "type": "16",
+        "level": "24",
+        "attack": "165",
+        "defence": "56",
+        "price": "[{\"id\":\"1\",\"num\":\"12000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13725",
+        "type": "16",
+        "level": "25",
+        "attack": "170",
+        "defence": "60",
+        "price": "[{\"id\":\"1\",\"num\":\"12500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13726",
+        "type": "16",
+        "level": "26",
+        "attack": "175",
+        "defence": "64",
+        "price": "[{\"id\":\"1\",\"num\":\"13000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13727",
+        "type": "16",
+        "level": "27",
+        "attack": "180",
+        "defence": "68",
+        "price": "[{\"id\":\"1\",\"num\":\"13500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13728",
+        "type": "16",
+        "level": "28",
+        "attack": "185",
+        "defence": "72",
+        "price": "[{\"id\":\"1\",\"num\":\"14000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13729",
+        "type": "16",
+        "level": "29",
+        "attack": "190",
+        "defence": "76",
+        "price": "[{\"id\":\"1\",\"num\":\"14500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13730",
+        "type": "16",
+        "level": "30",
+        "attack": "195",
+        "defence": "80",
+        "price": "[{\"id\":\"1\",\"num\":\"15000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13731",
+        "type": "16",
+        "level": "31",
+        "attack": "200",
+        "defence": "90",
+        "price": "[{\"id\":\"1\",\"num\":\"15500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13732",
+        "type": "16",
+        "level": "32",
+        "attack": "205",
+        "defence": "100",
+        "price": "[{\"id\":\"1\",\"num\":\"16000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13733",
+        "type": "16",
+        "level": "33",
+        "attack": "210",
+        "defence": "110",
+        "price": "[{\"id\":\"1\",\"num\":\"16500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13734",
+        "type": "16",
+        "level": "34",
+        "attack": "215",
+        "defence": "120",
+        "price": "[{\"id\":\"1\",\"num\":\"17000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13735",
+        "type": "16",
+        "level": "35",
+        "attack": "220",
+        "defence": "130",
+        "price": "[{\"id\":\"1\",\"num\":\"17500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13736",
+        "type": "16",
+        "level": "36",
+        "attack": "225",
+        "defence": "140",
+        "price": "[{\"id\":\"1\",\"num\":\"18000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13737",
+        "type": "16",
+        "level": "37",
+        "attack": "230",
+        "defence": "150",
+        "price": "[{\"id\":\"1\",\"num\":\"18500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13738",
+        "type": "16",
+        "level": "38",
+        "attack": "235",
+        "defence": "160",
+        "price": "[{\"id\":\"1\",\"num\":\"19000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13739",
+        "type": "16",
+        "level": "39",
+        "attack": "240",
+        "defence": "170",
+        "price": "[{\"id\":\"1\",\"num\":\"19500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13740",
+        "type": "16",
+        "level": "40",
+        "attack": "245",
+        "defence": "180",
+        "price": "[{\"id\":\"1\",\"num\":\"20000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13741",
+        "type": "16",
+        "level": "41",
+        "attack": "250",
+        "defence": "190",
+        "price": "[{\"id\":\"1\",\"num\":\"20500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13742",
+        "type": "16",
+        "level": "42",
+        "attack": "255",
+        "defence": "200",
+        "price": "[{\"id\":\"1\",\"num\":\"21000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13743",
+        "type": "16",
+        "level": "43",
+        "attack": "260",
+        "defence": "220",
+        "price": "[{\"id\":\"1\",\"num\":\"21500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13744",
+        "type": "16",
+        "level": "44",
+        "attack": "265",
+        "defence": "240",
+        "price": "[{\"id\":\"1\",\"num\":\"22000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13745",
+        "type": "16",
+        "level": "45",
+        "attack": "270",
+        "defence": "260",
+        "price": "[{\"id\":\"1\",\"num\":\"22500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13746",
+        "type": "16",
+        "level": "46",
+        "attack": "275",
+        "defence": "280",
+        "price": "[{\"id\":\"1\",\"num\":\"23000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13747",
+        "type": "16",
+        "level": "47",
+        "attack": "280",
+        "defence": "300",
+        "price": "[{\"id\":\"1\",\"num\":\"23500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13748",
+        "type": "16",
+        "level": "48",
+        "attack": "285",
+        "defence": "320",
+        "price": "[{\"id\":\"1\",\"num\":\"24000\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13749",
+        "type": "16",
+        "level": "49",
+        "attack": "290",
+        "defence": "340",
+        "price": "[{\"id\":\"1\",\"num\":\"24500\"}]",
+        "remarks": ""
+    },
+    {
+        "id": "13750",
+        "type": "16",
+        "level": "50",
+        "attack": "295",
+        "defence": "360",
+        "price": "[{\"id\":\"1\",\"num\":\"25000\"}]",
+        "remarks": ""
+    }
+]

@@ -1,0 +1,188 @@
+
+buff_xuanyun.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/xuanyun_01
+  rotate: true
+  xy: 311, 19
+  size: 164, 166
+  orig: 500, 500
+  offset: 162, 166
+  index: -1
+images/xuanyun_02
+  rotate: true
+  xy: 1103, 15
+  size: 137, 159
+  orig: 500, 500
+  offset: 184, 161
+  index: -1
+images/xuanyun_03
+  rotate: true
+  xy: 1561, 4
+  size: 162, 170
+  orig: 500, 500
+  offset: 176, 161
+  index: -1
+images/xuanyun_04
+  rotate: 270
+  xy: 556, 31
+  size: 161, 174
+  orig: 500, 500
+  offset: 187, 157
+  index: -1
+images/xuanyun_05
+  rotate: 180
+  xy: 897, 45
+  size: 205, 140
+  orig: 500, 500
+  offset: 162, 201
+  index: -1
+images/xuanyun_06
+  rotate: false
+  xy: 1211, 281
+  size: 229, 132
+  orig: 500, 500
+  offset: 133, 190
+  index: -1
+images/xuanyun_07
+  rotate: 180
+  xy: 1815, 198
+  size: 231, 134
+  orig: 500, 500
+  offset: 144, 186
+  index: -1
+images/xuanyun_08
+  rotate: 180
+  xy: 1697, 83
+  size: 243, 130
+  orig: 500, 500
+  offset: 130, 188
+  index: -1
+images/xuanyun_09
+  rotate: false
+  xy: 1359, 56
+  size: 214, 130
+  orig: 500, 500
+  offset: 143, 184
+  index: -1
+images/xuanyun_10
+  rotate: false
+  xy: 872, 178
+  size: 226, 132
+  orig: 500, 500
+  offset: 135, 183
+  index: -1
+images/xuanyun_11
+  rotate: 180
+  xy: 390, 138
+  size: 217, 150
+  orig: 500, 500
+  offset: 139, 179
+  index: -1
+images/xuanyun_12
+  rotate: false
+  xy: 2, 61
+  size: 215, 136
+  orig: 500, 500
+  offset: 142, 177
+  index: -1
+images/xuanyun_13
+  rotate: false
+  xy: 1302, 179
+  size: 233, 137
+  orig: 500, 500
+  offset: 135, 179
+  index: -1
+images/xuanyun_14
+  rotate: 180
+  xy: 985, 282
+  size: 236, 132
+  orig: 500, 500
+  offset: 138, 180
+  index: -1
+images/xuanyun_15
+  rotate: false
+  xy: 1533, 167
+  size: 227, 124
+  orig: 500, 500
+  offset: 138, 186
+  index: -1
+images/xuanyun_16
+  rotate: 180
+  xy: 1439, 286
+  size: 226, 128
+  orig: 500, 500
+  offset: 141, 185
+  index: -1
+images/xuanyun_17
+  rotate: 180
+  xy: 1658, 285
+  size: 223, 129
+  orig: 500, 500
+  offset: 148, 186
+  index: -1
+images/xuanyun_18
+  rotate: 180
+  xy: 1086, 137
+  size: 223, 133
+  orig: 500, 500
+  offset: 144, 183
+  index: -1
+images/xuanyun_19
+  rotate: false
+  xy: 764, 280
+  size: 227, 133
+  orig: 500, 500
+  offset: 146, 185
+  index: -1
+images/xuanyun_20
+  rotate: 180
+  xy: 165, 149
+  size: 223, 130
+  orig: 500, 500
+  offset: 146, 188
+  index: -1
+images/xuanyun_21
+  rotate: 180
+  xy: 654, 146
+  size: 218, 129
+  orig: 500, 500
+  offset: 144, 190
+  index: -1
+images/xuanyun_22
+  rotate: false
+  xy: 263, 264
+  size: 262, 150
+  orig: 500, 500
+  offset: 122, 182
+  index: -1
+images/xuanyun_23
+  rotate: false
+  xy: 2, 255
+  size: 267, 159
+  orig: 500, 500
+  offset: 108, 179
+  index: -1
+images/xuanyun_24
+  rotate: false
+  xy: 516, 247
+  size: 248, 165
+  orig: 500, 500
+  offset: 119, 176
+  index: -1
+images/xuanyun_25
+  rotate: false
+  xy: 733, 58
+  size: 191, 94
+  orig: 500, 500
+  offset: 172, 197
+  index: -1
+images/xuanyun_G
+  rotate: false
+  xy: 1942, 101
+  size: 94, 94
+  orig: 128, 128
+  offset: 15, 17
+  index: -1

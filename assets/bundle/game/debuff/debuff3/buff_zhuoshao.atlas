@@ -1,0 +1,286 @@
+
+buff_zhuoshao.png
+size: 512,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/zhuoshaoG_01
+  rotate: false
+  xy: 243, 1073
+  size: 35, 38
+  orig: 64, 64
+  offset: 14, 12
+  index: -1
+images/zhuoshaoG_02
+  rotate: false
+  xy: 242, 742
+  size: 35, 39
+  orig: 64, 64
+  offset: 14, 12
+  index: -1
+images/zhuoshaoG_03
+  rotate: false
+  xy: 206, 1049
+  size: 35, 39
+  orig: 64, 64
+  offset: 14, 12
+  index: -1
+images/zhuoshaoG_04
+  rotate: false
+  xy: 258, 178
+  size: 35, 40
+  orig: 64, 64
+  offset: 14, 11
+  index: -1
+images/zhuoshaoG_05
+  rotate: false
+  xy: 243, 1032
+  size: 35, 39
+  orig: 64, 64
+  offset: 14, 12
+  index: -1
+images/zhuoshaoG_06
+  rotate: false
+  xy: 229, 1285
+  size: 34, 39
+  orig: 64, 64
+  offset: 14, 12
+  index: -1
+images/zhuoshaoG_07
+  rotate: false
+  xy: 259, 220
+  size: 33, 39
+  orig: 64, 64
+  offset: 15, 12
+  index: -1
+images/zhuoshaoG_08
+  rotate: false
+  xy: 243, 1462
+  size: 34, 39
+  orig: 64, 64
+  offset: 15, 12
+  index: -1
+images/zhuoshaoG_09
+  rotate: false
+  xy: 2, 1911
+  size: 36, 39
+  orig: 64, 64
+  offset: 14, 12
+  index: -1
+images/zhuoshaoG_10
+  rotate: false
+  xy: 254, 137
+  size: 36, 39
+  orig: 64, 64
+  offset: 14, 12
+  index: -1
+images/zhuoshaoG_11
+  rotate: false
+  xy: 253, 416
+  size: 36, 39
+  orig: 64, 64
+  offset: 14, 12
+  index: -1
+images/zhuoshaoG_12
+  rotate: false
+  xy: 239, 1637
+  size: 34, 39
+  orig: 64, 64
+  offset: 15, 12
+  index: -1
+images/zhuoshaoG_13
+  rotate: false
+  xy: 220, 1829
+  size: 34, 39
+  orig: 64, 64
+  offset: 15, 12
+  index: -1
+images/zhuoshaoG_14
+  rotate: false
+  xy: 256, 1815
+  size: 34, 38
+  orig: 64, 64
+  offset: 15, 12
+  index: -1
+images/zhuoshaoG_15
+  rotate: false
+  xy: 246, 1113
+  size: 35, 38
+  orig: 64, 64
+  offset: 14, 12
+  index: -1
+images/zhuoshao_01
+  rotate: 270
+  xy: 2, 708
+  size: 132, 158
+  orig: 500, 500
+  offset: 201, 174
+  index: -1
+images/zhuoshao_02
+  rotate: 270
+  xy: 2, 604
+  size: 115, 155
+  orig: 500, 500
+  offset: 204, 180
+  index: -1
+images/zhuoshao_03
+  rotate: 180
+  xy: 139, 436
+  size: 121, 153
+  orig: 500, 500
+  offset: 201, 174
+  index: -1
+images/zhuoshao_04
+  rotate: 180
+  xy: 167, 898
+  size: 121, 150
+  orig: 500, 500
+  offset: 196, 176
+  index: -1
+images/zhuoshao_05
+  rotate: false
+  xy: 173, 1679
+  size: 111, 149
+  orig: 500, 500
+  offset: 196, 177
+  index: -1
+images/zhuoshao_06
+  rotate: 270
+  xy: 148, 312
+  size: 117, 146
+  orig: 500, 500
+  offset: 194, 173
+  index: -1
+images/zhuoshao_07
+  rotate: false
+  xy: 163, 1500
+  size: 122, 144
+  orig: 500, 500
+  offset: 189, 177
+  index: -1
+images/zhuoshao_08
+  rotate: 180
+  xy: 162, 1141
+  size: 121, 149
+  orig: 500, 500
+  offset: 191, 173
+  index: -1
+images/zhuoshao_09
+  rotate: 270
+  xy: 2, 240
+  size: 125, 163
+  orig: 500, 500
+  offset: 191, 168
+  index: -1
+images/zhuoshao_10
+  rotate: 270
+  xy: 2, 928
+  size: 142, 185
+  orig: 500, 500
+  offset: 172, 139
+  index: -1
+images/zhuoshao_11
+  rotate: 270
+  xy: 2, 4
+  size: 123, 152
+  orig: 500, 500
+  offset: 189, 172
+  index: -1
+images/zhuoshao_12
+  rotate: 180
+  xy: 137, 166
+  size: 122, 148
+  orig: 500, 500
+  offset: 191, 173
+  index: -1
+images/zhuoshao_13
+  rotate: false
+  xy: 153, 617
+  size: 111, 141
+  orig: 500, 500
+  offset: 189, 179
+  index: -1
+images/zhuoshao_14
+  rotate: false
+  xy: 155, 22
+  size: 109, 146
+  orig: 500, 500
+  offset: 194, 177
+  index: -1
+images/zhuoshao_15
+  rotate: true
+  xy: 2, 121
+  size: 119, 152
+  orig: 500, 500
+  offset: 190, 172
+  index: -1
+images/zhuoshao_16
+  rotate: 270
+  xy: 2, 478
+  size: 125, 146
+  orig: 500, 500
+  offset: 191, 179
+  index: -1
+images/zhuoshao_17
+  rotate: 270
+  xy: 2, 823
+  size: 130, 157
+  orig: 500, 500
+  offset: 187, 177
+  index: -1
+images/zhuoshao_18
+  rotate: 270
+  xy: 2, 359
+  size: 128, 159
+  orig: 500, 500
+  offset: 189, 176
+  index: -1
+images/zhuoshao_19
+  rotate: 180
+  xy: 148, 767
+  size: 118, 150
+  orig: 500, 500
+  offset: 196, 173
+  index: -1
+images/zhuoshao_20
+  rotate: false
+  xy: 172, 1326
+  size: 114, 145
+  orig: 500, 500
+  offset: 197, 175
+  index: -1
+images/zhuoshao_21
+  rotate: false
+  xy: 2, 1071
+  size: 190, 169
+  orig: 500, 500
+  offset: 155, 151
+  index: -1
+images/zhuoshao_22
+  rotate: true
+  xy: 21, 1225
+  size: 194, 182
+  orig: 500, 500
+  offset: 153, 147
+  index: -1
+images/zhuoshao_23
+  rotate: false
+  xy: 2, 1397
+  size: 195, 186
+  orig: 500, 500
+  offset: 151, 157
+  index: -1
+images/zhuoshao_24
+  rotate: false
+  xy: 2, 1760
+  size: 201, 191
+  orig: 500, 500
+  offset: 142, 155
+  index: -1
+images/zhuoshao_25
+  rotate: true
+  xy: 2, 1577
+  size: 203, 197
+  orig: 500, 500
+  offset: 139, 148
+  index: -1

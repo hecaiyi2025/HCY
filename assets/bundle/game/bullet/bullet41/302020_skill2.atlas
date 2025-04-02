@@ -1,0 +1,104 @@
+
+302020_skill2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/2shunshen/shunshen_40
+  rotate: false
+  xy: 336, 481
+  size: 166, 220
+  orig: 1022, 576
+  offset: 461, 178
+  index: -1
+skill/2shunshen/shunshen_42
+  rotate: false
+  xy: 557, 201
+  size: 227, 237
+  orig: 1022, 576
+  offset: 425, 166
+  index: -1
+skill/2shunshen/shunshen_44
+  rotate: false
+  xy: 669, 729
+  size: 308, 279
+  orig: 1022, 576
+  offset: 385, 144
+  index: -1
+skill/2shunshen/shunshen_46
+  rotate: false
+  xy: 2, 401
+  size: 332, 300
+  orig: 1022, 576
+  offset: 373, 133
+  index: -1
+skill/2shunshen/shunshen_48
+  rotate: false
+  xy: 2, 703
+  size: 335, 305
+  orig: 1022, 576
+  offset: 372, 132
+  index: -1
+skill/2shunshen/shunshen_50
+  rotate: false
+  xy: 339, 705
+  size: 328, 303
+  orig: 1022, 576
+  offset: 376, 136
+  index: -1
+skill/2shunshen/shunshen_52
+  rotate: false
+  xy: 2, 98
+  size: 313, 301
+  orig: 1022, 576
+  offset: 385, 145
+  index: -1
+skill/2shunshen/shunshen_54
+  rotate: true
+  xy: 669, 440
+  size: 287, 290
+  orig: 1022, 576
+  offset: 398, 161
+  index: -1
+skill/2shunshen/shunshen_56
+  rotate: false
+  xy: 317, 144
+  size: 238, 255
+  orig: 1022, 576
+  offset: 421, 177
+  index: -1
+skill/2shunshen/shunshen_58
+  rotate: true
+  xy: 787, 14
+  size: 190, 221
+  orig: 1022, 576
+  offset: 427, 250
+  index: -1
+skill/2shunshen/shunshen_60
+  rotate: false
+  xy: 557, 6
+  size: 228, 193
+  orig: 1022, 576
+  offset: 422, 249
+  index: -1
+skill/2shunshen/shunshen_62
+  rotate: true
+  xy: 786, 206
+  size: 232, 193
+  orig: 1022, 576
+  offset: 416, 254
+  index: -1
+skill/2shunshen/shunshen_64
+  rotate: false
+  xy: 504, 512
+  size: 162, 191
+  orig: 1022, 576
+  offset: 483, 260
+  index: -1
+skill/2shunshen/shunshen_66
+  rotate: true
+  xy: 317, 15
+  size: 127, 190
+  orig: 1022, 576
+  offset: 483, 265
+  index: -1

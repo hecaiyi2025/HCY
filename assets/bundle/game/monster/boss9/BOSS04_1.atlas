@@ -1,0 +1,146 @@
+
+BOSS04_1.png
+size: 380,756
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boos41_0
+  rotate: false
+  xy: 124, 168
+  size: 208, 116
+  orig: 294, 155
+  offset: 40, 20
+  index: -1
+boos41_1
+  rotate: 180
+  xy: 188, 83
+  size: 183, 90
+  orig: 273, 126
+  offset: 45, 21
+  index: -1
+boos41_10
+  rotate: true
+  xy: 169, 237
+  size: 264, 114
+  orig: 395, 161
+  offset: 66, 21
+  index: -1
+boos41_11
+  rotate: 270
+  xy: 208, 537
+  size: 217, 116
+  orig: 243, 134
+  offset: 26, 0
+  index: -1
+boos41_12
+  rotate: false
+  xy: 2, 24
+  size: 76, 93
+  orig: 114, 141
+  offset: 19, 24
+  index: -1
+boos41_13
+  rotate: 270
+  xy: 2, 76
+  size: 98, 131
+  orig: 123, 168
+  offset: 1, 28
+  index: -1
+boos41_13_1
+  rotate: true
+  xy: 316, 23
+  size: 72, 57
+  orig: 123, 168
+  offset: 30, 43
+  index: -1
+boos41_14
+  rotate: false
+  xy: 219, 11
+  size: 38, 39
+  orig: 51, 50
+  offset: 7, 6
+  index: -1
+boos41_15
+  rotate: false
+  xy: 2, 436
+  size: 38, 45
+  orig: 53, 63
+  offset: 9, 11
+  index: -1
+boos41_16
+  rotate: true
+  xy: 133, 59
+  size: 95, 98
+  orig: 144, 143
+  offset: 25, 21
+  index: -1
+boos41_2
+  rotate: true
+  xy: 2, 514
+  size: 148, 34
+  orig: 221, 50
+  offset: 36, 9
+  index: -1
+boos41_3
+  rotate: 180
+  xy: 73, 3
+  size: 147, 45
+  orig: 221, 68
+  offset: 37, 12
+  index: -1
+boos41_4
+  rotate: true
+  xy: 99, 25
+  size: 53, 94
+  orig: 348, 576
+  offset: 57, 169
+  index: -1
+boos41_4_1
+  rotate: false
+  xy: 2, 362
+  size: 227, 393
+  orig: 348, 576
+  offset: 63, 90
+  index: -1
+boos41_4_1_1
+  rotate: false
+  xy: 229, 17
+  size: 93, 68
+  orig: 348, 576
+  offset: 150, 160
+  index: -1
+boos41_5
+  rotate: 180
+  xy: 2, 253
+  size: 163, 183
+  orig: 245, 276
+  offset: 41, 46
+  index: -1
+boos41_6
+  rotate: false
+  xy: 40, 136
+  size: 102, 123
+  orig: 149, 185
+  offset: 25, 31
+  index: -1
+boos41_7
+  rotate: 270
+  xy: 280, 161
+  size: 181, 97
+  orig: 282, 146
+  offset: 54, 25
+  index: -1
+boos41_8
+  rotate: true
+  xy: 322, 531
+  size: 150, 56
+  orig: 225, 84
+  offset: 37, 14
+  index: -1
+boos41_9
+  rotate: true
+  xy: 255, 390
+  size: 155, 116
+  orig: 228, 173
+  offset: 38, 29
+  index: -1

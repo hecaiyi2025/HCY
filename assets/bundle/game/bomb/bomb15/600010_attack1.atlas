@@ -1,0 +1,90 @@
+
+600010_attack1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/9xiazong/xz_17
+  rotate: false
+  xy: 2, 1816
+  size: 570, 149
+  orig: 2500, 640
+  offset: 1160, 144
+  index: -1
+attack/9xiazong/xz_18
+  rotate: false
+  xy: 574, 1814
+  size: 645, 151
+  orig: 2500, 640
+  offset: 1160, 144
+  index: -1
+attack/9xiazong/xz_19
+  rotate: false
+  xy: 2, 1632
+  size: 672, 180
+  orig: 2500, 640
+  offset: 1160, 120
+  index: -1
+attack/9xiazong/xz_20
+  rotate: true
+  xy: 1494, 1099
+  size: 713, 254
+  orig: 2500, 640
+  offset: 1160, 100
+  index: -1
+attack/9xiazong/xz_21
+  rotate: false
+  xy: 748, 1082
+  size: 742, 259
+  orig: 2500, 640
+  offset: 1160, 99
+  index: -1
+attack/9xiazong/xz_22
+  rotate: false
+  xy: 748, 1343
+  size: 744, 234
+  orig: 2500, 640
+  offset: 1160, 98
+  index: -1
+attack/9xiazong/xz_23
+  rotate: false
+  xy: 2, 1108
+  size: 744, 234
+  orig: 2500, 640
+  offset: 1160, 98
+  index: -1
+attack/9xiazong/xz_24
+  rotate: false
+  xy: 2, 1108
+  size: 744, 234
+  orig: 2500, 640
+  offset: 1160, 98
+  index: -1
+attack/9xiazong/xz_25
+  rotate: false
+  xy: 2, 1108
+  size: 744, 234
+  orig: 2500, 640
+  offset: 1160, 98
+  index: -1
+attack/9xiazong/xz_26
+  rotate: false
+  xy: 676, 1579
+  size: 744, 233
+  orig: 2500, 640
+  offset: 1160, 99
+  index: -1
+attack/9xiazong/xz_27
+  rotate: false
+  xy: 2, 1344
+  size: 744, 233
+  orig: 2500, 640
+  offset: 1160, 99
+  index: -1
+attack/9xiazong/xz_28
+  rotate: false
+  xy: 1221, 1814
+  size: 744, 151
+  orig: 2500, 640
+  offset: 1160, 144
+  index: -1

@@ -1,0 +1,76 @@
+
+600110_bullet.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/pugong/qiu/qiu_0000
+  rotate: true
+  xy: 971, 14
+  size: 100, 98
+  orig: 129, 124
+  offset: 27, 0
+  index: -1
+chutu/pugong/qiu/qiu_0001
+  rotate: true
+  xy: 751, 16
+  size: 98, 116
+  orig: 129, 124
+  offset: 27, 8
+  index: -1
+chutu/pugong/qiu/qiu_0002
+  rotate: false
+  xy: 503, 18
+  size: 127, 96
+  orig: 129, 124
+  offset: 2, 28
+  index: -1
+chutu/pugong/qiu/qiu_0003
+  rotate: false
+  xy: 372, 19
+  size: 129, 95
+  orig: 129, 124
+  offset: 0, 28
+  index: -1
+chutu/pugong/qiu/qiu_0004
+  rotate: false
+  xy: 252, 2
+  size: 118, 112
+  orig: 129, 124
+  offset: 0, 8
+  index: -1
+chutu/pugong/qiu/qiu_0005
+  rotate: true
+  xy: 1071, 15
+  size: 99, 97
+  orig: 129, 124
+  offset: 1, 1
+  index: -1
+chutu/pugong/qiu/qiu_0006
+  rotate: false
+  xy: 128, 4
+  size: 122, 110
+  orig: 129, 124
+  offset: 2, 4
+  index: -1
+chutu/pugong/qiu/qiu_0007
+  rotate: false
+  xy: 2, 2
+  size: 124, 112
+  orig: 129, 124
+  offset: 4, 0
+  index: -1
+chutu/pugong/qiu/qiu_0008
+  rotate: false
+  xy: 632, 10
+  size: 117, 104
+  orig: 129, 124
+  offset: 7, 0
+  index: -1
+chutu/pugong/qiu/qiu_0009
+  rotate: true
+  xy: 869, 2
+  size: 112, 100
+  orig: 129, 124
+  offset: 10, 0
+  index: -1

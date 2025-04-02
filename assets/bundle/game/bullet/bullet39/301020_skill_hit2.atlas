@@ -1,0 +1,62 @@
+
+301020_skill_hit2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+教国杂兵skill序列帧/10光点/10光点_00043
+  rotate: false
+  xy: 2, 2
+  size: 192, 79
+  orig: 1136, 640
+  offset: 332, 184
+  index: -1
+教国杂兵skill序列帧/13爆炸总/13爆炸总_00043
+  rotate: false
+  xy: 449, 3
+  size: 161, 143
+  orig: 1136, 640
+  offset: 349, 153
+  index: -1
+教国杂兵skill序列帧/14爆炸总/14爆炸总_00044
+  rotate: false
+  xy: 449, 148
+  size: 480, 219
+  orig: 1136, 640
+  offset: 193, 114
+  index: -1
+教国杂兵skill序列帧/14爆炸总/14爆炸总_00045
+  rotate: false
+  xy: 2, 678
+  size: 493, 290
+  orig: 1136, 640
+  offset: 187, 110
+  index: -1
+教国杂兵skill序列帧/14爆炸总/14爆炸总_00047
+  rotate: false
+  xy: 2, 383
+  size: 459, 293
+  orig: 1136, 640
+  offset: 183, 119
+  index: -1
+教国杂兵skill序列帧/14爆炸总/14爆炸总_00048
+  rotate: false
+  xy: 497, 670
+  size: 440, 298
+  orig: 1136, 640
+  offset: 206, 120
+  index: -1
+教国杂兵skill序列帧/14爆炸总/14爆炸总_00049
+  rotate: false
+  xy: 463, 369
+  size: 439, 299
+  orig: 1136, 640
+  offset: 209, 120
+  index: -1
+教国杂兵skill序列帧/14爆炸总/14爆炸总_00050
+  rotate: false
+  xy: 2, 83
+  size: 445, 298
+  orig: 1136, 640
+  offset: 206, 124
+  index: -1

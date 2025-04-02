@@ -1,0 +1,258 @@
+
+510080_skill_hit2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+束缚环下层/08_00001
+  rotate: false
+  xy: 2, 99
+  size: 327, 218
+  orig: 406, 423
+  offset: 37, 126
+  index: -1
+束缚环下层/08_00002
+  rotate: false
+  xy: 2, 878
+  size: 333, 302
+  orig: 406, 423
+  offset: 40, 86
+  index: -1
+束缚环下层/08_00003
+  rotate: false
+  xy: 1037, 868
+  size: 327, 318
+  orig: 406, 423
+  offset: 44, 55
+  index: -1
+束缚环下层/08_00004
+  rotate: false
+  xy: 1380, 864
+  size: 327, 327
+  orig: 406, 423
+  offset: 44, 40
+  index: -1
+束缚环下层/08_00005
+  rotate: false
+  xy: 696, 1182
+  size: 339, 329
+  orig: 406, 423
+  offset: 36, 38
+  index: -1
+束缚环下层/08_00006
+  rotate: false
+  xy: 2, 1182
+  size: 346, 329
+  orig: 406, 423
+  offset: 33, 38
+  index: -1
+束缚环下层/08_00007
+  rotate: false
+  xy: 350, 1184
+  size: 344, 327
+  orig: 406, 423
+  offset: 32, 39
+  index: -1
+束缚环下层/08_00008
+  rotate: false
+  xy: 1037, 1188
+  size: 341, 323
+  orig: 406, 423
+  offset: 32, 43
+  index: -1
+束缚环下层/08_00009
+  rotate: false
+  xy: 1380, 1193
+  size: 339, 318
+  orig: 406, 423
+  offset: 33, 47
+  index: -1
+束缚环下层/08_00010
+  rotate: true
+  xy: 1721, 1175
+  size: 336, 312
+  orig: 406, 423
+  offset: 35, 52
+  index: -1
+束缚环下层/08_00011
+  rotate: false
+  xy: 350, 879
+  size: 338, 303
+  orig: 406, 423
+  offset: 32, 59
+  index: -1
+束缚环下层/08_00012
+  rotate: false
+  xy: 690, 884
+  size: 334, 296
+  orig: 406, 423
+  offset: 35, 66
+  index: -1
+束缚环下层/08_00013
+  rotate: false
+  xy: 1709, 883
+  size: 335, 290
+  orig: 406, 423
+  offset: 34, 71
+  index: -1
+束缚环下层/08_00014
+  rotate: false
+  xy: 690, 600
+  size: 331, 282
+  orig: 406, 423
+  offset: 36, 79
+  index: -1
+束缚环下层/08_00015
+  rotate: false
+  xy: 337, 598
+  size: 329, 279
+  orig: 406, 423
+  offset: 37, 82
+  index: -1
+束缚环下层/08_00016
+  rotate: false
+  xy: 1709, 603
+  size: 331, 278
+  orig: 406, 423
+  offset: 36, 83
+  index: -1
+束缚环下层/08_00017
+  rotate: false
+  xy: 2, 599
+  size: 325, 277
+  orig: 406, 423
+  offset: 41, 84
+  index: -1
+束缚环下层/08_00018
+  rotate: false
+  xy: 1023, 587
+  size: 322, 279
+  orig: 406, 423
+  offset: 42, 84
+  index: -1
+束缚环下层/08_00019
+  rotate: false
+  xy: 1668, 325
+  size: 321, 276
+  orig: 406, 423
+  offset: 42, 84
+  index: -1
+束缚环下层/08_00020
+  rotate: false
+  xy: 1347, 584
+  size: 319, 278
+  orig: 406, 423
+  offset: 43, 83
+  index: -1
+束缚环下层/08_00021
+  rotate: false
+  xy: 988, 309
+  size: 319, 276
+  orig: 406, 423
+  offset: 41, 85
+  index: -1
+束缚环下层/08_00022
+  rotate: false
+  xy: 668, 320
+  size: 318, 278
+  orig: 406, 423
+  offset: 43, 83
+  index: -1
+束缚环下层/08_00023
+  rotate: false
+  xy: 2, 320
+  size: 318, 277
+  orig: 406, 423
+  offset: 42, 84
+  index: -1
+束缚环下层/08_00024
+  rotate: false
+  xy: 642, 42
+  size: 318, 276
+  orig: 406, 423
+  offset: 42, 85
+  index: -1
+束缚环下层/08_00025
+  rotate: false
+  xy: 1309, 304
+  size: 316, 278
+  orig: 406, 423
+  offset: 44, 82
+  index: -1
+束缚环下层/08_00026
+  rotate: false
+  xy: 1627, 45
+  size: 316, 278
+  orig: 406, 423
+  offset: 45, 82
+  index: -1
+束缚环下层/08_00027
+  rotate: false
+  xy: 322, 319
+  size: 318, 277
+  orig: 406, 423
+  offset: 44, 82
+  index: -1
+束缚环下层/08_00028
+  rotate: false
+  xy: 331, 193
+  size: 284, 124
+  orig: 406, 423
+  offset: 60, 97
+  index: -1
+束缚环下层/08_00029
+  rotate: false
+  xy: 962, 184
+  size: 279, 123
+  orig: 406, 423
+  offset: 63, 96
+  index: -1
+束缚环下层/08_00031
+  rotate: false
+  xy: 1243, 181
+  size: 276, 121
+  orig: 406, 423
+  offset: 64, 98
+  index: -1
+束缚环下层/08_00033
+  rotate: false
+  xy: 331, 74
+  size: 262, 117
+  orig: 406, 423
+  offset: 72, 100
+  index: -1
+束缚环下层/08_00035
+  rotate: false
+  xy: 962, 73
+  size: 256, 109
+  orig: 406, 423
+  offset: 75, 105
+  index: -1
+束缚环下层/08_00037
+  rotate: false
+  xy: 1220, 72
+  size: 244, 107
+  orig: 406, 423
+  offset: 81, 106
+  index: -1
+束缚环下层/08_00038
+  rotate: true
+  xy: 1521, 66
+  size: 236, 102
+  orig: 406, 423
+  offset: 85, 110
+  index: -1
+束缚环下层/08_00039
+  rotate: true
+  xy: 1945, 96
+  size: 227, 100
+  orig: 406, 423
+  offset: 88, 111
+  index: -1
+束缚环下层/08_00040
+  rotate: false
+  xy: 2, 2
+  size: 219, 95
+  orig: 406, 423
+  offset: 93, 113
+  index: -1

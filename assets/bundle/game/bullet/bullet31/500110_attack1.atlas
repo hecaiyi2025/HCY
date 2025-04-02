@@ -1,0 +1,153 @@
+
+500110_attack1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/attack/dg/14
+  rotate: false
+  xy: 1672, 1667
+  size: 341, 309
+  orig: 920, 490
+  offset: 0, 163
+  index: -1
+FX/attack/dg/15
+  rotate: 180
+  xy: 1423, 656
+  size: 623, 426
+  orig: 920, 490
+  offset: 0, 42
+  index: -1
+FX/attack/dg/16
+  rotate: 180
+  xy: 311, 1153
+  size: 885, 423
+  orig: 920, 490
+  offset: 0, 0
+  index: -1
+FX/attack/dg/17
+  rotate: false
+  xy: 2, 1485
+  size: 890, 490
+  orig: 920, 490
+  offset: 30, 0
+  index: -1
+FX/attack/dg/18
+  rotate: false
+  xy: 879, 1485
+  size: 792, 490
+  orig: 920, 490
+  offset: 128, 0
+  index: -1
+FX/attack/dg/19
+  rotate: true
+  xy: 1556, 1062
+  size: 661, 490
+  orig: 920, 490
+  offset: 259, 0
+  index: -1
+FX/attack/dg/20
+  rotate: 180
+  xy: 1079, 853
+  size: 607, 490
+  orig: 920, 490
+  offset: 313, 0
+  index: -1
+FX/attack/dg/21
+  rotate: 180
+  xy: 2, 826
+  size: 564, 402
+  orig: 920, 490
+  offset: 356, 88
+  index: -1
+FX/attack/dg/22
+  rotate: 180
+  xy: 640, 762
+  size: 497, 408
+  orig: 920, 490
+  offset: 341, 82
+  index: -1
+FX/attack/dg/24
+  rotate: false
+  xy: 831, 246
+  size: 482, 339
+  orig: 920, 490
+  offset: 355, 70
+  index: -1
+FX/attack/dg/26
+  rotate: 180
+  xy: 1561, 340
+  size: 485, 345
+  orig: 920, 490
+  offset: 371, 69
+  index: -1
+FX/attack/dg/28
+  rotate: 180
+  xy: 1001, 505
+  size: 523, 354
+  orig: 920, 490
+  offset: 345, 61
+  index: -1
+FX/attack/dg/30
+  rotate: 180
+  xy: 363, 182
+  size: 516, 347
+  orig: 920, 490
+  offset: 358, 66
+  index: -1
+FX/attack/dg/32
+  rotate: 180
+  xy: 400, 507
+  size: 518, 347
+  orig: 920, 490
+  offset: 371, 64
+  index: -1
+FX/attack/dg/34
+  rotate: 180
+  xy: 2, 467
+  size: 508, 361
+  orig: 920, 490
+  offset: 387, 57
+  index: -1
+FX/attack/dg/36
+  rotate: 180
+  xy: 1291, 167
+  size: 507, 344
+  orig: 920, 490
+  offset: 391, 61
+  index: -1
+FX/attack/dg/38
+  rotate: 180
+  xy: 21, 112
+  size: 499, 354
+  orig: 920, 490
+  offset: 410, 61
+  index: -1
+FX/attack/dg/40
+  rotate: false
+  xy: 881, 3
+  size: 482, 259
+  orig: 920, 490
+  offset: 427, 156
+  index: -1
+FX/attack/dg/42
+  rotate: false
+  xy: 1630, 125
+  size: 392, 251
+  orig: 920, 490
+  offset: 440, 164
+  index: -1
+FX/attack/dg/44
+  rotate: false
+  xy: 1221, 34
+  size: 382, 228
+  orig: 920, 490
+  offset: 450, 168
+  index: -1
+FX/attack/dg/46
+  rotate: false
+  xy: 2, 1949
+  size: 24, 27
+  orig: 920, 490
+  offset: 455, 168
+  index: -1

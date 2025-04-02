@@ -1,0 +1,69 @@
+
+120065.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_1
+  rotate: false
+  xy: 2, 309
+  size: 244, 196
+  orig: 244, 196
+  offset: 0, 0
+  index: -1
+Head_3
+  rotate: true
+  xy: 237, 134
+  size: 118, 145
+  orig: 118, 145
+  offset: 0, 0
+  index: -1
+Leg_Back_L_3
+  rotate: false
+  xy: 146, 82
+  size: 72, 115
+  orig: 72, 115
+  offset: 0, 0
+  index: -1
+Leg_Back_R_3
+  rotate: false
+  xy: 416, 337
+  size: 89, 168
+  orig: 89, 168
+  offset: 0, 0
+  index: -1
+Leg_Front_L_3
+  rotate: false
+  xy: 146, 199
+  size: 89, 108
+  orig: 89, 108
+  offset: 0, 0
+  index: -1
+Leg_Front_R_3
+  rotate: true
+  xy: 248, 254
+  size: 110, 159
+  orig: 110, 159
+  offset: 0, 0
+  index: -1
+Tail_3
+  rotate: false
+  xy: 2, 186
+  size: 142, 121
+  orig: 142, 121
+  offset: 0, 0
+  index: -1
+neck_3
+  rotate: false
+  xy: 248, 366
+  size: 166, 139
+  orig: 166, 139
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 409, 160
+  size: 175, 80
+  orig: 175, 80
+  offset: 0, 0
+  index: -1

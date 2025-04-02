@@ -1,0 +1,132 @@
+
+400010_skill1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/sk1/h1/h1_00000
+  rotate: false
+  xy: 2, 1612
+  size: 346, 172
+  orig: 630, 320
+  offset: 24, 69
+  index: -1
+effect/sk1/h1/h1_00002
+  rotate: false
+  xy: 350, 1533
+  size: 611, 251
+  orig: 630, 320
+  offset: 19, 24
+  index: -1
+effect/sk1/h1/h1_00004
+  rotate: false
+  xy: 1245, 936
+  size: 623, 299
+  orig: 630, 320
+  offset: 7, 13
+  index: -1
+effect/sk1/h1/h1_00006
+  rotate: false
+  xy: 1253, 2
+  size: 624, 316
+  orig: 630, 320
+  offset: 6, 4
+  index: -1
+effect/sk1/h1/h1_00008
+  rotate: false
+  xy: 1251, 629
+  size: 621, 305
+  orig: 630, 320
+  offset: 9, 7
+  index: -1
+effect/sk1/h1/h1_00010
+  rotate: false
+  xy: 623, 321
+  size: 621, 307
+  orig: 630, 320
+  offset: 9, 13
+  index: -1
+effect/sk1/h1/h1_00012
+  rotate: false
+  xy: 630, 6
+  size: 621, 312
+  orig: 630, 320
+  offset: 9, 3
+  index: -1
+effect/sk1/h1/h1_00014
+  rotate: false
+  xy: 626, 630
+  size: 623, 304
+  orig: 630, 320
+  offset: 7, 5
+  index: -1
+effect/sk1/h1/h1_00016
+  rotate: false
+  xy: 2, 341
+  size: 619, 306
+  orig: 630, 320
+  offset: 11, 0
+  index: -1
+effect/sk1/h1/h1_00018
+  rotate: false
+  xy: 626, 939
+  size: 617, 303
+  orig: 630, 320
+  offset: 13, 13
+  index: -1
+effect/sk1/h1/h1_00020
+  rotate: false
+  xy: 1246, 320
+  size: 624, 307
+  orig: 630, 320
+  offset: 6, 13
+  index: -1
+effect/sk1/h1/h1_00022
+  rotate: false
+  xy: 2, 649
+  size: 622, 303
+  orig: 630, 320
+  offset: 8, 17
+  index: -1
+effect/sk1/h1/h1_00024
+  rotate: false
+  xy: 2, 954
+  size: 622, 299
+  orig: 630, 320
+  offset: 8, 6
+  index: -1
+effect/sk1/h1/h1_00026
+  rotate: false
+  xy: 2, 11
+  size: 626, 308
+  orig: 630, 320
+  offset: 4, 6
+  index: -1
+effect/sk1/h1/h1_00028
+  rotate: false
+  xy: 2, 1255
+  size: 622, 276
+  orig: 630, 320
+  offset: 8, 21
+  index: -1
+effect/sk1/h1/h1_00030
+  rotate: false
+  xy: 1250, 1237
+  size: 618, 291
+  orig: 630, 320
+  offset: 12, 11
+  index: -1
+effect/sk1/h1/h1_00032
+  rotate: false
+  xy: 626, 1244
+  size: 622, 284
+  orig: 630, 320
+  offset: 8, 16
+  index: -1
+effect/sk1/h1/h1_00034
+  rotate: false
+  xy: 963, 1530
+  size: 613, 254
+  orig: 630, 320
+  offset: 17, 29
+  index: -1

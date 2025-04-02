@@ -1,0 +1,62 @@
+[
+    {
+        "id": "5001",
+        "type": "1",
+        "name": "%E9%BA%92%E9%BA%9F",
+        "icon": "icon/pet/40",
+        "res": "game/pet/pet1/pet1",
+        "bulletOffset": "{\"x\":\"80\",\"y\":\"-30\"}",
+        "aniSpeed": "300",
+        "remarks": ""
+    },
+    {
+        "id": "5002",
+        "type": "2",
+        "name": "%E9%B2%B2%E9%B9%8F",
+        "icon": "icon/pet/41",
+        "res": "game/pet/pet2/pet2",
+        "bulletOffset": "{\"x\":\"86\",\"y\":\"-30\"}",
+        "aniSpeed": "200",
+        "remarks": ""
+    },
+    {
+        "id": "5003",
+        "type": "3",
+        "name": "%E7%99%BD%E8%99%8E",
+        "icon": "icon/pet/42",
+        "res": "game/pet/pet3/pet3",
+        "bulletOffset": "{\"x\":\"86\",\"y\":\"-30\"}",
+        "aniSpeed": "150",
+        "remarks": ""
+    },
+    {
+        "id": "5004",
+        "type": "4",
+        "name": "%E6%9C%B1%E9%9B%80",
+        "icon": "icon/pet/43",
+        "res": "game/pet/pet4/pet4",
+        "bulletOffset": "{\"x\":\"80\",\"y\":\"-30\"}",
+        "aniSpeed": "150",
+        "remarks": ""
+    },
+    {
+        "id": "5005",
+        "type": "5",
+        "name": "%E7%8E%84%E6%AD%A6",
+        "icon": "icon/pet/44",
+        "res": "game/pet/pet5/pet5",
+        "bulletOffset": "{\"x\":\"80\",\"y\":\"-30\"}",
+        "aniSpeed": "300",
+        "remarks": ""
+    },
+    {
+        "id": "5006",
+        "type": "6",
+        "name": "%E9%9D%92%E9%BE%99",
+        "icon": "icon/pet/45",
+        "res": "game/pet/pet6/pet6",
+        "bulletOffset": "{\"x\":\"80\",\"y\":\"-30\"}",
+        "aniSpeed": "50",
+        "remarks": ""
+    }
+]

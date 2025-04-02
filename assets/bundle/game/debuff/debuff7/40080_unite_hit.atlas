@@ -1,0 +1,146 @@
+
+40080_unite_hit.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/buff/buff_01
+  rotate: false
+  xy: 1101, 11
+  size: 156, 135
+  orig: 512, 512
+  offset: 179, 183
+  index: -1
+images/buff/buff_02
+  rotate: false
+  xy: 1850, 10
+  size: 174, 141
+  orig: 512, 512
+  offset: 171, 178
+  index: -1
+images/buff/buff_03
+  rotate: false
+  xy: 1488, 155
+  size: 184, 152
+  orig: 512, 512
+  offset: 166, 173
+  index: -1
+images/buff/buff_04
+  rotate: false
+  xy: 937, 152
+  size: 186, 155
+  orig: 512, 512
+  offset: 165, 172
+  index: -1
+images/buff/buff_05
+  rotate: false
+  xy: 189, 148
+  size: 189, 159
+  orig: 512, 512
+  offset: 164, 170
+  index: -1
+images/buff/buff_06
+  rotate: false
+  xy: 380, 147
+  size: 187, 160
+  orig: 512, 512
+  offset: 165, 170
+  index: -1
+images/buff/buff_07
+  rotate: false
+  xy: 569, 148
+  size: 184, 159
+  orig: 512, 512
+  offset: 166, 171
+  index: -1
+images/buff/buff_08
+  rotate: false
+  xy: 1125, 148
+  size: 181, 159
+  orig: 512, 512
+  offset: 168, 171
+  index: -1
+images/buff/buff_09
+  rotate: false
+  xy: 2, 143
+  size: 185, 164
+  orig: 512, 512
+  offset: 166, 169
+  index: -1
+images/buff/buff_10
+  rotate: false
+  xy: 755, 145
+  size: 180, 162
+  orig: 512, 512
+  offset: 168, 170
+  index: -1
+images/buff/buff_11
+  rotate: false
+  xy: 1308, 148
+  size: 178, 159
+  orig: 512, 512
+  offset: 169, 172
+  index: -1
+images/buff/buff_12
+  rotate: false
+  xy: 1674, 149
+  size: 174, 158
+  orig: 512, 512
+  offset: 171, 173
+  index: -1
+images/buff/buff_13
+  rotate: false
+  xy: 1850, 153
+  size: 170, 154
+  orig: 512, 512
+  offset: 172, 174
+  index: -1
+images/buff/buff_14
+  rotate: false
+  xy: 1488, 2
+  size: 166, 151
+  orig: 512, 512
+  offset: 174, 176
+  index: -1
+images/buff/buff_15
+  rotate: false
+  xy: 937, 3
+  size: 162, 147
+  orig: 512, 512
+  offset: 176, 178
+  index: -1
+images/buff/buff_16
+  rotate: false
+  xy: 1656, 4
+  size: 159, 143
+  orig: 512, 512
+  offset: 177, 180
+  index: -1
+images/buff/buff_17
+  rotate: false
+  xy: 189, 4
+  size: 159, 142
+  orig: 512, 512
+  offset: 177, 180
+  index: -1
+images/buff/buff_18
+  rotate: false
+  xy: 569, 6
+  size: 159, 140
+  orig: 512, 512
+  offset: 177, 181
+  index: -1
+images/buff/buff_19
+  rotate: false
+  xy: 1259, 10
+  size: 153, 136
+  orig: 512, 512
+  offset: 180, 183
+  index: -1
+images/buff/buff_20
+  rotate: false
+  xy: 350, 10
+  size: 154, 135
+  orig: 512, 512
+  offset: 180, 183
+  index: -1

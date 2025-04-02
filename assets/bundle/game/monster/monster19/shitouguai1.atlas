@@ -1,0 +1,27 @@
+
+shitouguai1.png
+size: 144,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shitouguai_6_1
+  rotate: true
+  xy: 123, 31
+  size: 56, 19
+  orig: 72, 25
+  offset: 7, 3
+  index: -1
+shitouguai_7_1
+  rotate: true
+  xy: 99, 34
+  size: 55, 30
+  orig: 68, 38
+  offset: 8, 4
+  index: -1
+shitouguai_8_1
+  rotate: false
+  xy: 2, 3
+  size: 97, 87
+  orig: 125, 112
+  offset: 13, 12
+  index: -1

@@ -1,0 +1,41 @@
+
+mogu2.png
+size: 268,52
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mogu2_1
+  rotate: 180
+  xy: 152, 10
+  size: 60, 39
+  orig: 78, 46
+  offset: 9, 4
+  index: -1
+mogu2_2
+  rotate: false
+  xy: 2, 3
+  size: 97, 47
+  orig: 126, 61
+  offset: 14, 7
+  index: -1
+mogu2_3
+  rotate: true
+  xy: 211, 8
+  size: 41, 28
+  orig: 52, 36
+  offset: 5, 4
+  index: -1
+mogu2_4
+  rotate: true
+  xy: 98, 4
+  size: 45, 54
+  orig: 59, 70
+  offset: 7, 8
+  index: -1
+mogu2_5
+  rotate: 180
+  xy: 236, 15
+  size: 31, 35
+  orig: 36, 43
+  offset: 4, 5
+  index: -1

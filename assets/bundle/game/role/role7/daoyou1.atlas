@@ -1,0 +1,188 @@
+
+daoyou1.png
+size: 292,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoyou1_0
+  rotate: true
+  xy: 195, 37
+  size: 42, 25
+  orig: 63, 38
+  offset: 10, 7
+  index: -1
+daoyou1_1
+  rotate: 180
+  xy: 169, 33
+  size: 32, 44
+  orig: 48, 66
+  offset: 8, 11
+  index: -1
+daoyou1_10
+  rotate: 270
+  xy: 56, 57
+  size: 36, 30
+  orig: 50, 42
+  offset: 6, 5
+  index: -1
+daoyou1_11
+  rotate: false
+  xy: 204, 66
+  size: 23, 28
+  orig: 35, 42
+  offset: 6, 8
+  index: -1
+daoyou1_12
+  rotate: false
+  xy: 274, 61
+  size: 15, 17
+  orig: 23, 26
+  offset: 4, 5
+  index: -1
+daoyou1_13
+  rotate: 180
+  xy: 116, 28
+  size: 32, 60
+  orig: 44, 89
+  offset: 5, 14
+  index: -1
+daoyou1_14
+  rotate: 180
+  xy: 256, 9
+  size: 18, 23
+  orig: 27, 35
+  offset: 4, 6
+  index: -1
+daoyou1_15
+  rotate: false
+  xy: 218, 49
+  size: 17, 27
+  orig: 24, 39
+  offset: 4, 7
+  index: -1
+daoyou1_16
+  rotate: 180
+  xy: 233, 36
+  size: 11, 43
+  orig: 17, 65
+  offset: 3, 11
+  index: -1
+daoyou1_17
+  rotate: false
+  xy: 85, 32
+  size: 31, 59
+  orig: 41, 86
+  offset: 3, 14
+  index: -1
+daoyou1_18
+  rotate: 270
+  xy: 58, 32
+  size: 19, 26
+  orig: 24, 38
+  offset: 2, 7
+  index: -1
+daoyou1_19
+  rotate: 180
+  xy: 222, 8
+  size: 19, 29
+  orig: 29, 48
+  offset: 5, 8
+  index: -1
+daoyou1_2
+  rotate: false
+  xy: 147, 4
+  size: 39, 49
+  orig: 59, 74
+  offset: 10, 13
+  index: -1
+daoyou1_20
+  rotate: 180
+  xy: 129, 3
+  size: 19, 25
+  orig: 29, 38
+  offset: 5, 7
+  index: -1
+daoyou1_21
+  rotate: false
+  xy: 241, 6
+  size: 16, 25
+  orig: 26, 39
+  offset: 5, 7
+  index: -1
+daoyou1_22
+  rotate: false
+  xy: 258, 61
+  size: 15, 21
+  orig: 23, 32
+  offset: 3, 6
+  index: -1
+daoyou1_23
+  rotate: false
+  xy: 245, 33
+  size: 16, 21
+  orig: 24, 32
+  offset: 4, 6
+  index: -1
+daoyou1_24
+  rotate: 180
+  xy: 2, 5
+  size: 124, 27
+  orig: 186, 38
+  offset: 31, 6
+  index: -1
+daoyou1_3
+  rotate: true
+  xy: 270, 35
+  size: 26, 17
+  orig: 35, 24
+  offset: 6, 4
+  index: -1
+daoyou1_4
+  rotate: 270
+  xy: 272, 4
+  size: 20, 15
+  orig: 30, 23
+  offset: 5, 4
+  index: -1
+daoyou1_5
+  rotate: false
+  xy: 146, 41
+  size: 26, 53
+  orig: 38, 80
+  offset: 6, 14
+  index: -1
+daoyou1_6
+  rotate: 270
+  xy: 260, 27
+  size: 34, 17
+  orig: 45, 20
+  offset: 3, 3
+  index: -1
+daoyou1_7
+  rotate: false
+  xy: 187, 8
+  size: 34, 28
+  orig: 45, 42
+  offset: 3, 7
+  index: -1
+daoyou1_8
+  rotate: false
+  xy: 262, 78
+  size: 24, 15
+  orig: 33, 20
+  offset: 5, 4
+  index: -1
+daoyou1_9
+  rotate: false
+  xy: 2, 30
+  size: 70, 64
+  orig: 101, 93
+  offset: 17, 14
+  index: -1
+daoyou1_9_1
+  rotate: true
+  xy: 243, 61
+  size: 30, 15
+  orig: 44, 18
+  offset: 7, 2
+  index: -1

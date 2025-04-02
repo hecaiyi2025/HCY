@@ -1,0 +1,286 @@
+
+500240_attack_hit.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/chi/02
+  rotate: false
+  xy: 1546, 298
+  size: 119, 203
+  orig: 120, 240
+  offset: 0, 14
+  index: -1
+effect/chi/03
+  rotate: false
+  xy: 1546, 112
+  size: 120, 186
+  orig: 120, 240
+  offset: 0, 45
+  index: -1
+effect/chi/04
+  rotate: false
+  xy: 1586, 836
+  size: 120, 165
+  orig: 120, 240
+  offset: 0, 74
+  index: -1
+effect/chi/05
+  rotate: true
+  xy: 1586, 709
+  size: 120, 141
+  orig: 120, 240
+  offset: 0, 99
+  index: -1
+effect/chi/06
+  rotate: true
+  xy: 1665, 381
+  size: 120, 110
+  orig: 120, 240
+  offset: 0, 130
+  index: -1
+effect/chi/07
+  rotate: true
+  xy: 1742, 265
+  size: 116, 90
+  orig: 120, 240
+  offset: 0, 150
+  index: -1
+effect/dikeng2_
+  rotate: false
+  xy: 0, 57
+  size: 432, 68
+  orig: 432, 69
+  offset: 0, 0
+  index: -1
+effect/eff_bzzc1/00
+  rotate: true
+  xy: 974, 367
+  size: 235, 344
+  orig: 235, 401
+  offset: 0, 0
+  index: -1
+effect/eff_bzzc1/01
+  rotate: false
+  xy: 739, 360
+  size: 235, 380
+  orig: 235, 401
+  offset: 0, 0
+  index: -1
+effect/eff_bzzc1/02
+  rotate: true
+  xy: 508, 30
+  size: 235, 372
+  orig: 235, 401
+  offset: 0, 27
+  index: -1
+effect/eff_bzzc1/04
+  rotate: false
+  xy: 1115, 0
+  size: 214, 367
+  orig: 235, 401
+  offset: 11, 30
+  index: -1
+effect/eff_bzzc1/06
+  rotate: false
+  xy: 1178, 631
+  size: 209, 370
+  orig: 235, 401
+  offset: 14, 31
+  index: -1
+effect/eff_bzzc1/08
+  rotate: false
+  xy: 1387, 709
+  size: 199, 292
+  orig: 235, 401
+  offset: 19, 32
+  index: -1
+effect/eff_bzzc2/00
+  rotate: false
+  xy: 1329, 314
+  size: 210, 317
+  orig: 235, 401
+  offset: 13, 27
+  index: -1
+effect/eff_bzzc2/01
+  rotate: false
+  xy: 880, 7
+  size: 235, 353
+  orig: 235, 401
+  offset: 0, 27
+  index: -1
+effect/eff_gy1_
+  rotate: false
+  xy: 0, 740
+  size: 426, 261
+  orig: 440, 266
+  offset: 10, 2
+  index: -1
+effect/eff_smoke8/00
+  rotate: true
+  xy: 432, 1
+  size: 124, 67
+  orig: 195, 90
+  offset: 66, 1
+  index: -1
+effect/eff_smoke8/02
+  rotate: true
+  xy: 1706, 66
+  size: 147, 80
+  orig: 195, 90
+  offset: 40, 0
+  index: -1
+effect/eff_smoke8/04
+  rotate: true
+  xy: 1666, 213
+  size: 168, 76
+  orig: 195, 90
+  offset: 16, 0
+  index: -1
+effect/eff_smoke8/06
+  rotate: false
+  xy: 1546, 25
+  size: 160, 87
+  orig: 195, 90
+  offset: 12, 0
+  index: -1
+effect/eff_smoke8/08
+  rotate: false
+  xy: 739, 271
+  size: 134, 89
+  orig: 195, 90
+  offset: 31, 0
+  index: -1
+effect/eff_smoke8/10
+  rotate: true
+  xy: 1706, 873
+  size: 128, 89
+  orig: 195, 90
+  offset: 36, 0
+  index: -1
+effect/eff_smoke8/12
+  rotate: true
+  xy: 1727, 746
+  size: 127, 86
+  orig: 195, 90
+  offset: 35, 0
+  index: -1
+effect/eff_smoke8/14
+  rotate: true
+  xy: 1747, 622
+  size: 124, 67
+  orig: 195, 90
+  offset: 36, 0
+  index: -1
+effect/eff_smoke8/16
+  rotate: true
+  xy: 1747, 516
+  size: 106, 65
+  orig: 195, 90
+  offset: 50, 0
+  index: -1
+effect/eff_smoke8/18
+  rotate: true
+  xy: 1775, 412
+  size: 104, 65
+  orig: 195, 90
+  offset: 47, 0
+  index: -1
+effect/eff_smoke8/20
+  rotate: true
+  xy: 1786, 66
+  size: 99, 66
+  orig: 195, 90
+  offset: 45, 0
+  index: -1
+effect/eff_smoke8/22
+  rotate: true
+  xy: 1786, 165
+  size: 100, 66
+  orig: 195, 90
+  offset: 43, 1
+  index: -1
+effect/eff_st1/00
+  rotate: true
+  xy: 1329, 28
+  size: 286, 217
+  orig: 532, 240
+  offset: 117, 0
+  index: -1
+effect/eff_st1/02
+  rotate: true
+  xy: 974, 602
+  size: 399, 204
+  orig: 532, 240
+  offset: 65, 17
+  index: -1
+effect/eff_st1/04
+  rotate: true
+  xy: 524, 265
+  size: 475, 215
+  orig: 532, 240
+  offset: 27, 24
+  index: -1
+effect/eff_st1/06
+  rotate: false
+  xy: 426, 805
+  size: 492, 196
+  orig: 532, 240
+  offset: 20, 44
+  index: -1
+effect/eff_st1/08
+  rotate: false
+  xy: 0, 328
+  size: 508, 203
+  orig: 532, 240
+  offset: 12, 37
+  index: -1
+effect/eff_st1/10
+  rotate: false
+  xy: 0, 531
+  size: 524, 209
+  orig: 532, 240
+  offset: 2, 31
+  index: -1
+effect/eff_st1/12
+  rotate: false
+  xy: 0, 125
+  size: 508, 203
+  orig: 532, 240
+  offset: 23, 34
+  index: -1
+effect/glow1
+  rotate: false
+  xy: 1539, 501
+  size: 208, 208
+  orig: 216, 216
+  offset: 4, 3
+  index: -1
+effect/lizi1
+  rotate: false
+  xy: 448, 761
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+effect/lizi2
+  rotate: false
+  xy: 426, 777
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+effect/lizi3
+  rotate: false
+  xy: 426, 753
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+effect/liziglow
+  rotate: false
+  xy: 448, 745
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

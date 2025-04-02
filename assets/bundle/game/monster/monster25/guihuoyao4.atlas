@@ -1,0 +1,90 @@
+
+guihuoyao4.png
+size: 228,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guihuo4_0
+  rotate: 180
+  xy: 53, 8
+  size: 23, 28
+  orig: 30, 35
+  offset: 3, 4
+  index: -1
+guihuo4_1
+  rotate: true
+  xy: 125, 18
+  size: 76, 43
+  orig: 99, 55
+  offset: 11, 6
+  index: -1
+guihuo4_10
+  rotate: 270
+  xy: 152, 3
+  size: 16, 26
+  orig: 21, 34
+  offset: 2, 4
+  index: -1
+guihuo4_11
+  rotate: true
+  xy: 48, 26
+  size: 71, 80
+  orig: 92, 104
+  offset: 10, 12
+  index: -1
+guihuo4_2
+  rotate: 180
+  xy: 97, 7
+  size: 32, 38
+  orig: 40, 48
+  offset: 3, 5
+  index: -1
+guihuo4_3
+  rotate: 270
+  xy: 113, 5
+  size: 14, 36
+  orig: 17, 46
+  offset: 2, 5
+  index: -1
+guihuo4_4
+  rotate: true
+  xy: 2, 72
+  size: 25, 14
+  orig: 33, 18
+  offset: 4, 2
+  index: -1
+guihuo4_5
+  rotate: false
+  xy: 151, 15
+  size: 51, 41
+  orig: 64, 53
+  offset: 6, 6
+  index: -1
+guihuo4_6
+  rotate: false
+  xy: 188, 34
+  size: 36, 63
+  orig: 46, 81
+  offset: 4, 9
+  index: -1
+guihuo4_7
+  rotate: false
+  xy: 201, 8
+  size: 25, 38
+  orig: 31, 48
+  offset: 2, 6
+  index: -1
+guihuo4_8
+  rotate: false
+  xy: 2, 15
+  size: 76, 81
+  orig: 99, 105
+  offset: 11, 12
+  index: -1
+guihuo4_9
+  rotate: 180
+  xy: 2, 11
+  size: 23, 32
+  orig: 30, 42
+  offset: 3, 5
+  index: -1

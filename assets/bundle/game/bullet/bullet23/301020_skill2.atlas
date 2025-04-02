@@ -1,0 +1,62 @@
+
+301020_skill2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+导出/4刀光/刀光_43
+  rotate: false
+  xy: 2, 402
+  size: 330, 249
+  orig: 423, 305
+  offset: 61, 8
+  index: -1
+导出/4刀光/刀光_44
+  rotate: true
+  xy: 334, 337
+  size: 314, 246
+  orig: 423, 305
+  offset: 77, 8
+  index: -1
+导出/4刀光/刀光_45
+  rotate: true
+  xy: 2, 150
+  size: 250, 214
+  orig: 423, 305
+  offset: 138, 8
+  index: -1
+导出/4刀光/刀光_46
+  rotate: true
+  xy: 332, 130
+  size: 205, 200
+  orig: 423, 305
+  offset: 176, 8
+  index: -1
+导出/4刀光/刀光_47
+  rotate: false
+  xy: 2, 2
+  size: 140, 146
+  orig: 423, 305
+  offset: 232, 7
+  index: -1
+导出/4刀光/刀光_48
+  rotate: false
+  xy: 534, 196
+  size: 110, 139
+  orig: 423, 305
+  offset: 231, 7
+  index: -1
+导出/4刀光/刀光_49
+  rotate: false
+  xy: 218, 270
+  size: 112, 130
+  orig: 423, 305
+  offset: 230, 7
+  index: -1
+导出/4刀光/刀光_50
+  rotate: false
+  xy: 144, 28
+  size: 112, 120
+  orig: 423, 305
+  offset: 230, 7
+  index: -1

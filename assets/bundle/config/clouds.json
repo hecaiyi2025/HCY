@@ -1,0 +1,11 @@
+[
+  {
+    "id": "34001",
+    "type": "1",
+    "iconNum": "2",
+    "name": "%E7%A5%A5%E4%BA%91%E9%A3%9E%E8%A1%8C%E9%81%93%E5%85%B7",
+    "res1": "game/cloud/cloud1/cloud1",
+    "res2": "game/cloud/cloud2/cloud2",
+    "remarks": ""
+  }
+]

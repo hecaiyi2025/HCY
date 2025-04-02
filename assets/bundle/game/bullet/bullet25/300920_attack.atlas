@@ -1,0 +1,195 @@
+
+300920_attack.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effects/lang/lang_00
+  rotate: false
+  xy: 1624, 1655
+  size: 242, 205
+  orig: 810, 540
+  offset: 568, 126
+  index: -1
+images/effects/lang/lang_02
+  rotate: 180
+  xy: 918, 145
+  size: 301, 240
+  orig: 810, 540
+  offset: 506, 124
+  index: -1
+images/effects/lang/lang_04
+  rotate: 180
+  xy: 1703, 137
+  size: 343, 326
+  orig: 810, 540
+  offset: 467, 121
+  index: -1
+images/effects/lang/lang_06
+  rotate: 180
+  xy: 1586, 425
+  size: 401, 371
+  orig: 810, 540
+  offset: 409, 118
+  index: -1
+images/effects/lang/lang_08
+  rotate: 180
+  xy: 625, 625
+  size: 465, 368
+  orig: 810, 540
+  offset: 345, 119
+  index: -1
+images/effects/lang/lang_10
+  rotate: 180
+  xy: 1222, 603
+  size: 558, 371
+  orig: 810, 540
+  offset: 252, 111
+  index: -1
+images/effects/lang/lang_11
+  rotate: true
+  xy: 1680, 797
+  size: 594, 366
+  orig: 810, 540
+  offset: 216, 111
+  index: -1
+images/effects/lang/lang_12
+  rotate: 180
+  xy: 1029, 862
+  size: 627, 371
+  orig: 810, 540
+  offset: 183, 116
+  index: -1
+images/effects/lang/lang_13
+  rotate: 180
+  xy: 234, 916
+  size: 659, 380
+  orig: 810, 540
+  offset: 151, 122
+  index: -1
+images/effects/lang/lang_14
+  rotate: 270
+  xy: 1392, 1171
+  size: 688, 376
+  orig: 810, 540
+  offset: 122, 128
+  index: -1
+images/effects/lang/lang_15
+  rotate: 270
+  xy: 736, 1147
+  size: 713, 360
+  orig: 810, 540
+  offset: 95, 127
+  index: -1
+images/effects/lang/lang_16
+  rotate: false
+  xy: 2, 1180
+  size: 741, 354
+  orig: 810, 540
+  offset: 64, 129
+  index: -1
+images/effects/lang/lang_17
+  rotate: false
+  xy: 2, 1518
+  size: 765, 343
+  orig: 810, 540
+  offset: 37, 132
+  index: -1
+images/effects/lang/lang_18
+  rotate: true
+  xy: 1088, 1184
+  size: 676, 313
+  orig: 810, 540
+  offset: 31, 154
+  index: -1
+images/effects/lang/lang_19
+  rotate: 180
+  xy: 2, 658
+  size: 622, 304
+  orig: 810, 540
+  offset: 45, 157
+  index: -1
+images/effects/lang/lang_21
+  rotate: false
+  xy: 257, 436
+  size: 557, 243
+  orig: 810, 540
+  offset: 46, 143
+  index: -1
+images/effects/shifa/shifa_00
+  rotate: false
+  xy: 2, 1059
+  size: 251, 153
+  orig: 540, 360
+  offset: 141, 40
+  index: -1
+images/effects/shifa/shifa_01
+  rotate: false
+  xy: 764, 950
+  size: 251, 153
+  orig: 540, 360
+  offset: 141, 40
+  index: -1
+images/effects/shifa/shifa_02
+  rotate: 180
+  xy: 411, 8
+  size: 336, 234
+  orig: 540, 360
+  offset: 109, 22
+  index: -1
+images/effects/shifa/shifa_04
+  rotate: 180
+  xy: 531, 196
+  size: 418, 309
+  orig: 540, 360
+  offset: 84, 3
+  index: -1
+images/effects/shifa/shifa_06
+  rotate: 180
+  xy: 1198, 202
+  size: 459, 329
+  orig: 540, 360
+  offset: 64, 6
+  index: -1
+images/effects/shifa/shifa_07
+  rotate: 270
+  xy: 2, 201
+  size: 459, 329
+  orig: 540, 360
+  offset: 64, 6
+  index: -1
+images/effects/shifa/shifa_08
+  rotate: false
+  xy: 881, 358
+  size: 474, 349
+  orig: 540, 360
+  offset: 38, 0
+  index: -1
+images/effects/shifa/shifa_10
+  rotate: 180
+  xy: 2, 19
+  size: 453, 292
+  orig: 540, 360
+  offset: 69, 57
+  index: -1
+images/effects/shifa/shifa_11
+  rotate: 180
+  xy: 1248, 4
+  size: 453, 292
+  orig: 540, 360
+  offset: 69, 57
+  index: -1
+images/effects/shifa/shifa_12
+  rotate: 180
+  xy: 1649, 1450
+  size: 380, 261
+  orig: 540, 360
+  offset: 84, 45
+  index: -1
+images/effects/shifa/shifa_14
+  rotate: false
+  xy: 949, 1668
+  size: 161, 192
+  orig: 540, 360
+  offset: 80, 109
+  index: -1

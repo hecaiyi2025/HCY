@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "efd0ea06-4e3c-495f-a3ff-c68d93c69ec8",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "efd0ea06-4e3c-495f-a3ff-c68d93c69ec8@6c48a",
+      "displayName": "02",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "efd0ea06-4e3c-495f-a3ff-c68d93c69ec8",
+        "isUuid": true,
+        "visible": false,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "efd0ea06-4e3c-495f-a3ff-c68d93c69ec8@f9941",
+      "displayName": "02",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -4.5,
+        "offsetY": 5,
+        "trimX": 0,
+        "trimY": 1,
+        "width": 79,
+        "height": 76,
+        "rawWidth": 88,
+        "rawHeight": 88,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -39.5,
+            -38,
+            0,
+            39.5,
+            -38,
+            0,
+            -39.5,
+            38,
+            0,
+            39.5,
+            38,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            0,
+            87,
+            79,
+            87,
+            0,
+            11,
+            79,
+            11
+          ],
+          "nuv": [
+            0,
+            0.125,
+            0.8977272727272727,
+            0.125,
+            0,
+            0.9886363636363636,
+            0.8977272727272727,
+            0.9886363636363636
+          ],
+          "minPos": [
+            -39.5,
+            -38,
+            0
+          ],
+          "maxPos": [
+            39.5,
+            38,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "efd0ea06-4e3c-495f-a3ff-c68d93c69ec8@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "fixAlphaTransparencyArtifacts": false,
+    "redirect": "efd0ea06-4e3c-495f-a3ff-c68d93c69ec8@6c48a"
+  }
+}

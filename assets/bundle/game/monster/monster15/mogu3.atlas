@@ -1,0 +1,55 @@
+
+mogu3.png
+size: 232,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mogu3_1
+  rotate: true
+  xy: 124, 35
+  size: 78, 50
+  orig: 100, 59
+  offset: 10, 7
+  index: -1
+mogu3_2
+  rotate: false
+  xy: 2, 61
+  size: 111, 52
+  orig: 137, 65
+  offset: 14, 8
+  index: -1
+mogu3_3
+  rotate: 180
+  xy: 2, 7
+  size: 46, 63
+  orig: 56, 79
+  offset: 5, 9
+  index: -1
+mogu3_4
+  rotate: false
+  xy: 104, 3
+  size: 62, 30
+  orig: 81, 39
+  offset: 9, 5
+  index: -1
+mogu3_5
+  rotate: 180
+  xy: 49, 26
+  size: 79, 65
+  orig: 99, 85
+  offset: 9, 10
+  index: -1
+mogu3_6
+  rotate: true
+  xy: 169, 63
+  size: 50, 53
+  orig: 65, 69
+  offset: 7, 8
+  index: -1
+mogu3_7
+  rotate: true
+  xy: 163, 20
+  size: 44, 64
+  orig: 55, 79
+  offset: 4, 9
+  index: -1

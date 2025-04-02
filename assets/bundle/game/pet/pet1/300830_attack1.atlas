@@ -1,0 +1,62 @@
+
+300830_attack1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1聚气/聚气_08
+  rotate: false
+  xy: 195, 251
+  size: 232, 187
+  orig: 1300, 800
+  offset: 288, 294
+  index: -1
+1聚气/聚气_09
+  rotate: false
+  xy: 334, 440
+  size: 307, 261
+  orig: 1300, 800
+  offset: 262, 243
+  index: -1
+1聚气/聚气_10
+  rotate: false
+  xy: 661, 704
+  size: 323, 280
+  orig: 1300, 800
+  offset: 254, 234
+  index: -1
+1聚气/聚气_11
+  rotate: false
+  xy: 2, 697
+  size: 330, 287
+  orig: 1300, 800
+  offset: 250, 230
+  index: -1
+1聚气/聚气_12
+  rotate: false
+  xy: 334, 703
+  size: 325, 281
+  orig: 1300, 800
+  offset: 253, 233
+  index: -1
+1聚气/聚气_13
+  rotate: false
+  xy: 661, 430
+  size: 317, 272
+  orig: 1300, 800
+  offset: 257, 238
+  index: -1
+1聚气/聚气_14
+  rotate: false
+  xy: 2, 440
+  size: 300, 255
+  orig: 1300, 800
+  offset: 265, 247
+  index: -1
+1聚气/聚气_15
+  rotate: true
+  xy: 2, 205
+  size: 233, 191
+  orig: 1300, 800
+  offset: 293, 281
+  index: -1

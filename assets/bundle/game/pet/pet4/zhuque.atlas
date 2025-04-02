@@ -1,0 +1,69 @@
+
+zhuque.png
+size: 127,247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shangwei
+  rotate: false
+  xy: 2, 212
+  size: 117, 33
+  orig: 117, 73
+  offset: 0, 40
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 59, 72
+  orig: 59, 72
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 88, 100
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+xiawei
+  rotate: false
+  xy: 2, 139
+  size: 84, 40
+  orig: 84, 40
+  offset: 0, 0
+  index: -1
+youchi
+  rotate: true
+  xy: 2, 76
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: true
+  xy: 88, 156
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+zhongwei
+  rotate: false
+  xy: 2, 181
+  size: 104, 29
+  orig: 104, 29
+  offset: 0, 0
+  index: -1
+zuochi
+  rotate: false
+  xy: 63, 10
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 82, 79
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1

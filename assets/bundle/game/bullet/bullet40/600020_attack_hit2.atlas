@@ -1,0 +1,209 @@
+
+600020_attack_hit2.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/dantigongji_xia/dantigongji_xia_00005
+  rotate: true
+  xy: 542, 824
+  size: 253, 77
+  orig: 472, 216
+  offset: 112, 52
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00006
+  rotate: true
+  xy: 528, 556
+  size: 266, 95
+  orig: 472, 216
+  offset: 106, 42
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00007
+  rotate: false
+  xy: 281, 2
+  size: 270, 102
+  orig: 472, 216
+  offset: 104, 39
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00008
+  rotate: true
+  xy: 458, 1756
+  size: 272, 106
+  orig: 472, 216
+  offset: 103, 35
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00009
+  rotate: true
+  xy: 453, 1348
+  size: 274, 106
+  orig: 472, 216
+  offset: 102, 35
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00010
+  rotate: true
+  xy: 434, 1056
+  size: 275, 106
+  orig: 472, 216
+  offset: 101, 35
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00011
+  rotate: false
+  xy: 281, 106
+  size: 275, 106
+  orig: 472, 216
+  offset: 101, 35
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00012
+  rotate: true
+  xy: 419, 214
+  size: 276, 106
+  orig: 472, 216
+  offset: 100, 35
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00013
+  rotate: true
+  xy: 420, 778
+  size: 276, 106
+  orig: 472, 216
+  offset: 100, 35
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00014
+  rotate: false
+  xy: 2, 161
+  size: 277, 106
+  orig: 472, 216
+  offset: 100, 35
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00015
+  rotate: false
+  xy: 2, 53
+  size: 277, 106
+  orig: 472, 216
+  offset: 101, 35
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00016
+  rotate: true
+  xy: 400, 499
+  size: 277, 106
+  orig: 472, 216
+  offset: 101, 35
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00017
+  rotate: true
+  xy: 311, 214
+  size: 280, 106
+  orig: 472, 216
+  offset: 99, 35
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00018
+  rotate: true
+  xy: 527, 214
+  size: 340, 83
+  orig: 472, 216
+  offset: 68, 48
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00019
+  rotate: false
+  xy: 2, 377
+  size: 307, 117
+  orig: 472, 216
+  offset: 84, 50
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00020
+  rotate: false
+  xy: 2, 1240
+  size: 430, 182
+  orig: 472, 216
+  offset: 23, 10
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00021
+  rotate: false
+  xy: 2, 1823
+  size: 448, 205
+  orig: 472, 216
+  offset: 14, 10
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00022
+  rotate: false
+  xy: 2, 1624
+  size: 454, 197
+  orig: 472, 216
+  offset: 11, 10
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00023
+  rotate: false
+  xy: 2, 1424
+  size: 449, 198
+  orig: 472, 216
+  offset: 10, 10
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00024
+  rotate: false
+  xy: 2, 1084
+  size: 424, 154
+  orig: 472, 216
+  offset: 26, 11
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00025
+  rotate: false
+  xy: 2, 930
+  size: 416, 152
+  orig: 472, 216
+  offset: 30, 12
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00026
+  rotate: false
+  xy: 2, 778
+  size: 412, 150
+  orig: 472, 216
+  offset: 32, 13
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00027
+  rotate: false
+  xy: 2, 632
+  size: 396, 144
+  orig: 472, 216
+  offset: 40, 16
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00028
+  rotate: false
+  xy: 2, 496
+  size: 370, 134
+  orig: 472, 216
+  offset: 53, 21
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00029
+  rotate: false
+  xy: 2, 269
+  size: 294, 106
+  orig: 472, 216
+  offset: 91, 35
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00030
+  rotate: true
+  xy: 542, 1162
+  size: 184, 58
+  orig: 472, 216
+  offset: 138, 59
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00031
+  rotate: false
+  xy: 458, 1718
+  size: 142, 36
+  orig: 472, 216
+  offset: 171, 69
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00032
+  rotate: false
+  xy: 458, 1687
+  size: 102, 29
+  orig: 472, 216
+  offset: 195, 74
+  index: -1
+attack/dantigongji_xia/dantigongji_xia_00033
+  rotate: false
+  xy: 458, 1663
+  size: 48, 22
+  orig: 472, 216
+  offset: 210, 75
+  index: -1

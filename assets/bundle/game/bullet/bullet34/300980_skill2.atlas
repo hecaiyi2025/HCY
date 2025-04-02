@@ -1,0 +1,349 @@
+
+300980_skill2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effects/ef_glow
+  rotate: false
+  xy: 879, 1209
+  size: 103, 103
+  orig: 115, 115
+  offset: 6, 6
+  index: -1
+images/effects/ef_glow2
+  rotate: false
+  xy: 1362, 1551
+  size: 109, 109
+  orig: 115, 115
+  offset: 3, 3
+  index: -1
+images/effects/技能受击/技能受击_00
+  rotate: false
+  xy: 2, 1534
+  size: 540, 450
+  orig: 540, 450
+  offset: 0, 0
+  index: -1
+images/effects/技能受击/技能受击_01
+  rotate: true
+  xy: 2, 15
+  size: 226, 179
+  orig: 540, 450
+  offset: 150, 132
+  index: -1
+images/effects/技能受击/技能受击_02
+  rotate: 180
+  xy: 723, 12
+  size: 240, 219
+  orig: 540, 450
+  offset: 138, 132
+  index: -1
+images/effects/技能受击/技能受击_03
+  rotate: 180
+  xy: 496, 82
+  size: 270, 279
+  orig: 540, 450
+  offset: 123, 128
+  index: -1
+images/effects/技能受击/技能受击_04
+  rotate: 180
+  xy: 358, 270
+  size: 289, 289
+  orig: 540, 450
+  offset: 114, 125
+  index: -1
+images/effects/技能受击/技能受击_05
+  rotate: 180
+  xy: 1496, 180
+  size: 313, 300
+  orig: 540, 450
+  offset: 99, 125
+  index: -1
+images/effects/技能受击/技能受击_06
+  rotate: 180
+  xy: 2, 852
+  size: 310, 295
+  orig: 540, 450
+  offset: 104, 121
+  index: -1
+images/effects/技能受击/技能受击_07
+  rotate: false
+  xy: 681, 858
+  size: 313, 252
+  orig: 540, 450
+  offset: 106, 121
+  index: -1
+images/effects/技能受击/技能受击_08
+  rotate: false
+  xy: 960, 1002
+  size: 318, 257
+  orig: 540, 450
+  offset: 104, 118
+  index: -1
+images/effects/技能受击/技能受击_09
+  rotate: 180
+  xy: 1269, 1057
+  size: 320, 267
+  orig: 540, 450
+  offset: 108, 115
+  index: -1
+images/effects/技能受击/技能受击_10
+  rotate: 180
+  xy: 550, 1066
+  size: 328, 273
+  orig: 540, 450
+  offset: 106, 127
+  index: -1
+images/effects/技能受击/技能受击_11
+  rotate: 180
+  xy: 238, 980
+  size: 323, 279
+  orig: 540, 450
+  offset: 112, 122
+  index: -1
+images/effects/技能受击/技能受击_12
+  rotate: false
+  xy: 92, 656
+  size: 323, 245
+  orig: 540, 450
+  offset: 112, 128
+  index: -1
+images/effects/技能受击/技能受击_13
+  rotate: 180
+  xy: 258, 514
+  size: 340, 254
+  orig: 540, 450
+  offset: 101, 125
+  index: -1
+images/effects/技能受击/技能受击_14
+  rotate: false
+  xy: 1352, 417
+  size: 339, 247
+  orig: 540, 450
+  offset: 103, 122
+  index: -1
+images/effects/技能受击/技能受击_15
+  rotate: false
+  xy: 574, 629
+  size: 325, 246
+  orig: 540, 450
+  offset: 104, 118
+  index: -1
+images/effects/技能受击/技能受击_16
+  rotate: false
+  xy: 589, 406
+  size: 327, 241
+  orig: 540, 450
+  offset: 106, 124
+  index: -1
+images/effects/技能受击/技能受击_17
+  rotate: false
+  xy: 1151, 208
+  size: 347, 263
+  orig: 540, 450
+  offset: 99, 123
+  index: -1
+images/effects/技能受击/技能受击_18
+  rotate: 180
+  xy: 2, 376
+  size: 359, 268
+  orig: 540, 450
+  offset: 92, 125
+  index: -1
+images/effects/技能受击/技能受击_19
+  rotate: 180
+  xy: 1729, 305
+  size: 317, 264
+  orig: 540, 450
+  offset: 105, 129
+  index: -1
+images/effects/技能受击/技能受击_20
+  rotate: 180
+  xy: 1718, 532
+  size: 328, 277
+  orig: 540, 450
+  offset: 93, 118
+  index: -1
+images/effects/技能受击/技能受击_21
+  rotate: 270
+  xy: 1568, 949
+  size: 324, 272
+  orig: 540, 450
+  offset: 98, 119
+  index: -1
+images/effects/技能受击/技能受击_22
+  rotate: 180
+  xy: 1167, 570
+  size: 322, 287
+  orig: 540, 450
+  offset: 111, 126
+  index: -1
+images/effects/技能受击/技能受击_23
+  rotate: 180
+  xy: 964, 354
+  size: 329, 289
+  orig: 540, 450
+  offset: 105, 127
+  index: -1
+images/effects/技能受击/技能受击_24
+  rotate: 180
+  xy: 980, 741
+  size: 333, 275
+  orig: 540, 450
+  offset: 102, 127
+  index: -1
+images/effects/技能受击/技能受击_25
+  rotate: 180
+  xy: 1463, 647
+  size: 335, 282
+  orig: 540, 450
+  offset: 102, 124
+  index: -1
+images/effects/技能受击/技能受击_26
+  rotate: 180
+  xy: 1711, 825
+  size: 336, 284
+  orig: 540, 450
+  offset: 103, 123
+  index: -1
+images/effects/技能受击/技能受击_27
+  rotate: false
+  xy: 843, 504
+  size: 326, 281
+  orig: 540, 450
+  offset: 103, 128
+  index: -1
+images/effects/技能受击/技能受击_28
+  rotate: 180
+  xy: 1285, 832
+  size: 361, 266
+  orig: 540, 450
+  offset: 103, 131
+  index: -1
+images/effects/技能受击/技能受击_29
+  rotate: 180
+  xy: 339, 778
+  size: 347, 262
+  orig: 540, 450
+  offset: 108, 130
+  index: -1
+images/effects/技能受击/技能受击_30
+  rotate: 180
+  xy: 70, 162
+  size: 335, 239
+  orig: 540, 450
+  offset: 100, 133
+  index: -1
+images/effects/技能受击/技能受击_31
+  rotate: 180
+  xy: 744, 188
+  size: 321, 259
+  orig: 540, 450
+  offset: 103, 117
+  index: -1
+images/effects/技能受击/技能受击_32
+  rotate: 180
+  xy: 1263, 12
+  size: 319, 223
+  orig: 540, 450
+  offset: 102, 121
+  index: -1
+images/effects/技能受击/技能受击_33
+  rotate: 180
+  xy: 969, 79
+  size: 316, 221
+  orig: 540, 450
+  offset: 109, 130
+  index: -1
+images/effects/技能受击/技能受击_34
+  rotate: 180
+  xy: 1738, 85
+  size: 308, 225
+  orig: 540, 450
+  offset: 117, 126
+  index: -1
+images/effects/技能受击/技能受击_35
+  rotate: 180
+  xy: 198, 4
+  size: 329, 222
+  orig: 540, 450
+  offset: 114, 127
+  index: -1
+images/effects/技能施法3/技能施法3_00
+  rotate: false
+  xy: 984, 1240
+  size: 446, 280
+  orig: 540, 360
+  offset: 90, 31
+  index: -1
+images/effects/技能施法3/技能施法3_01
+  rotate: 270
+  xy: 2, 1115
+  size: 418, 275
+  orig: 540, 360
+  offset: 91, 45
+  index: -1
+images/effects/技能施法3/技能施法3_02
+  rotate: 270
+  xy: 1752, 1104
+  size: 423, 294
+  orig: 540, 360
+  offset: 90, 35
+  index: -1
+images/effects/技能施法3/技能施法3_03
+  rotate: 180
+  xy: 273, 1250
+  size: 439, 305
+  orig: 540, 360
+  offset: 76, 21
+  index: -1
+images/effects/技能施法3/技能施法3_04
+  rotate: true
+  xy: 1063, 1542
+  size: 443, 342
+  orig: 540, 360
+  offset: 70, 18
+  index: -1
+images/effects/技能施法3/技能施法3_05
+  rotate: 270
+  xy: 841, 1563
+  size: 422, 332
+  orig: 540, 360
+  offset: 87, 14
+  index: -1
+images/effects/技能施法3/技能施法3_06
+  rotate: true
+  xy: 544, 1556
+  size: 429, 335
+  orig: 540, 360
+  offset: 76, 25
+  index: -1
+images/effects/技能施法3/技能施法3_07
+  rotate: true
+  xy: 1672, 1553
+  size: 433, 324
+  orig: 540, 360
+  offset: 72, 36
+  index: -1
+images/effects/技能施法3/技能施法3_08
+  rotate: true
+  xy: 1405, 1553
+  size: 432, 282
+  orig: 540, 360
+  offset: 81, 56
+  index: -1
+images/effects/技能施法3/技能施法3_09
+  rotate: 180
+  xy: 678, 1311
+  size: 417, 298
+  orig: 540, 360
+  offset: 87, 48
+  index: -1
+images/effects/技能施法3/技能施法3_10
+  rotate: 180
+  xy: 1413, 1284
+  size: 429, 310
+  orig: 540, 360
+  offset: 89, 46
+  index: -1

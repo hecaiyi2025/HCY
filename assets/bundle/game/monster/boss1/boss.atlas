@@ -1,0 +1,97 @@
+
+boss.png
+size: 316,650
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 163, 201
+  size: 109, 50
+  orig: 111, 52
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 163, 122
+  size: 77, 38
+  orig: 81, 42
+  offset: 2, 2
+  index: -1
+body
+  rotate: true
+  xy: 2, 447
+  size: 201, 225
+  orig: 229, 241
+  offset: 28, 0
+  index: -1
+kuzi
+  rotate: true
+  xy: 229, 457
+  size: 191, 85
+  orig: 191, 101
+  offset: 0, 16
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 312
+  size: 225, 133
+  orig: 227, 135
+  offset: 1, 1
+  index: -1
+youbi
+  rotate: true
+  xy: 2, 5
+  size: 71, 88
+  orig: 71, 114
+  offset: 0, 26
+  index: -1
+youjian
+  rotate: false
+  xy: 229, 242
+  size: 76, 101
+  orig: 78, 108
+  offset: 1, 1
+  index: -1
+youshou
+  rotate: true
+  xy: 112, 28
+  size: 92, 74
+  orig: 94, 76
+  offset: 1, 1
+  index: -1
+youtui
+  rotate: true
+  xy: 2, 78
+  size: 89, 108
+  orig: 89, 108
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 229, 345
+  size: 71, 110
+  orig: 90, 184
+  offset: 0, 74
+  index: -1
+zuojian
+  rotate: true
+  xy: 2, 169
+  size: 141, 159
+  orig: 151, 161
+  offset: 8, 1
+  index: -1
+zuoshou
+  rotate: false
+  xy: 203, 2
+  size: 108, 128
+  orig: 110, 130
+  offset: 1, 1
+  index: -1
+zuotui
+  rotate: false
+  xy: 215, 132
+  size: 94, 108
+  orig: 94, 108
+  offset: 0, 0
+  index: -1

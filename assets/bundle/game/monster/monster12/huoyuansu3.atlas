@@ -1,0 +1,41 @@
+
+huoyuansu3.png
+size: 108,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoyuansu_0
+  rotate: 270
+  xy: 2, 3
+  size: 41, 60
+  orig: 60, 84
+  offset: 10, 13
+  index: -1
+huoyuansu_1
+  rotate: 270
+  xy: 72, 87
+  size: 30, 31
+  orig: 45, 45
+  offset: 7, 7
+  index: -1
+huoyuansu_2
+  rotate: 180
+  xy: 8, 45
+  size: 78, 66
+  orig: 116, 98
+  offset: 19, 17
+  index: -1
+huoyuansu_3
+  rotate: false
+  xy: 2, 97
+  size: 88, 103
+  orig: 132, 150
+  offset: 20, 22
+  index: -1
+huoyuansu_4
+  rotate: 180
+  xy: 53, 8
+  size: 43, 45
+  orig: 65, 68
+  offset: 11, 12
+  index: -1

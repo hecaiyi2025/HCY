@@ -1,0 +1,153 @@
+
+daoyou9.png
+size: 220,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoyou9_0
+  rotate: true
+  xy: 198, 67
+  size: 22, 18
+  orig: 33, 26
+  offset: 5, 5
+  index: -1
+daoyou9_1
+  rotate: false
+  xy: 184, 51
+  size: 21, 23
+  orig: 30, 33
+  offset: 4, 6
+  index: -1
+daoyou9_10
+  rotate: false
+  xy: 12, 6
+  size: 65, 21
+  orig: 93, 30
+  offset: 14, 5
+  index: -1
+daoyou9_11
+  rotate: false
+  xy: 2, 77
+  size: 113, 102
+  orig: 168, 152
+  offset: 27, 25
+  index: -1
+daoyou9_12
+  rotate: true
+  xy: 116, 26
+  size: 45, 48
+  orig: 66, 71
+  offset: 10, 11
+  index: -1
+daoyou9_13
+  rotate: false
+  xy: 176, 145
+  size: 26, 33
+  orig: 38, 47
+  offset: 5, 8
+  index: -1
+daoyou9_14
+  rotate: false
+  xy: 170, 82
+  size: 28, 33
+  orig: 42, 45
+  offset: 7, 6
+  index: -1
+daoyou9_15
+  rotate: 270
+  xy: 109, 71
+  size: 39, 65
+  orig: 59, 89
+  offset: 10, 12
+  index: -1
+daoyou9_16
+  rotate: false
+  xy: 182, 4
+  size: 25, 46
+  orig: 33, 69
+  offset: 3, 12
+  index: -1
+daoyou9_17
+  rotate: 270
+  xy: 112, 4
+  size: 22, 56
+  orig: 33, 83
+  offset: 5, 13
+  index: -1
+daoyou9_18
+  rotate: true
+  xy: 194, 115
+  size: 25, 17
+  orig: 36, 24
+  offset: 5, 4
+  index: -1
+daoyou9_19
+  rotate: false
+  xy: 176, 115
+  size: 21, 27
+  orig: 32, 41
+  offset: 5, 7
+  index: -1
+daoyou9_2
+  rotate: false
+  xy: 94, 72
+  size: 20, 19
+  orig: 30, 27
+  offset: 5, 4
+  index: -1
+daoyou9_20
+  rotate: false
+  xy: 23, 54
+  size: 19, 15
+  orig: 29, 23
+  offset: 5, 4
+  index: -1
+daoyou9_3
+  rotate: 270
+  xy: 105, 151
+  size: 28, 16
+  orig: 41, 21
+  offset: 7, 3
+  index: -1
+daoyou9_4
+  rotate: 180
+  xy: 2, 28
+  size: 128, 43
+  orig: 159, 65
+  offset: 8, 11
+  index: -1
+daoyou9_5
+  rotate: 180
+  xy: 114, 110
+  size: 62, 68
+  orig: 90, 101
+  offset: 15, 16
+  index: -1
+daoyou9_6
+  rotate: 180
+  xy: 152, 27
+  size: 36, 43
+  orig: 54, 63
+  offset: 9, 10
+  index: -1
+daoyou9_7
+  rotate: true
+  xy: 74, 11
+  size: 44, 43
+  orig: 66, 63
+  offset: 11, 10
+  index: -1
+daoyou9_8
+  rotate: true
+  xy: 2, 38
+  size: 73, 26
+  orig: 101, 33
+  offset: 14, 2
+  index: -1
+daoyou9_9
+  rotate: 180
+  xy: 26, 67
+  size: 62, 13
+  orig: 93, 17
+  offset: 15, 3
+  index: -1

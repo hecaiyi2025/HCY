@@ -1,0 +1,83 @@
+
+role2.png
+size: 112,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q_0
+  rotate: true
+  xy: 81, 51
+  size: 75, 23
+  orig: 113, 33
+  offset: 19, 5
+  index: -1
+q_1
+  rotate: 180
+  xy: 25, 10
+  size: 63, 14
+  orig: 93, 21
+  offset: 14, 4
+  index: -1
+q_10
+  rotate: false
+  xy: 2, 114
+  size: 17, 17
+  orig: 24, 26
+  offset: 4, 5
+  index: -1
+q_2
+  rotate: 180
+  xy: 8, 42
+  size: 62, 25
+  orig: 96, 36
+  offset: 17, 5
+  index: -1
+q_3
+  rotate: false
+  xy: 2, 117
+  size: 105, 105
+  orig: 158, 158
+  offset: 25, 27
+  index: -1
+q_4
+  rotate: true
+  xy: 16, 26
+  size: 22, 28
+  orig: 33, 42
+  offset: 5, 7
+  index: -1
+q_5
+  rotate: true
+  xy: 89, 7
+  size: 21, 19
+  orig: 32, 30
+  offset: 5, 6
+  index: -1
+q_6
+  rotate: 180
+  xy: 2, 66
+  size: 67, 52
+  orig: 98, 77
+  offset: 15, 12
+  index: -1
+q_7
+  rotate: 270
+  xy: 45, 19
+  size: 23, 22
+  orig: 36, 36
+  offset: 6, 7
+  index: -1
+q_8
+  rotate: 180
+  xy: 68, 28
+  size: 25, 22
+  orig: 41, 32
+  offset: 8, 5
+  index: -1
+q_9
+  rotate: 270
+  xy: 2, 3
+  size: 20, 27
+  orig: 29, 41
+  offset: 4, 7
+  index: -1

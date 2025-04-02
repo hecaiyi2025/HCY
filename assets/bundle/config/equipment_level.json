@@ -1,0 +1,110 @@
+[
+    {
+        "id": "1",
+        "type": "1",
+        "level": "1",
+        "blood": "1000",
+        "defence": "0",
+        "price": "1000",
+        "remarks": ""
+    },
+    {
+        "id": "2",
+        "type": "1",
+        "level": "2",
+        "blood": "3000",
+        "defence": "0",
+        "price": "2000",
+        "remarks": ""
+    },
+    {
+        "id": "3",
+        "type": "1",
+        "level": "3",
+        "blood": "5000",
+        "defence": "0",
+        "price": "3000",
+        "remarks": ""
+    },
+    {
+        "id": "4",
+        "type": "1",
+        "level": "4",
+        "blood": "7000",
+        "defence": "0",
+        "price": "4000",
+        "remarks": ""
+    },
+    {
+        "id": "5",
+        "type": "1",
+        "level": "5",
+        "blood": "9000",
+        "defence": "0",
+        "price": "5000",
+        "remarks": ""
+    },
+    {
+        "id": "6",
+        "type": "1",
+        "level": "6",
+        "blood": "11000",
+        "defence": "0",
+        "price": "6000",
+        "remarks": ""
+    },
+    {
+        "id": "7",
+        "type": "2",
+        "level": "1",
+        "blood": "1000",
+        "defence": "0",
+        "price": "1000",
+        "remarks": ""
+    },
+    {
+        "id": "8",
+        "type": "2",
+        "level": "2",
+        "blood": "3000",
+        "defence": "0",
+        "price": "2000",
+        "remarks": ""
+    },
+    {
+        "id": "9",
+        "type": "2",
+        "level": "3",
+        "blood": "5000",
+        "defence": "0",
+        "price": "3000",
+        "remarks": ""
+    },
+    {
+        "id": "10",
+        "type": "2",
+        "level": "4",
+        "blood": "7000",
+        "defence": "0",
+        "price": "4000",
+        "remarks": ""
+    },
+    {
+        "id": "11",
+        "type": "2",
+        "level": "5",
+        "blood": "9000",
+        "defence": "0",
+        "price": "5000",
+        "remarks": ""
+    },
+    {
+        "id": "12",
+        "type": "2",
+        "level": "6",
+        "blood": "11000",
+        "defence": "0",
+        "price": "6000",
+        "remarks": ""
+    }
+]

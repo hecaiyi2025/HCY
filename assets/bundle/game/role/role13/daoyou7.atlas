@@ -1,0 +1,97 @@
+
+daoyou7.png
+size: 368,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoyou7_0
+  rotate: false
+  xy: 116, 6
+  size: 38, 30
+  orig: 54, 41
+  offset: 8, 5
+  index: -1
+daoyou7_1
+  rotate: true
+  xy: 309, 14
+  size: 62, 26
+  orig: 92, 33
+  offset: 15, 6
+  index: -1
+daoyou7_10
+  rotate: 180
+  xy: 331, 6
+  size: 22, 23
+  orig: 32, 36
+  offset: 4, 6
+  index: -1
+daoyou7_11
+  rotate: 180
+  xy: 330, 64
+  size: 22, 23
+  orig: 32, 35
+  offset: 5, 6
+  index: -1
+daoyou7_12
+  rotate: false
+  xy: 101, 30
+  size: 76, 74
+  orig: 111, 110
+  offset: 16, 19
+  index: -1
+daoyou7_2
+  rotate: true
+  xy: 349, 56
+  size: 42, 17
+  orig: 63, 26
+  offset: 10, 5
+  index: -1
+daoyou7_3
+  rotate: false
+  xy: 276, 33
+  size: 24, 41
+  orig: 36, 60
+  offset: 6, 10
+  index: -1
+daoyou7_4
+  rotate: false
+  xy: 164, 3
+  size: 70, 64
+  orig: 105, 95
+  offset: 17, 15
+  index: -1
+daoyou7_5
+  rotate: false
+  xy: 2, 4
+  size: 117, 101
+  orig: 176, 152
+  offset: 29, 26
+  index: -1
+daoyou7_6
+  rotate: true
+  xy: 230, 10
+  size: 36, 59
+  orig: 51, 84
+  offset: 7, 12
+  index: -1
+daoyou7_7
+  rotate: 180
+  xy: 298, 7
+  size: 21, 52
+  orig: 30, 77
+  offset: 4, 12
+  index: -1
+daoyou7_8
+  rotate: false
+  xy: 230, 48
+  size: 52, 57
+  orig: 75, 84
+  offset: 12, 13
+  index: -1
+daoyou7_9
+  rotate: true
+  xy: 296, 77
+  size: 25, 36
+  orig: 36, 54
+  offset: 5, 9
+  index: -1

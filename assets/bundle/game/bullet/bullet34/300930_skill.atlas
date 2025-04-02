@@ -1,0 +1,181 @@
+
+300930_skill.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effects/sanjiao1
+  rotate: false
+  xy: 233, 507
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_00
+  rotate: false
+  xy: 2, 568
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_01
+  rotate: 180
+  xy: 391, 568
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_02
+  rotate: false
+  xy: 793, 568
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_03
+  rotate: 180
+  xy: 1182, 568
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_04
+  rotate: false
+  xy: 1584, 568
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_05
+  rotate: false
+  xy: 337, 446
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_06
+  rotate: false
+  xy: 1129, 446
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_07
+  rotate: 180
+  xy: 1645, 452
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_08
+  rotate: 180
+  xy: 727, 407
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_09
+  rotate: false
+  xy: 1531, 350
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_10
+  rotate: false
+  xy: 2, 320
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_11
+  rotate: 180
+  xy: 1129, 308
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_12
+  rotate: false
+  xy: 615, 303
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_13
+  rotate: 180
+  xy: 213, 257
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_14
+  rotate: 180
+  xy: 1639, 250
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_15
+  rotate: 180
+  xy: 727, 205
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_16
+  rotate: false
+  xy: 1129, 168
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_17
+  rotate: false
+  xy: 1531, 146
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_18
+  rotate: false
+  xy: 160, 134
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_19
+  rotate: false
+  xy: 615, 101
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_20
+  rotate: 180
+  xy: 1645, 48
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_21
+  rotate: 180
+  xy: 1129, 30
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_22
+  rotate: 180
+  xy: 213, 15
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+images/effects/skill_ju/skill_ju_23
+  rotate: 180
+  xy: 727, 3
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1

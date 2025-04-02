@@ -1,0 +1,104 @@
+
+302620_skill3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/5上层1/上层1_03
+  rotate: false
+  xy: 236, 423
+  size: 171, 126
+  orig: 1300, 800
+  offset: 328, 274
+  index: -1
+skill/5上层1/上层1_04
+  rotate: false
+  xy: 474, 488
+  size: 178, 130
+  orig: 1300, 800
+  offset: 324, 273
+  index: -1
+skill/5上层1/上层1_05
+  rotate: false
+  xy: 754, 519
+  size: 202, 149
+  orig: 1300, 800
+  offset: 317, 275
+  index: -1
+skill/5上层1/上层1_06
+  rotate: false
+  xy: 541, 620
+  size: 211, 162
+  orig: 1300, 800
+  offset: 314, 267
+  index: -1
+skill/5上层1/上层1_07
+  rotate: false
+  xy: 541, 784
+  size: 220, 214
+  orig: 1300, 800
+  offset: 308, 270
+  index: -1
+skill/5上层1/上层1_08
+  rotate: false
+  xy: 763, 822
+  size: 231, 176
+  orig: 1300, 800
+  offset: 305, 269
+  index: -1
+skill/5上层1/上层1_09
+  rotate: false
+  xy: 763, 670
+  size: 235, 150
+  orig: 1300, 800
+  offset: 305, 269
+  index: -1
+skill/5上层1/上层1_10
+  rotate: false
+  xy: 2, 545
+  size: 232, 115
+  orig: 1300, 800
+  offset: 304, 263
+  index: -1
+skill/5上层1/上层1_11
+  rotate: false
+  xy: 236, 551
+  size: 236, 109
+  orig: 1300, 800
+  offset: 304, 262
+  index: -1
+skill/5上层1/上层1_12
+  rotate: false
+  xy: 996, 997
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+skill/5上层1/上层1_13
+  rotate: false
+  xy: 996, 997
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+skill/5上层1/上层1_14
+  rotate: false
+  xy: 996, 997
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+skill/5上层1/上层1_15
+  rotate: false
+  xy: 996, 997
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+skill/6暗底/暗底_03
+  rotate: false
+  xy: 2, 662
+  size: 537, 336
+  orig: 1300, 800
+  offset: 137, 137
+  index: -1

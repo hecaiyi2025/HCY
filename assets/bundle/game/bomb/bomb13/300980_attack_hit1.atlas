@@ -1,0 +1,216 @@
+
+300980_attack_hit1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effects/ef_glow2
+  rotate: false
+  xy: 669, 1379
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+images/effects/大水花上/大水花上_00
+  rotate: false
+  xy: 1468, 1903
+  size: 277, 134
+  orig: 665, 380
+  offset: 195, 74
+  index: -1
+images/effects/大水花上/大水花上_01
+  rotate: 270
+  xy: 1651, 97
+  size: 360, 187
+  orig: 665, 380
+  offset: 168, 64
+  index: -1
+images/effects/大水花上/大水花上_02
+  rotate: 270
+  xy: 1542, 847
+  size: 429, 219
+  orig: 665, 380
+  offset: 140, 62
+  index: -1
+images/effects/大水花上/大水花上_03
+  rotate: true
+  xy: 1427, 50
+  size: 432, 231
+  orig: 665, 380
+  offset: 129, 56
+  index: -1
+images/effects/大水花上/大水花上_04
+  rotate: true
+  xy: 1293, 1575
+  size: 462, 241
+  orig: 665, 380
+  offset: 108, 50
+  index: -1
+images/effects/大水花上/大水花上_05
+  rotate: true
+  xy: 1200, 1128
+  size: 491, 237
+  orig: 665, 380
+  offset: 98, 57
+  index: -1
+images/effects/大水花上/大水花上_06
+  rotate: true
+  xy: 1196, 176
+  size: 510, 248
+  orig: 665, 380
+  offset: 88, 58
+  index: -1
+images/effects/大水花上/大水花上_07
+  rotate: 180
+  xy: 799, 20
+  size: 532, 274
+  orig: 665, 380
+  offset: 79, 55
+  index: -1
+images/effects/大水花上/大水花上_08
+  rotate: true
+  xy: 842, 1048
+  size: 552, 289
+  orig: 665, 380
+  offset: 68, 56
+  index: -1
+images/effects/大水花上/大水花上_09
+  rotate: true
+  xy: 669, 1470
+  size: 568, 294
+  orig: 665, 380
+  offset: 55, 56
+  index: -1
+images/effects/大水花上/大水花上_10
+  rotate: true
+  xy: 598, 754
+  size: 577, 298
+  orig: 665, 380
+  offset: 55, 62
+  index: -1
+images/effects/大水花上/大水花上_11
+  rotate: 180
+  xy: 2, 63
+  size: 588, 306
+  orig: 665, 380
+  offset: 37, 61
+  index: -1
+images/effects/大水花上/大水花上_12
+  rotate: false
+  xy: 2, 348
+  size: 591, 307
+  orig: 665, 380
+  offset: 33, 63
+  index: -1
+images/effects/大水花上/大水花上_13
+  rotate: false
+  xy: 2, 953
+  size: 601, 320
+  orig: 665, 380
+  offset: 22, 59
+  index: -1
+images/effects/大水花上/大水花上_14
+  rotate: false
+  xy: 2, 1656
+  size: 665, 380
+  orig: 665, 380
+  offset: 0, 0
+  index: -1
+images/effects/大水花上/大水花上_15
+  rotate: false
+  xy: 2, 1274
+  size: 665, 380
+  orig: 665, 380
+  offset: 0, 0
+  index: -1
+images/effects/大水花上/大水花上_16
+  rotate: 180
+  xy: 2, 651
+  size: 637, 309
+  orig: 665, 380
+  offset: 0, 71
+  index: -1
+images/effects/大水花上/大水花上_17
+  rotate: true
+  xy: 568, 67
+  size: 644, 303
+  orig: 665, 380
+  offset: 0, 77
+  index: -1
+images/effects/大水花上/大水花上_18
+  rotate: 270
+  xy: 822, 339
+  size: 630, 285
+  orig: 665, 380
+  offset: 35, 78
+  index: -1
+images/effects/大水花上/大水花上_19
+  rotate: 270
+  xy: 1034, 1419
+  size: 618, 270
+  orig: 665, 380
+  offset: 31, 77
+  index: -1
+images/effects/大水花上/大水花上_20
+  rotate: 270
+  xy: 1059, 512
+  size: 641, 270
+  orig: 665, 380
+  offset: 19, 74
+  index: -1
+images/effects/大水花上/大水花上_21
+  rotate: 270
+  xy: 1325, 588
+  size: 651, 281
+  orig: 665, 380
+  offset: 8, 60
+  index: -1
+images/effects/大水花上/大水花上_22
+  rotate: 270
+  xy: 1457, 1228
+  size: 638, 246
+  orig: 665, 380
+  offset: 27, 74
+  index: -1
+images/effects/大水花上/大水花上_23
+  rotate: 270
+  xy: 1600, 1497
+  size: 449, 242
+  orig: 665, 380
+  offset: 146, 62
+  index: -1
+images/effects/大水花上/大水花上_24
+  rotate: 270
+  xy: 1501, 378
+  size: 492, 236
+  orig: 665, 380
+  offset: 122, 62
+  index: -1
+images/effects/大水花上/大水花上_25
+  rotate: true
+  xy: 1687, 1150
+  size: 371, 145
+  orig: 665, 380
+  offset: 146, 94
+  index: -1
+images/effects/大水花上/大水花上_26
+  rotate: 180
+  xy: 1319, 3
+  size: 449, 132
+  orig: 665, 380
+  offset: 152, 107
+  index: -1
+images/effects/大水花上/大水花上_27
+  rotate: true
+  xy: 935, 1578
+  size: 417, 100
+  orig: 665, 380
+  offset: 185, 105
+  index: -1
+images/effects/大水花上/大水花上_28
+  rotate: true
+  xy: 1710, 457
+  size: 442, 100
+  orig: 665, 380
+  offset: 186, 100
+  index: -1

@@ -1,0 +1,48 @@
+
+bing2.png
+size: 104,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bin2_1
+  rotate: true
+  xy: 29, 3
+  size: 23, 42
+  orig: 30, 52
+  offset: 3, 4
+  index: -1
+bin2_2
+  rotate: 180
+  xy: 2, 5
+  size: 23, 40
+  orig: 30, 52
+  offset: 3, 6
+  index: -1
+bin2_3
+  rotate: false
+  xy: 78, 94
+  size: 21, 36
+  orig: 29, 43
+  offset: 4, 3
+  index: -1
+bin2_4
+  rotate: false
+  xy: 80, 61
+  size: 20, 32
+  orig: 25, 40
+  offset: 2, 5
+  index: -1
+bin2_5
+  rotate: false
+  xy: 62, 11
+  size: 26, 40
+  orig: 34, 48
+  offset: 4, 4
+  index: -1
+bin2_6
+  rotate: false
+  xy: 2, 25
+  size: 79, 105
+  orig: 100, 135
+  offset: 10, 15
+  index: -1

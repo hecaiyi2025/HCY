@@ -1,0 +1,19 @@
+[
+  {
+    "id": "2001",
+    "type": "1",
+    "name": "%E7%A5%9E%E5%83%A7",
+    "res": "game/role/role1/role1",
+    "blood": "1000",
+    "attack": "100",
+    "defence": "0",
+    "interval": "2",
+    "skill": "6001",
+    "activeSkill": "6007",
+    "distance": "-1",
+    "bulletOffset": "{\"x\":\"60\",\"y\":\"-15\"}",
+    "skillInterval": "0.5",
+    "cloudId": "33001",
+    "remarks": ""
+  }
+]

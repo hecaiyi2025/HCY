@@ -8,6 +8,7 @@
 import { ecs } from "../../../../extensions/oops-plugin-framework/assets/libs/ecs/ECS";
 import { Account } from "../account/Account";
 import { Initialize } from "../initialize/Initialize";
+import { Role } from "../Role/Role";
 
 /** 游戏单例业务模块 */
 @ecs.register('SingletonModule')
@@ -16,6 +17,7 @@ export class SingletonModuleComp extends ecs.Comp {
     initialize: Initialize = null!;
     /** 游戏账号模块 */
     account: Account = null!;
+    role: Role = null!;
 
     reset() { }
 }

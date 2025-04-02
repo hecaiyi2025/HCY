@@ -1,0 +1,69 @@
+
+600100_skill3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+54光片/gp_21
+  rotate: false
+  xy: 2, 189
+  size: 338, 338
+  orig: 1350, 900
+  offset: 506, 281
+  index: -1
+55聚气环闪电 合成 2/55聚气环闪电 合成 2_00000
+  rotate: false
+  xy: 1522, 1778
+  size: 221, 231
+  orig: 840, 826
+  offset: 319, 336
+  index: -1
+55聚气环闪电 合成 2/55聚气环闪电 合成 2_00003
+  rotate: false
+  xy: 1417, 661
+  size: 592, 618
+  orig: 840, 826
+  offset: 108, 141
+  index: -1
+55聚气环闪电 合成 2/55聚气环闪电 合成 2_00004
+  rotate: false
+  xy: 751, 551
+  size: 664, 687
+  orig: 840, 826
+  offset: 83, 114
+  index: -1
+55聚气环闪电 合成 2/55聚气环闪电 合成 2_00007
+  rotate: false
+  xy: 793, 1281
+  size: 727, 728
+  orig: 840, 826
+  offset: 86, 53
+  index: -1
+55聚气环闪电 合成 2/55聚气环闪电 合成 2_00008
+  rotate: false
+  xy: 751, 548
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+55聚气环闪电 合成 2/55聚气环闪电 合成 2_00011
+  rotate: false
+  xy: 751, 548
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+55聚气环闪电 合成 2/55聚气环闪电 合成 2_00010
+  rotate: false
+  xy: 2, 529
+  size: 747, 709
+  orig: 840, 826
+  offset: 70, 67
+  index: -1
+55聚气环闪电 合成 2/55聚气环闪电 合成 2_00012
+  rotate: false
+  xy: 2, 1240
+  size: 789, 769
+  orig: 840, 826
+  offset: 24, 26
+  index: -1

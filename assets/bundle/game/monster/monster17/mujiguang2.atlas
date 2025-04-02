@@ -1,0 +1,55 @@
+
+mujiguang2.png
+size: 88,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mujiguang1_4_1
+  rotate: false
+  xy: 2, 101
+  size: 79, 62
+  orig: 100, 77
+  offset: 9, 9
+  index: -1
+mujiguang1_5_1
+  rotate: 270
+  xy: 40, 20
+  size: 34, 37
+  orig: 43, 48
+  offset: 5, 6
+  index: -1
+mujiguang2_1
+  rotate: 180
+  xy: 2, 49
+  size: 82, 58
+  orig: 111, 75
+  offset: 13, 9
+  index: -1
+mujiguang2_2
+  rotate: false
+  xy: 2, 22
+  size: 36, 30
+  orig: 47, 36
+  offset: 5, 2
+  index: -1
+mujiguang2_5
+  rotate: true
+  xy: 22, 4
+  size: 20, 25
+  orig: 25, 33
+  offset: 2, 4
+  index: -1
+mujiguang2_6
+  rotate: true
+  xy: 2, 3
+  size: 23, 19
+  orig: 29, 25
+  offset: 2, 2
+  index: -1
+mujiguang2_7
+  rotate: 180
+  xy: 57, 4
+  size: 27, 20
+  orig: 35, 26
+  offset: 4, 3
+  index: -1

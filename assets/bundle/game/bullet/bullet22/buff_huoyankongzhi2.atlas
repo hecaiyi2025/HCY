@@ -1,0 +1,223 @@
+
+buff_huoyankongzhi2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/huoyan2_00
+  rotate: false
+  xy: 689, 15
+  size: 222, 182
+  orig: 400, 400
+  offset: 85, 73
+  index: -1
+images/huoyan2_02
+  rotate: false
+  xy: 231, 183
+  size: 220, 195
+  orig: 400, 400
+  offset: 85, 73
+  index: -1
+images/huoyan2_04
+  rotate: false
+  xy: 1409, 10
+  size: 218, 192
+  orig: 400, 400
+  offset: 85, 73
+  index: -1
+images/huoyan2_06
+  rotate: false
+  xy: 926, 180
+  size: 213, 202
+  orig: 400, 400
+  offset: 90, 73
+  index: -1
+images/huoyan2_08
+  rotate: false
+  xy: 963, 384
+  size: 217, 208
+  orig: 400, 400
+  offset: 93, 72
+  index: -1
+images/huoyan2_10
+  rotate: false
+  xy: 242, 380
+  size: 214, 208
+  orig: 400, 400
+  offset: 97, 72
+  index: -1
+images/huoyan2_12
+  rotate: false
+  xy: 1436, 204
+  size: 218, 200
+  orig: 400, 400
+  offset: 91, 69
+  index: -1
+images/huoyan2_14
+  rotate: false
+  xy: 229, 2
+  size: 221, 179
+  orig: 400, 400
+  offset: 91, 70
+  index: -1
+images/huoyan2_16
+  rotate: false
+  xy: 458, 399
+  size: 240, 184
+  orig: 400, 400
+  offset: 80, 73
+  index: -1
+images/huoyan2_18
+  rotate: false
+  xy: 2, 392
+  size: 231, 190
+  orig: 400, 400
+  offset: 83, 73
+  index: -1
+images/huoyan2_20
+  rotate: false
+  xy: 1450, 601
+  size: 242, 191
+  orig: 400, 400
+  offset: 80, 75
+  index: -1
+images/huoyan2_22
+  rotate: false
+  xy: 1206, 595
+  size: 242, 197
+  orig: 400, 400
+  offset: 80, 75
+  index: -1
+images/huoyan2_24
+  rotate: false
+  xy: 487, 585
+  size: 236, 207
+  orig: 400, 400
+  offset: 85, 69
+  index: -1
+images/huoyan2_26
+  rotate: false
+  xy: 1656, 206
+  size: 234, 185
+  orig: 400, 400
+  offset: 81, 70
+  index: -1
+images/huoyan2_28
+  rotate: false
+  xy: 725, 393
+  size: 230, 191
+  orig: 400, 400
+  offset: 85, 70
+  index: -1
+images/huoyan2_30
+  rotate: false
+  xy: 458, 214
+  size: 238, 183
+  orig: 400, 400
+  offset: 78, 72
+  index: -1
+images/huoyan2_32
+  rotate: false
+  xy: 1694, 597
+  size: 237, 195
+  orig: 400, 400
+  offset: 78, 73
+  index: -1
+images/huoyan2_34
+  rotate: false
+  xy: 1450, 406
+  size: 237, 193
+  orig: 400, 400
+  offset: 80, 72
+  index: -1
+images/huoyan2_36
+  rotate: false
+  xy: 242, 590
+  size: 243, 202
+  orig: 400, 400
+  offset: 78, 73
+  index: -1
+images/huoyan2_38
+  rotate: false
+  xy: 2, 584
+  size: 238, 208
+  orig: 400, 400
+  offset: 78, 72
+  index: -1
+images/huoyan2_40
+  rotate: false
+  xy: 725, 586
+  size: 236, 206
+  orig: 400, 400
+  offset: 78, 74
+  index: -1
+images/huoyan2_42
+  rotate: false
+  xy: 963, 594
+  size: 241, 198
+  orig: 400, 400
+  offset: 80, 71
+  index: -1
+images/huoyan2_44
+  rotate: false
+  xy: 1141, 22
+  size: 237, 176
+  orig: 400, 400
+  offset: 82, 73
+  index: -1
+images/huoyan2_46
+  rotate: false
+  xy: 453, 29
+  size: 234, 183
+  orig: 400, 400
+  offset: 87, 74
+  index: -1
+images/huoyan2_48
+  rotate: false
+  xy: 1656, 15
+  size: 225, 189
+  orig: 400, 400
+  offset: 88, 74
+  index: -1
+images/huoyan2_50
+  rotate: false
+  xy: 698, 199
+  size: 226, 192
+  orig: 400, 400
+  offset: 87, 74
+  index: -1
+images/huoyan2_52
+  rotate: false
+  xy: 1206, 395
+  size: 228, 198
+  orig: 400, 400
+  offset: 85, 74
+  index: -1
+images/huoyan2_54
+  rotate: false
+  xy: 1689, 393
+  size: 225, 202
+  orig: 400, 400
+  offset: 80, 74
+  index: -1
+images/huoyan2_56
+  rotate: false
+  xy: 2, 15
+  size: 225, 183
+  orig: 400, 400
+  offset: 80, 72
+  index: -1
+images/huoyan2_58
+  rotate: false
+  xy: 2, 200
+  size: 227, 190
+  orig: 400, 400
+  offset: 81, 71
+  index: -1
+images/huoyan2_59
+  rotate: false
+  xy: 1182, 200
+  size: 225, 193
+  orig: 400, 400
+  offset: 83, 74
+  index: -1

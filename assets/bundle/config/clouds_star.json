@@ -1,0 +1,82 @@
+[
+    {
+        "id": "31001",
+        "starLevel": "1",
+        "name": "1%E6%98%9F",
+        "consume": "[{\"id\":\"46\",\"num\":\"5\"}]",
+        "starRatingRestrictions": "{\"min\":\"1\",\"max\":\"5\"}",
+        "remarks": ""
+    },
+    {
+        "id": "31002",
+        "starLevel": "2",
+        "name": "2%E6%98%9F",
+        "consume": "[{\"id\":\"46\",\"num\":\"10\"}]",
+        "starRatingRestrictions": "{\"min\":\"6\",\"max\":\"10\"}",
+        "remarks": ""
+    },
+    {
+        "id": "31003",
+        "starLevel": "3",
+        "name": "3%E6%98%9F",
+        "consume": "[{\"id\":\"46\",\"num\":\"20\"}]",
+        "starRatingRestrictions": "{\"min\":\"11\",\"max\":\"15\"}",
+        "remarks": ""
+    },
+    {
+        "id": "31004",
+        "starLevel": "4",
+        "name": "4%E6%98%9F",
+        "consume": "[{\"id\":\"46\",\"num\":\"30\"}]",
+        "starRatingRestrictions": "{\"min\":\"16\",\"max\":\"20\"}",
+        "remarks": ""
+    },
+    {
+        "id": "31005",
+        "starLevel": "5",
+        "name": "5%E6%98%9F",
+        "consume": "[{\"id\":\"46\",\"num\":\"40\"}]",
+        "starRatingRestrictions": "{\"min\":\"21\",\"max\":\"25\"}",
+        "remarks": ""
+    },
+    {
+        "id": "31006",
+        "starLevel": "6",
+        "name": "6%E6%98%9F",
+        "consume": "[{\"id\":\"46\",\"num\":\"50\"}]",
+        "starRatingRestrictions": "{\"min\":\"26\",\"max\":\"30\"}",
+        "remarks": ""
+    },
+    {
+        "id": "31007",
+        "starLevel": "7",
+        "name": "7%E6%98%9F",
+        "consume": "[{\"id\":\"46\",\"num\":\"60\"}]",
+        "starRatingRestrictions": "{\"min\":\"31\",\"max\":\"35\"}",
+        "remarks": ""
+    },
+    {
+        "id": "31008",
+        "starLevel": "8",
+        "name": "8%E6%98%9F",
+        "consume": "[{\"id\":\"46\",\"num\":\"70\"}]",
+        "starRatingRestrictions": "{\"min\":\"36\",\"max\":\"40\"}",
+        "remarks": ""
+    },
+    {
+        "id": "31009",
+        "starLevel": "9",
+        "name": "9%E6%98%9F",
+        "consume": "[{\"id\":\"46\",\"num\":\"80\"}]",
+        "starRatingRestrictions": "{\"min\":\"41\",\"max\":\"45\"}",
+        "remarks": ""
+    },
+    {
+        "id": "31010",
+        "starLevel": "10",
+        "name": "10%E6%98%9F",
+        "consume": "[{\"id\":\"46\",\"num\":\"99\"}]",
+        "starRatingRestrictions": "{\"min\":\"46\",\"max\":\"50\"}",
+        "remarks": ""
+    }
+]

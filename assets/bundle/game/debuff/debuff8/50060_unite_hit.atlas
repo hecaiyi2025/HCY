@@ -1,0 +1,160 @@
+
+50060_unite_hit.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/buff/buff_00
+  rotate: false
+  xy: 1570, 347
+  size: 235, 239
+  orig: 512, 512
+  offset: 134, 103
+  index: -1
+images/buff/buff_01
+  rotate: true
+  xy: 1807, 347
+  size: 239, 231
+  orig: 512, 512
+  offset: 133, 116
+  index: -1
+images/buff/buff_02
+  rotate: false
+  xy: 1330, 344
+  size: 238, 242
+  orig: 512, 512
+  offset: 133, 120
+  index: -1
+images/buff/buff_03
+  rotate: false
+  xy: 664, 316
+  size: 233, 270
+  orig: 512, 512
+  offset: 133, 123
+  index: -1
+images/buff/buff_04
+  rotate: false
+  xy: 2, 298
+  size: 225, 288
+  orig: 512, 512
+  offset: 133, 125
+  index: -1
+images/buff/buff_05
+  rotate: false
+  xy: 229, 291
+  size: 216, 295
+  orig: 512, 512
+  offset: 133, 130
+  index: -1
+images/buff/buff_06
+  rotate: false
+  xy: 447, 293
+  size: 215, 293
+  orig: 512, 512
+  offset: 133, 140
+  index: -1
+images/buff/buff_07
+  rotate: false
+  xy: 899, 296
+  size: 215, 290
+  orig: 512, 512
+  offset: 133, 144
+  index: -1
+images/buff/buff_08
+  rotate: false
+  xy: 1116, 300
+  size: 212, 286
+  orig: 512, 512
+  offset: 133, 147
+  index: -1
+images/buff/buff_09
+  rotate: true
+  xy: 1570, 135
+  size: 210, 244
+  orig: 512, 512
+  offset: 133, 150
+  index: -1
+images/buff/buff_10
+  rotate: false
+  xy: 1816, 105
+  size: 207, 240
+  orig: 512, 512
+  offset: 133, 152
+  index: -1
+images/buff/buff_11
+  rotate: false
+  xy: 1330, 103
+  size: 204, 239
+  orig: 512, 512
+  offset: 133, 155
+  index: -1
+images/buff/buff_12
+  rotate: true
+  xy: 2, 111
+  size: 178, 237
+  orig: 512, 512
+  offset: 139, 158
+  index: -1
+images/buff/buff_13
+  rotate: true
+  xy: 241, 133
+  size: 156, 236
+  orig: 512, 512
+  offset: 160, 160
+  index: -1
+images/buff/buff_14
+  rotate: true
+  xy: 479, 137
+  size: 154, 232
+  orig: 512, 512
+  offset: 162, 165
+  index: -1
+images/buff/buff_15
+  rotate: true
+  xy: 713, 142
+  size: 152, 229
+  orig: 512, 512
+  offset: 164, 169
+  index: -1
+images/buff/buff_16
+  rotate: true
+  xy: 944, 144
+  size: 150, 210
+  orig: 512, 512
+  offset: 166, 188
+  index: -1
+images/buff/buff_17
+  rotate: false
+  xy: 1156, 109
+  size: 148, 189
+  orig: 512, 512
+  offset: 167, 208
+  index: -1
+images/buff/buff_18
+  rotate: false
+  xy: 944, 2
+  size: 148, 140
+  orig: 512, 512
+  offset: 167, 237
+  index: -1
+images/buff/buff_19
+  rotate: false
+  xy: 479, 5
+  size: 142, 130
+  orig: 512, 512
+  offset: 172, 245
+  index: -1
+images/buff/buff_20
+  rotate: false
+  xy: 241, 13
+  size: 119, 118
+  orig: 512, 512
+  offset: 195, 253
+  index: -1
+images/buff/buff_21
+  rotate: false
+  xy: 362, 23
+  size: 103, 108
+  orig: 512, 512
+  offset: 211, 261
+  index: -1

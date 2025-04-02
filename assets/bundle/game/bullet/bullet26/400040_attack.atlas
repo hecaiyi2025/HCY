@@ -1,0 +1,174 @@
+
+400040_attack.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/1xuli/xuli_15
+  rotate: false
+  xy: 0, 17
+  size: 260, 191
+  orig: 1368, 640
+  offset: 494, 212
+  index: -1
+attack/1xuli/xuli_16
+  rotate: false
+  xy: 1662, 18
+  size: 382, 237
+  orig: 1368, 640
+  offset: 471, 189
+  index: -1
+attack/1xuli/xuli_17
+  rotate: false
+  xy: 1662, 255
+  size: 386, 268
+  orig: 1368, 640
+  offset: 476, 179
+  index: -1
+attack/1xuli/xuli_18
+  rotate: false
+  xy: 1119, 212
+  size: 543, 311
+  orig: 1368, 640
+  offset: 329, 154
+  index: -1
+attack/1xuli/xuli_19
+  rotate: false
+  xy: 1278, 841
+  size: 601, 314
+  orig: 1368, 640
+  offset: 281, 152
+  index: -1
+attack/1xuli/xuli_20
+  rotate: false
+  xy: 0, 1154
+  size: 664, 322
+  orig: 1368, 640
+  offset: 226, 147
+  index: -1
+attack/1xuli/xuli_21
+  rotate: false
+  xy: 1307, 1155
+  size: 638, 321
+  orig: 1368, 640
+  offset: 252, 150
+  index: -1
+attack/1xuli/xuli_22
+  rotate: false
+  xy: 664, 1155
+  size: 643, 321
+  orig: 1368, 640
+  offset: 247, 148
+  index: -1
+attack/1xuli/xuli_23
+  rotate: false
+  xy: 664, 831
+  size: 614, 324
+  orig: 1368, 640
+  offset: 276, 147
+  index: -1
+attack/1xuli/xuli_24
+  rotate: false
+  xy: 0, 837
+  size: 605, 317
+  orig: 1368, 640
+  offset: 285, 151
+  index: -1
+attack/1xuli/xuli_25
+  rotate: false
+  xy: 0, 519
+  size: 562, 318
+  orig: 1368, 640
+  offset: 328, 151
+  index: -1
+attack/1xuli/xuli_26
+  rotate: false
+  xy: 562, 515
+  size: 557, 316
+  orig: 1368, 640
+  offset: 333, 151
+  index: -1
+attack/1xuli/xuli_27
+  rotate: false
+  xy: 1278, 523
+  size: 569, 318
+  orig: 1368, 640
+  offset: 321, 151
+  index: -1
+attack/1xuli/xuli_28
+  rotate: false
+  xy: 0, 208
+  size: 543, 311
+  orig: 1368, 640
+  offset: 347, 151
+  index: -1
+attack/1xuli/xuli_29
+  rotate: false
+  xy: 543, 219
+  size: 521, 296
+  orig: 1368, 640
+  offset: 361, 165
+  index: -1
+attack/1xuli/xuli_30
+  rotate: false
+  xy: 543, 12
+  size: 390, 207
+  orig: 1368, 640
+  offset: 392, 168
+  index: -1
+attack/1xuli/xuli_31
+  rotate: false
+  xy: 933, 2
+  size: 383, 210
+  orig: 1368, 640
+  offset: 376, 161
+  index: -1
+attack/1xuli/xuli_32
+  rotate: false
+  xy: 1316, 0
+  size: 295, 212
+  orig: 1368, 640
+  offset: 365, 156
+  index: -1
+attack/1xuli/xuli_33
+  rotate: true
+  xy: 1119, 543
+  size: 288, 151
+  orig: 1368, 640
+  offset: 359, 215
+  index: -1
+attack/1xuli/xuli_34
+  rotate: false
+  xy: 260, 93
+  size: 122, 115
+  orig: 1368, 640
+  offset: 511, 247
+  index: -1
+attack/1xuli/xuli_35
+  rotate: false
+  xy: 382, 97
+  size: 118, 111
+  orig: 1368, 640
+  offset: 502, 248
+  index: -1
+attack/1xuli/xuli_36
+  rotate: false
+  xy: 382, 3
+  size: 113, 94
+  orig: 1368, 640
+  offset: 497, 256
+  index: -1
+attack/1xuli/xuli_37
+  rotate: false
+  xy: 260, 17
+  size: 100, 76
+  orig: 1368, 640
+  offset: 495, 263
+  index: -1
+attack/1xuli/xuli_38
+  rotate: false
+  xy: 605, 1137
+  size: 44, 17
+  orig: 1368, 640
+  offset: 515, 292
+  index: -1

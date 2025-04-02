@@ -1,0 +1,104 @@
+
+300830_skill1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/1地裂/地裂_02
+  rotate: false
+  xy: 2, 532
+  size: 476, 489
+  orig: 495, 517
+  offset: 6, 17
+  index: -1
+skill/2起身旋风/旋风_02
+  rotate: true
+  xy: 629, 641
+  size: 147, 84
+  orig: 1300, 800
+  offset: 339, 271
+  index: -1
+skill/2起身旋风/旋风_04
+  rotate: true
+  xy: 598, 408
+  size: 178, 130
+  orig: 1300, 800
+  offset: 324, 273
+  index: -1
+skill/2起身旋风/旋风_05
+  rotate: true
+  xy: 480, 588
+  size: 200, 147
+  orig: 1300, 800
+  offset: 317, 275
+  index: -1
+skill/2起身旋风/旋风_06
+  rotate: false
+  xy: 472, 13
+  size: 211, 161
+  orig: 1300, 800
+  offset: 314, 267
+  index: -1
+skill/2起身旋风/旋风_08
+  rotate: true
+  xy: 480, 790
+  size: 231, 175
+  orig: 1300, 800
+  offset: 305, 269
+  index: -1
+skill/2起身旋风/旋风_09
+  rotate: false
+  xy: 236, 2
+  size: 234, 150
+  orig: 1300, 800
+  offset: 306, 269
+  index: -1
+skill/2起身旋风/旋风_10
+  rotate: false
+  xy: 2, 11
+  size: 232, 115
+  orig: 1300, 800
+  offset: 304, 263
+  index: -1
+skill/2起身旋风/旋风_12
+  rotate: true
+  xy: 397, 176
+  size: 354, 199
+  orig: 1300, 800
+  offset: 236, 228
+  index: -1
+skill/2起身旋风/旋风_13
+  rotate: true
+  xy: 202, 154
+  size: 376, 193
+  orig: 1300, 800
+  offset: 234, 226
+  index: -1
+skill/2起身旋风/旋风_14
+  rotate: true
+  xy: 2, 128
+  size: 402, 198
+  orig: 1300, 800
+  offset: 217, 224
+  index: -1
+skill/2起身旋风/旋风_16
+  rotate: false
+  xy: 2, 8
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+skill/2起身旋风/旋风_17
+  rotate: false
+  xy: 2, 8
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+skill/2起身旋风/旋风_18
+  rotate: false
+  xy: 2, 8
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
